@@ -131,7 +131,12 @@ def fetch_logo_for_job(company_name: str) -> str | None:
             tenant_url, headers={"User-Agent": "Mozilla/5.0"}
         )
         with urllib.request.urlopen(req, timeout=10) as response:
-            html = response.read().decode("utf-8")
+            raw = response.read()
+            # Some pages return binary (e.g. JPEG redirect); try utf-8 then latin-1
+            try:
+                html = raw.decode("utf-8")
+            except UnicodeDecodeError:
+                html = raw.decode("latin-1")
             soup = BeautifulSoup(html, "html.parser")
 
             og_image = soup.find("meta", property="og:image")
