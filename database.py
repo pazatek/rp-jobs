@@ -19,7 +19,6 @@ def get_connection():
     # Parse URL explicitly to handle '.' in Supabase pooler usernames
     from urllib.parse import urlparse
     parsed = urlparse(database_url)
-    logger.info("DB connect: user=%s host=%s port=%s db=%s", parsed.username, parsed.hostname, parsed.port, parsed.path)
     return psycopg2.connect(
         host=parsed.hostname,
         port=parsed.port or 5432,
