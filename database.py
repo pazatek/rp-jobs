@@ -16,7 +16,16 @@ def get_connection():
     database_url = os.environ.get("DATABASE_URL")
     if not database_url:
         raise RuntimeError("DATABASE_URL environment variable is not set")
-    return psycopg2.connect(database_url)
+    # Parse URL explicitly to handle '.' in Supabase pooler usernames
+    from urllib.parse import urlparse
+    parsed = urlparse(database_url)
+    return psycopg2.connect(
+        host=parsed.hostname,
+        port=parsed.port or 5432,
+        dbname=parsed.path.lstrip("/"),
+        user=parsed.username,
+        password=parsed.password,
+    )
 
 
 def init_db() -> None:
