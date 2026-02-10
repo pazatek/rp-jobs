@@ -80,13 +80,27 @@ def format_posted_date(posted_date_str: str, published_parsed=None) -> str:
 
 @app.route("/")
 def index():
+    from datetime import datetime, timedelta
+    from zoneinfo import ZoneInfo
+
     jobs = [dict(j) for j in fetch_jobs()]
     jobs.sort(key=lambda x: x.get("published_parsed") or [0] * 9, reverse=True)
+
+    cutoff = datetime.now(ZoneInfo("UTC")) - timedelta(days=3)
 
     for job in jobs:
         job["formatted_date"] = format_posted_date(
             job.get("posted_date"), job.get("published_parsed")
         )
+        pp = job.get("published_parsed")
+        if pp:
+            try:
+                job_dt = datetime(*pp[:6], tzinfo=ZoneInfo("UTC"))
+                job["is_new"] = job_dt > cutoff
+            except Exception:
+                job["is_new"] = False
+        else:
+            job["is_new"] = False
 
     return render_template("index.html", jobs=jobs)
 
@@ -173,8 +187,8 @@ def test_notification():
         return jsonify({"success": False, "message": "No subscribers found"}), 404
 
     fake_jobs = [
-        {"company": "Acme Corp", "position": "Software Engineering Intern - Summer 2026", "link": f"{app_url}"},
-        {"company": "TechStart Inc", "position": "Senior Data Scientist", "link": f"{app_url}"},
+        {"company": "Acme Corp", "position": "Software Engineering Intern - Summer 2026"},
+        {"company": "TechStart Inc", "position": "Senior Data Scientist"},
     ]
 
     count = len(fake_jobs)
@@ -190,12 +204,12 @@ def test_notification():
         html += f"""
           <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
             <strong>{job['company']}</strong><br>
-            {job['position']}<br>
-            <a href="{job['link']}" style="color: #13294b; text-decoration: none;">View Job \u2192</a>
+            {job['position']}
           </li>
         """
     html += f"""
         </ul>
+        <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
           This is a <strong>test notification</strong> from your Research Park Job Monitor.
         </p>

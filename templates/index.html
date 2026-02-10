@@ -62,7 +62,12 @@
                                     </p>
                                 </td>
                                 <td class="px-5 py-5 border-b border-gray-200 text-sm">
-                                    <p class="text-gray-900 whitespace-no-wrap">{{ job.position }}</p>
+                                    <p class="text-gray-900 whitespace-no-wrap">
+                                        {{ job.position }}
+                                        {% if job.is_new %}
+                                        <span class="ml-2 inline-block bg-[#E84A27] text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full uppercase tracking-wide">New</span>
+                                        {% endif %}
+                                    </p>
                                 </td>
                                 <td class="px-5 py-5 border-b border-gray-200 text-sm">
                                     <p class="text-gray-900 whitespace-no-wrap">

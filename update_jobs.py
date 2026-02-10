@@ -350,15 +350,14 @@ def send_email(new_jobs: list[dict]) -> None:
             html += f"""
           <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
             <strong>{job['company']}</strong><br>
-            {job['position']}<br>
-            <a href="{job['link']}" style="color: #13294b; text-decoration: none;">View Job \u2192</a>
+            {job['position']}
           </li>
         """
-        html += """
+        html += f"""
         </ul>
+        <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
-          This is an automated notification from your Research Park Job Monitor.<br>
-          <a href="https://github.com/pazatek/rp-jobs">View Repository</a>
+          This is an automated notification from your Research Park Job Monitor.
         </p>
     """
         if unsubscribe_link:
