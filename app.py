@@ -160,10 +160,7 @@ def unsubscribe():
 
 @app.route("/health")
 def health():
-    db_url = os.environ.get("DATABASE_URL", "NOT SET")
-    # Show only first 20 chars to confirm it's set without leaking creds
-    db_preview = db_url[:20] + "..." if len(db_url) > 20 else db_url
-    return jsonify({"status": "ok", "db": db_preview})
+    return jsonify({"status": "ok"})
 
 
 # Initialize DB on startup

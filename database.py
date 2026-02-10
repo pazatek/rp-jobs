@@ -73,7 +73,7 @@ def add_subscriber(email: str) -> dict:
         return {"success": True, "message": "Successfully subscribed!"}
     except Exception as e:
         logger.error("Failed to add subscriber %s: %s", email, e)
-        return {"success": False, "message": f"Failed to subscribe: {e}"}
+        return {"success": False, "message": "Failed to subscribe. Please try again."}
 
 
 def remove_subscriber(token: str) -> bool:
