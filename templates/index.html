@@ -24,7 +24,7 @@
         </header>
 
         <main>
-            <div class="flex gap-2 mb-4 justify-center">
+            <div class="flex gap-2 mb-4 justify-center flex-wrap">
                 <button onclick="filterJobs('all')" id="filter-all" class="filter-btn px-4 py-2 rounded-lg text-sm font-medium transition bg-[#13294b] text-white">
                     All
                 </button>
@@ -33,6 +33,9 @@
                 </button>
                 <button onclick="filterJobs('fulltime')" id="filter-fulltime" class="filter-btn px-4 py-2 rounded-lg text-sm font-medium transition bg-gray-200 text-gray-700 hover:bg-gray-300">
                     Full-Time
+                </button>
+                <button onclick="toggleFlairs()" id="flair-toggle" class="px-4 py-2 rounded-lg text-sm font-medium transition bg-gray-200 text-gray-700 hover:bg-gray-300">
+                    <i class="fas fa-tags mr-1"></i> View Flairs
                 </button>
             </div>
             <div class="bg-white shadow-md rounded-lg overflow-hidden">
@@ -65,14 +68,9 @@
                                 <span class="ml-1.5 text-yellow-500 font-bold text-xs">NEW</span>
                                 {% endif %}
                                 {% if job.badges %}
-                                <div class="flex flex-wrap gap-1 mt-1 text-[10px]">
+                                <div class="flair-row flex flex-wrap gap-1 mt-1 text-[10px] hidden">
                                     {% if job.badges.min_gpa %}
                                     <span class="px-1.5 py-0.5 rounded-full bg-amber-100 text-amber-800 font-semibold">GPA {{ job.badges.min_gpa }}+</span>
-                                    {% endif %}
-                                    {% if job.badges.visa_sponsorship is sameas true %}
-                                    <span class="px-1.5 py-0.5 rounded-full bg-emerald-100 text-emerald-800 font-semibold">Sponsors Visa</span>
-                                    {% elif job.badges.visa_sponsorship is sameas false %}
-                                    <span class="px-1.5 py-0.5 rounded-full bg-red-100 text-red-800 font-semibold">No Visa Sponsorship</span>
                                     {% endif %}
                                     {% if job.badges.graduation_window %}
                                     <span class="px-1.5 py-0.5 rounded-full bg-sky-100 text-sky-800 font-semibold">Grad {{ job.badges.graduation_window }}</span>
@@ -87,13 +85,9 @@
                                     <span class="px-1.5 py-0.5 rounded-full bg-green-100 text-green-800 font-semibold">{{ job.badges.duration }}</span>
                                     {% endif %}
                                     {% if job.badges.majors %}
-                                    <span class="px-1.5 py-0.5 rounded-full bg-gray-100 text-gray-700 font-semibold" title="{{ job.badges.majors | join(', ') }}">
-                                        {% if job.badges.majors | length <= 3 %}
-                                            {{ job.badges.majors | join(', ') }}
-                                        {% else %}
-                                            {{ job.badges.majors[:3] | join(', ') }} +{{ job.badges.majors | length - 3 }}
-                                        {% endif %}
-                                    </span>
+                                    {% for major in job.badges.majors %}
+                                    <span class="px-1.5 py-0.5 rounded-full bg-gray-100 text-gray-700 font-semibold">{{ major }}</span>
+                                    {% endfor %}
                                     {% endif %}
                                 </div>
                                 {% endif %}
@@ -163,6 +157,16 @@
     </div>
 
     <script>
+        function toggleFlairs() {
+            const btn = document.getElementById('flair-toggle');
+            const flairs = document.querySelectorAll('.flair-row');
+            const showing = btn.dataset.active === 'true';
+            flairs.forEach(el => el.classList.toggle('hidden', showing));
+            btn.dataset.active = showing ? 'false' : 'true';
+            btn.className = 'px-4 py-2 rounded-lg text-sm font-medium transition '
+                + (showing ? 'bg-gray-200 text-gray-700 hover:bg-gray-300' : 'bg-[#13294b] text-white');
+        }
+
         function filterJobs(type) {
             document.querySelectorAll('.job-row').forEach(row => {
                 row.style.display = (type === 'all' || row.dataset.type === type) ? '' : 'none';

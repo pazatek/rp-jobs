@@ -353,7 +353,7 @@ def extract_badges(job: dict) -> dict | None:
             '  "cpt_opt_required": true | false,\n'
             '  "uiuc_only": true | false,\n'
             '  "graduation_window": "1-3 years" | null,\n'
-            '  "majors": ["CS", "ECE"] | [],\n'
+            '  "majors": ["Computer Science", "Electrical Engineering"] | [],\n'
             '  "job_type": "internship" | "full-time" | "part-time",\n'
             '  "work_mode": "in-person" | "remote" | "hybrid" | null,\n'
             '  "duration": "Summer 2026" | null\n'
@@ -362,7 +362,7 @@ def extract_badges(job: dict) -> dict | None:
             "- visa_sponsorship: true if they sponsor, false if they explicitly don't, null if not mentioned\n"
             "- cpt_opt_required: true only if CPT or OPT is explicitly mentioned as required\n"
             "- uiuc_only: true only if restricted to UIUC students\n"
-            "- majors: use short abbreviations (CS, ECE, ME, etc). Empty list if not specified\n"
+            "- majors: use full names (Computer Science, Electrical Engineering, Mechanical Engineering, etc). Empty list if not specified\n"
             "- job_type: infer from title and description\n"
             "- work_mode: null if not mentioned\n"
             "- duration: specific term like 'Summer 2026', null if not mentioned\n"
@@ -426,16 +426,6 @@ def badge_html(job: dict) -> str:
             f'<span style="{style_base}background:#fef3c7;color:#92400e;">GPA {gpa}+</span>'
         )
 
-    sponsorship = badges.get("visa_sponsorship")
-    if sponsorship is True:
-        pills.append(
-            f'<span style="{style_base}background:#d1fae5;color:#065f46;">Sponsors Visa</span>'
-        )
-    elif sponsorship is False:
-        pills.append(
-            f'<span style="{style_base}background:#fee2e2;color:#991b1b;">No Visa Sponsorship</span>'
-        )
-
     grad_window = badges.get("graduation_window")
     if grad_window:
         pills.append(
@@ -461,12 +451,9 @@ def badge_html(job: dict) -> str:
         )
 
     majors = badges.get("majors", [])
-    if majors:
-        majors_str = ", ".join(majors[:5])
-        if len(majors) > 5:
-            majors_str += f" +{len(majors) - 5}"
+    for major in majors:
         pills.append(
-            f'<span style="{style_base}background:#f3f4f6;color:#374151;">{majors_str}</span>'
+            f'<span style="{style_base}background:#f3f4f6;color:#374151;">{major}</span>'
         )
 
     if not pills:
