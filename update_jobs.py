@@ -15,6 +15,7 @@ import urllib.request
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from html import escape as html_escape
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -416,7 +417,7 @@ def badge_html(job: dict) -> str:
 
     job_type = badges.get("job_type")
     if job_type:
-        label = job_type.capitalize()
+        label = html_escape(job_type.capitalize())
         pills.append(
             f'<span style="{style_base}background:#dbeafe;color:#1e40af;">{label}</span>'
         )
@@ -424,12 +425,12 @@ def badge_html(job: dict) -> str:
     gpa = badges.get("min_gpa")
     if gpa:
         pills.append(
-            f'<span style="{style_base}background:#fef3c7;color:#92400e;">GPA {gpa}+</span>'
+            f'<span style="{style_base}background:#fef3c7;color:#92400e;">GPA {html_escape(str(gpa))}+</span>'
         )
 
     for year in badges.get("class_years", []):
         pills.append(
-            f'<span style="{style_base}background:#e0f2fe;color:#075985;">{year}</span>'
+            f'<span style="{style_base}background:#e0f2fe;color:#075985;">{html_escape(year)}</span>'
         )
 
     if badges.get("cpt_opt_required"):
@@ -439,7 +440,7 @@ def badge_html(job: dict) -> str:
 
     work_mode = badges.get("work_mode")
     if work_mode:
-        label = work_mode.capitalize()
+        label = html_escape(work_mode.capitalize())
         pills.append(
             f'<span style="{style_base}background:#f3e8ff;color:#6b21a8;">{label}</span>'
         )
@@ -447,13 +448,13 @@ def badge_html(job: dict) -> str:
     duration = badges.get("duration")
     if duration:
         pills.append(
-            f'<span style="{style_base}background:#dcfce7;color:#166534;">{duration}</span>'
+            f'<span style="{style_base}background:#dcfce7;color:#166534;">{html_escape(duration)}</span>'
         )
 
     majors = badges.get("majors", [])
     for major in majors:
         pills.append(
-            f'<span style="{style_base}background:#f3f4f6;color:#374151;">{major}</span>'
+            f'<span style="{style_base}background:#f3f4f6;color:#374151;">{html_escape(major)}</span>'
         )
 
     if not pills:
@@ -510,8 +511,8 @@ def send_email(new_jobs: list[dict]) -> None:
             badges_markup = badge_html(job)
             html += f"""
           <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
-            <strong>{job['company']}</strong><br>
-            {job['position']}
+            <strong>{html_escape(job['company'])}</strong><br>
+            {html_escape(job['position'])}
             {badges_markup}
           </li>
         """

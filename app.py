@@ -5,11 +5,14 @@ import os
 import re
 import smtplib
 import time
+from html import escape as html_escape
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 import requests
 from flask import Flask, jsonify, render_template, request
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 
 from database import add_subscriber, get_active_subscribers, get_stats_history, init_db, remove_subscriber
 
@@ -21,12 +24,27 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
+limiter = Limiter(
+    get_remote_address,
+    app=app,
+    default_limits=[],
+    storage_uri="memory://",
+)
+
 JOBS_JSON_URL = (
     "https://raw.githubusercontent.com/pazatek/rp-jobs/main/jobs.json"
 )
 CACHE_TTL = 300  # 5 minutes
 
 _jobs_cache: dict = {"data": None, "fetched_at": 0.0}
+
+
+@app.after_request
+def set_security_headers(response):
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
+    return response
 
 
 def fetch_jobs() -> list[dict]:
@@ -106,6 +124,7 @@ def index():
 
 
 @app.route("/api/subscribe", methods=["POST"])
+@limiter.limit("5 per minute")
 def subscribe():
     data = request.get_json()
     if not data or not data.get("email"):
@@ -113,7 +132,7 @@ def subscribe():
 
     email = data["email"].strip().lower()
 
-    if not re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", email):
+    if len(email) > 254 or not re.match(r"^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$", email):
         return jsonify({"success": False, "message": "Invalid email address"}), 400
 
     preference = data.get("preference", "both")
@@ -147,11 +166,11 @@ def send_welcome_email(recipient: str, token: str, preference: str = "both") -> 
     <html>
       <body style="font-family: Arial, sans-serif; line-height: 1.6;">
         <h2 style="color: #13294b;">Welcome to Research Park Job Alerts!</h2>
-        <p>You're now subscribed to receive notifications for <strong>{pref_text}</strong> job postings at the UIUC Research Park.</p>
+        <p>You're now subscribed to receive notifications for <strong>{html_escape(pref_text)}</strong> job postings at the UIUC Research Park.</p>
         <p>You'll get an email whenever new positions are detected (we check every 15 minutes during business hours).</p>
-        <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
+        <p><a href="{html_escape(app_url)}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #999; font-size: 11px; margin-top: 30px;">
-          <a href="{unsubscribe_url}" style="color: #999;">Unsubscribe from these notifications</a>
+          <a href="{html_escape(unsubscribe_url)}" style="color: #999;">Unsubscribe from these notifications</a>
         </p>
       </body>
     </html>
@@ -186,7 +205,7 @@ def require_admin():
     """Check for admin key in Authorization header."""
     admin_key = os.environ.get("ADMIN_KEY")
     if not admin_key:
-        return jsonify({"success": False, "message": "ADMIN_KEY not configured"}), 500
+        return jsonify({"success": False, "message": "Unauthorized"}), 401
     provided = request.headers.get("Authorization", "").replace("Bearer ", "")
     if provided != admin_key:
         return jsonify({"success": False, "message": "Unauthorized"}), 401
@@ -228,8 +247,8 @@ def test_notification():
     for job in fake_jobs:
         html += f"""
           <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
-            <strong>{job['company']}</strong><br>
-            {job['position']}
+            <strong>{html_escape(job['company'])}</strong><br>
+            {html_escape(job['position'])}
           </li>
         """
     try:
@@ -239,12 +258,12 @@ def test_notification():
                 unsubscribe_url = f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}" if app_url else ""
                 body = html + f"""
         </ul>
-        <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
+        <p><a href="{html_escape(app_url)}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
           This is a <strong>test notification</strong> from your Research Park Job Monitor.
         </p>
         <p style="color: #999; font-size: 11px;">
-          <a href="{unsubscribe_url}" style="color: #999;">Unsubscribe from these notifications</a>
+          <a href="{html_escape(unsubscribe_url)}" style="color: #999;">Unsubscribe from these notifications</a>
         </p>
       </body>
     </html>
@@ -257,7 +276,8 @@ def test_notification():
                 server.send_message(msg)
         return jsonify({"success": True, "message": f"Test notification sent to {len(subscribers)} subscriber(s)"})
     except Exception as e:
-        return jsonify({"success": False, "message": str(e)}), 500
+        logger.error("Test notification failed: %s", e)
+        return jsonify({"success": False, "message": "Failed to send test notification"}), 500
 
 
 @app.route("/api/remove-subscriber", methods=["POST"])
@@ -277,7 +297,8 @@ def admin_remove_subscriber():
             conn.commit()
         return jsonify({"success": deleted, "message": "Removed" if deleted else "Not found"})
     except Exception as e:
-        return jsonify({"success": False, "message": str(e)}), 500
+        logger.error("Failed to remove subscriber: %s", e)
+        return jsonify({"success": False, "message": "Failed to remove subscriber"}), 500
 
 
 @app.route("/api/stats")
@@ -309,6 +330,9 @@ def stats():
 
 @app.route("/stats")
 def stats_page():
+    auth_error = require_admin()
+    if auth_error:
+        return auth_error
     history = get_stats_history()
     current_subscribers = len(get_active_subscribers())
     latest = history[0] if history else {}
@@ -343,4 +367,4 @@ with app.app_context():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+    app.run(debug=False, port=5001)
