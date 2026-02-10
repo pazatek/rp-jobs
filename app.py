@@ -210,11 +210,13 @@ def unsubscribe():
 
 
 def require_admin():
-    """Check for admin key in Authorization header."""
+    """Check for admin key in Authorization header or query param."""
     admin_key = os.environ.get("ADMIN_KEY")
     if not admin_key:
         return jsonify({"success": False, "message": "Unauthorized"}), 401
     provided = request.headers.get("Authorization", "").replace("Bearer ", "")
+    if not provided:
+        provided = request.args.get("key", "")
     if provided != admin_key:
         return jsonify({"success": False, "message": "Unauthorized"}), 401
     return None
