@@ -23,6 +23,17 @@
         </header>
 
         <main>
+            <div class="flex gap-2 mb-4 justify-center">
+                <button onclick="filterJobs('all')" id="filter-all" class="filter-btn px-4 py-2 rounded-lg text-sm font-medium transition bg-[#13294b] text-white">
+                    All
+                </button>
+                <button onclick="filterJobs('internship')" id="filter-internship" class="filter-btn px-4 py-2 rounded-lg text-sm font-medium transition bg-gray-200 text-gray-700 hover:bg-gray-300">
+                    Internships
+                </button>
+                <button onclick="filterJobs('fulltime')" id="filter-fulltime" class="filter-btn px-4 py-2 rounded-lg text-sm font-medium transition bg-gray-200 text-gray-700 hover:bg-gray-300">
+                    Full-Time
+                </button>
+            </div>
             <div class="bg-white shadow-md rounded-lg overflow-hidden">
                 <div class="overflow-x-auto">
                     <table class="min-w-full leading-normal">
@@ -44,7 +55,7 @@
                         </thead>
                         <tbody>
                             {% for job in jobs %}
-                            <tr class="hover:bg-gray-50 transition">
+                            <tr class="hover:bg-gray-50 transition job-row" data-type="{{ 'internship' if 'intern' in job.position|lower else 'fulltime' }}">
                                 <td class="px-5 py-5 border-b border-gray-200 text-sm">
                                     <p class="text-gray-900 whitespace-no-wrap font-medium">
                                         {{ job.company }}
@@ -104,6 +115,18 @@
     </div>
 
     <script>
+        function filterJobs(type) {
+            document.querySelectorAll('.job-row').forEach(row => {
+                row.style.display = (type === 'all' || row.dataset.type === type) ? '' : 'none';
+            });
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.className = 'filter-btn px-4 py-2 rounded-lg text-sm font-medium transition '
+                    + (btn.id === 'filter-' + type
+                        ? 'bg-[#13294b] text-white'
+                        : 'bg-gray-200 text-gray-700 hover:bg-gray-300');
+            });
+        }
+
         document.getElementById('subscribeBtn').addEventListener('click', async function() {
             const btn = this;
             const input = document.getElementById('emailInput');
