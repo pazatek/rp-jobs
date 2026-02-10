@@ -122,10 +122,9 @@ def send_welcome_email(recipient: str) -> None:
     <html>
       <body style="font-family: Arial, sans-serif; line-height: 1.6;">
         <h2 style="color: #13294b;">Welcome to Research Park Job Alerts!</h2>
-        <p>You're now subscribed to receive notifications when new jobs are posted at the
-        <a href="https://researchpark.illinois.edu/work-here/careers/" style="color: #13294b;">UIUC Research Park</a>.</p>
+        <p>You're now subscribed to receive notifications when new jobs are posted at the UIUC Research Park.</p>
         <p>You'll get an email whenever new positions are detected (we check every 15 minutes during business hours).</p>
-        <p><a href="{app_url}" style="color: #13294b;">View the job board</a></p>
+        <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
           If you didn't sign up for this, you can ignore this email or unsubscribe via the link in any future notification.
         </p>
@@ -156,6 +155,76 @@ def unsubscribe():
 
     success = remove_subscriber(token)
     return render_template("unsubscribed.html", success=success)
+
+
+@app.route("/api/test-notification", methods=["POST"])
+def test_notification():
+    """Send a fake job notification to all subscribers for testing."""
+    sender = os.environ.get("EMAIL_SENDER")
+    password = os.environ.get("EMAIL_PASSWORD")
+    app_url = os.environ.get("APP_URL", "").rstrip("/")
+
+    if not sender or not password:
+        return jsonify({"success": False, "message": "Email credentials not set"}), 500
+
+    from database import get_active_subscribers
+    subscribers = get_active_subscribers()
+    if not subscribers:
+        return jsonify({"success": False, "message": "No subscribers found"}), 404
+
+    fake_jobs = [
+        {"company": "Acme Corp", "position": "Software Engineering Intern - Summer 2026", "link": f"{app_url}"},
+        {"company": "TechStart Inc", "position": "Senior Data Scientist", "link": f"{app_url}"},
+    ]
+
+    count = len(fake_jobs)
+    subject = f"\U0001f393 {count} New Research Park Job{'s' if count > 1 else ''} Found!"
+    html = f"""
+    <html>
+      <body style="font-family: Arial, sans-serif; line-height: 1.6;">
+        <h2 style="color: #13294b;">New Job Postings at Research Park</h2>
+        <p>The following new positions were just detected:</p>
+        <ul style="list-style-type: none; padding: 0;">
+    """
+    for job in fake_jobs:
+        html += f"""
+          <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
+            <strong>{job['company']}</strong><br>
+            {job['position']}<br>
+            <a href="{job['link']}" style="color: #13294b; text-decoration: none;">View Job \u2192</a>
+          </li>
+        """
+    html += f"""
+        </ul>
+        <p style="color: #666; font-size: 12px; margin-top: 30px;">
+          This is a <strong>test notification</strong> from your Research Park Job Monitor.
+        </p>
+      </body>
+    </html>
+    """
+
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(sender, password)
+            for sub in subscribers:
+                unsubscribe_url = f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}" if app_url else None
+                msg = MIMEMultipart()
+                msg["From"] = sender
+                msg["To"] = sub["email"]
+                msg["Subject"] = subject
+                body = html
+                if unsubscribe_url:
+                    body += f"""
+        <p style="color: #999; font-size: 11px;">
+          <a href="{unsubscribe_url}" style="color: #999;">Unsubscribe from these notifications</a>
+        </p>
+    """
+                body += "</body></html>"
+                msg.attach(MIMEText(body, "html"))
+                server.send_message(msg)
+        return jsonify({"success": True, "message": f"Test notification sent to {len(subscribers)} subscriber(s)"})
+    except Exception as e:
+        return jsonify({"success": False, "message": str(e)}), 500
 
 
 @app.route("/health")
