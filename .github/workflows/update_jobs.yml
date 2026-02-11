@@ -5,6 +5,9 @@ on:
     - cron: "*/15 8-22 * * 1-5"  # Every 15 min, 8am-10pm CT (Mon-Fri)
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
