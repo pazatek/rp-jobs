@@ -1,5 +1,210 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47874",
+    "company": "Brunswick",
+    "position": "Computer Graphics Software Developer Intern",
+    "link": "https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/",
+    "posted_date": "Wed, 11 Feb 2026 17:33:00 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      17,
+      33,
+      0,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.033987",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47873",
+    "company": "Brunswick",
+    "position": "Data Science Intern",
+    "link": "https://researchpark.illinois.edu/job/data-science-intern-3/",
+    "posted_date": "Wed, 11 Feb 2026 17:27:52 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      17,
+      27,
+      52,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.033994",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47872",
+    "company": "Affiliated Engineers",
+    "position": "Electrical Engineer II",
+    "link": "https://researchpark.illinois.edu/job/electrical-engineer-ii/",
+    "posted_date": "Wed, 11 Feb 2026 16:58:53 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      16,
+      58,
+      53,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.033997",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47871",
+    "company": "Affiliated Engineers",
+    "position": "Electrical Project Engineer",
+    "link": "https://researchpark.illinois.edu/job/electrical-project-engineer/",
+    "posted_date": "Wed, 11 Feb 2026 16:48:10 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      16,
+      48,
+      10,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.033998",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47870",
+    "company": "State Farm",
+    "position": "Summer 2026 Intern \u2013 MAGNet Program",
+    "link": "https://researchpark.illinois.edu/job/summer-2026-intern-magnet-program/",
+    "posted_date": "Wed, 11 Feb 2026 15:46:47 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      15,
+      46,
+      47,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.033999",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Statistics",
+        "Mathematics",
+        "Computer Science",
+        "Economics",
+        "Actuarial Science",
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "hybrid",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47869",
+    "company": "Littelfuse",
+    "position": "New Product Development Engineer",
+    "link": "https://researchpark.illinois.edu/job/new-product-development-engineer/",
+    "posted_date": "Wed, 11 Feb 2026 15:04:57 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      11,
+      15,
+      4,
+      57,
+      2,
+      42,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.034001",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
     "company": "Synchrony",
     "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
@@ -457,40 +662,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47207",
-    "company": "Boston Bioprocess",
-    "position": "Contract Software Sales Associate",
-    "link": "https://researchpark.illinois.edu/job/contract-software-sales-associate/",
-    "posted_date": "Fri, 09 Jan 2026 20:24:43 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      9,
-      20,
-      24,
-      43,
-      4,
-      9,
-      0
-    ],
-    "discovered_date": "2026-02-09T19:46:23.009397",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Bioengineering",
-        "Chemical Engineering",
-        "Biotechnology"
-      ],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47736",
     "company": "Littelfuse",
     "position": "RISE Rotational Engineer \u2014 Electrical",
@@ -874,6 +1045,153 @@
       "majors": [
         "Civil Engineering"
       ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47642",
+    "company": "Mondel\u0113z International",
+    "position": "R&D Product Development Intern",
+    "link": "https://researchpark.illinois.edu/job/product-development-intern/",
+    "posted_date": "Mon, 15 Dec 2025 17:14:47 +0000",
+    "published_parsed": [
+      2025,
+      12,
+      15,
+      17,
+      14,
+      47,
+      0,
+      349,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.034016",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Philosophy",
+        "Consumer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47641",
+    "company": "Mondel\u0113z International",
+    "position": "Extended Reality Intern",
+    "link": "https://researchpark.illinois.edu/job/extended-reality-intern/",
+    "posted_date": "Mon, 15 Dec 2025 16:49:06 +0000",
+    "published_parsed": [
+      2025,
+      12,
+      15,
+      16,
+      49,
+      6,
+      0,
+      349,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.034017",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Industrial Design"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47619",
+    "company": "Tiptek",
+    "position": "Laboratory Technician",
+    "link": "https://researchpark.illinois.edu/job/laboratory-technician-2/",
+    "posted_date": "Fri, 05 Dec 2025 20:44:47 +0000",
+    "published_parsed": [
+      2025,
+      12,
+      5,
+      20,
+      44,
+      47,
+      4,
+      339,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.034019",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Physics",
+        "Materials Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47620",
+    "company": "Tiptek",
+    "position": "Production Technician",
+    "link": "https://researchpark.illinois.edu/job/production-technician-2/",
+    "posted_date": "Fri, 05 Dec 2025 20:44:25 +0000",
+    "published_parsed": [
+      2025,
+      12,
+      5,
+      20,
+      44,
+      25,
+      4,
+      339,
+      0
+    ],
+    "discovered_date": "2026-02-11T19:54:34.034020",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
       "job_type": "full-time",
       "work_mode": null,
       "duration": null
