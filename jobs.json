@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47878",
+    "company": "John Deere",
+    "position": "Part-Time Student- Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer/",
+    "posted_date": "Fri, 13 Feb 2026 18:57:02 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      13,
+      18,
+      57,
+      2,
+      4,
+      44,
+      0
+    ],
+    "discovered_date": "2026-02-13T19:03:02.765906",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47874",
     "company": "Brunswick",
     "position": "Computer Graphics Software Developer Intern",

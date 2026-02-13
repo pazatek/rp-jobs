@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 13, 2026 at 11:57 AM CST | **Total:** 37
+**Updated:** February 13, 2026 at 01:03 PM CST | **Total:** 38
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| John Deere | Part-Time Student- Software Engineer | Feb 13, 2026 12:57 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer/) |
 | Brunswick | Computer Graphics Software Developer Intern | Feb 11, 2026 11:33 AM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/) |
 | Brunswick | Data Science Intern | Feb 11, 2026 11:27 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-3/) |
 | Affiliated Engineers | Electrical Engineer II | Feb 11, 2026 10:58 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-engineer-ii/) |
@@ -49,7 +50,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 37 postings)
+### Job Posting Times (Based on 38 postings)
 
 ```
 Jobs
@@ -57,7 +58,7 @@ Jobs
   9 AM │█████████ 3
  10 AM │████████████████████████ 8
  11 AM │████████████████████████████████████████ 13
- 12 PM │███ 1
+ 12 PM │██████ 2
   2 PM │███████████████ 5
   3 PM │████████████ 4
   4 PM │███ 1
