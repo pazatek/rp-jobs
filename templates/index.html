@@ -1,14 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UIUC Research Park Job Board</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
-        tailwind.config = { darkMode: 'class' };
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            navy: '#13294b',
+                            orange: '#E84A27',
+                            blue: '#13294b'
+                        }
+                    }
+                }
+            }
+        };
         // Apply theme before paint to prevent flash
-        (function() {
+        (function () {
             var saved = localStorage.getItem('theme');
             if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
                 document.documentElement.classList.add('dark');
@@ -19,110 +33,354 @@
     <style>
         /* When flairs are visible on desktop, enforce consistent row height */
         @media (min-width: 768px) {
-            .flairs-active .pos-content { min-height: 4.5rem; }
+            .flairs-active .pos-content {
+                min-height: 4.5rem;
+            }
+        }
+
+        .custom-checkbox {
+            appearance: none;
+            -webkit-appearance: none;
+            display: inline-block;
+            vertical-align: middle;
+            background-origin: border-box;
+            user-select: none;
+            flex-shrink: 0;
+            background-color: #f3f4f6;
+            /* gray-100 - less bright */
+            border: 1px solid #d1d5db;
+            /* gray-300 */
+            width: 1rem;
+            height: 1rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .dark .custom-checkbox {
+            background-color: #1f2937;
+            /* gray-800 */
+            border-color: #374151;
+            /* gray-700 */
+        }
+
+        .custom-checkbox:checked {
+            background-color: #13294b;
+            /* brand-navy */
+            border-color: #13294b;
+            background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3e%3c/svg%3e");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+
+        .dark .custom-checkbox:checked {
+            background-color: #3b82f6;
+            /* blue-500 */
+            border-color: #3b82f6;
+        }
+
+        .custom-checkbox:focus {
+            outline: none;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-4px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animate-slide-in {
+            animation: slideIn 0.2s ease-out forwards;
         }
     </style>
 </head>
+
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-200 font-sans transition-colors">
+    <img src="/static/banner.webp" alt="Illinois Research Park" class="w-full">
     <div class="container mx-auto px-3 md:px-4 py-6 md:py-8 max-w-7xl">
         <header class="mb-5 md:mb-6 text-center">
-            <p class="text-gray-500 dark:text-gray-400 text-sm mb-1">Created by <a href="https://piotrzatek.com" target="_blank" class="text-[#13294b] dark:text-blue-400 font-medium hover:underline">Piotr Zatek</a></p>
-            <h1 class="text-2xl md:text-4xl font-bold text-[#13294b] dark:text-white mb-2">UIUC Research Park Job Board</h1>
-            <p class="text-sm md:text-base text-gray-600 dark:text-gray-400">Automated internship and job tracker for the University of Illinois Research Park</p>
+            <p class="text-gray-500 dark:text-gray-400 text-sm mb-1">Created by <a href="https://piotrzatek.com"
+                    target="_blank" class="text-brand-navy dark:text-blue-400 font-medium hover:underline">Piotr
+                    Zatek</a></p>
+            <h1 class="text-2xl md:text-4xl font-bold text-brand-navy dark:text-white mb-2">Research Park Job Board</h1>
+            <p class="text-sm md:text-base text-gray-600 dark:text-gray-400">Automated internship and job tracker</p>
+
             <div class="mt-4 flex flex-wrap justify-center gap-3 md:gap-4">
-                <button onclick="document.getElementById('subscribeModal').classList.remove('hidden')" class="bg-[#13294b] hover:bg-[#0f203c] dark:bg-blue-600 dark:hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow transition flex items-center gap-2 text-sm md:text-base">
+                <button onclick="document.getElementById('subscribeModal').classList.remove('hidden')"
+                    class="bg-brand-navy hover:bg-[#0f203c] dark:bg-blue-600 dark:hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow transition flex items-center gap-2 text-sm md:text-base font-semibold">
                     <i class="fas fa-envelope"></i> Get Email Alerts
                 </button>
-                <a href="https://github.com/pazatek/rp-jobs" target="_blank" class="bg-gray-800 hover:bg-gray-700 dark:bg-gray-700 dark:hover:bg-gray-600 text-white px-4 py-2 rounded-lg shadow transition flex items-center gap-2 text-sm md:text-base">
+                <a href="https://github.com/pazatek/rp-jobs" target="_blank"
+                    class="bg-gray-800 hover:bg-gray-700 dark:bg-gray-700 dark:hover:bg-gray-600 text-white px-4 py-2 rounded-lg shadow transition flex items-center gap-2 text-sm md:text-base font-semibold">
                     <i class="fab fa-github"></i> View on GitHub
                 </a>
             </div>
         </header>
 
         <main>
-            <div class="flex gap-2 mb-4 justify-center flex-wrap">
-                <button onclick="filterJobs('all')" id="filter-all" class="filter-btn px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition bg-[#13294b] dark:bg-blue-600 text-white">
-                    All
-                </button>
-                <button onclick="filterJobs('internship')" id="filter-internship" class="filter-btn px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600">
-                    Internships
-                </button>
-                <button onclick="filterJobs('fulltime')" id="filter-fulltime" class="filter-btn px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600">
-                    Full-Time
-                </button>
-                <button onclick="toggleFlairs()" id="flair-toggle" data-active="true" class="px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition bg-[#13294b] dark:bg-blue-600 text-white">
-                    <i class="fas fa-tags mr-1"></i> Flairs
-                </button>
-                <button onclick="toggleTheme()" id="theme-toggle" class="px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-600" title="Toggle theme">
-                    <i class="fas fa-sun"></i>
-                </button>
+            <div
+                class="flex flex-col md:flex-row gap-4 mb-4 justify-between items-center bg-white dark:bg-gray-800 p-4 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                <div class="flex flex-wrap gap-2 items-center justify-center w-full md:w-auto">
+                    <!-- Type Filter -->
+                    <div class="flex bg-gray-100 dark:bg-gray-700 rounded-lg p-1 h-10 items-center">
+                        <button onclick="setFilter('type', 'all')" id="filter-type-all"
+                            class="px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 bg-white dark:bg-gray-600 text-brand-navy dark:text-white shadow-sm ring-1 ring-black/5 dark:ring-white/10">
+                            All
+                        </button>
+                        <button onclick="setFilter('type', 'internship')" id="filter-type-internship"
+                            class="px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 text-gray-500 dark:text-gray-400 hover:text-brand-navy dark:hover:text-white">
+                            Intern
+                        </button>
+                        <button onclick="setFilter('type', 'fulltime')" id="filter-type-fulltime"
+                            class="px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 text-gray-500 dark:text-gray-400 hover:text-brand-navy dark:hover:text-white">
+                            Full-Time
+                        </button>
+                    </div>
+
+                    <!-- Filter Dropdowns with Checkboxes -->
+                    <div class="relative group h-10">
+                        <button onclick="toggleDropdown('year-dropdown')"
+                            class="h-full px-4 rounded-lg text-sm font-semibold bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600 transition-all focus:outline-none focus:ring-2 focus:ring-brand-navy dark:focus:ring-blue-500 flex items-center gap-2 shadow-sm">
+                            <span>Years</span>
+                            <i class="fas fa-chevron-down text-[10px] opacity-40"></i>
+                        </button>
+                        <div id="year-dropdown"
+                            class="hidden absolute top-full left-0 mt-2 w-48 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 rounded-xl shadow-2xl z-50 p-2 border-t-4 border-t-brand-navy dark:border-t-blue-500 animate-slide-in">
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'freshman')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Freshman</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'sophomore')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Sophomore</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'junior')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Junior</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'senior')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Senior</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'masters')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Masters</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('years', 'phd')" class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">PhD</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="relative group h-10">
+                        <button onclick="toggleDropdown('major-dropdown')"
+                            class="h-full px-4 rounded-lg text-sm font-semibold bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600 transition-all focus:outline-none focus:ring-2 focus:ring-brand-navy dark:focus:ring-blue-500 flex items-center gap-2 shadow-sm">
+                            <span>Majors</span>
+                            <i class="fas fa-chevron-down text-[10px] opacity-40"></i>
+                        </button>
+                        <div id="major-dropdown"
+                            class="hidden absolute top-full left-0 mt-2 w-64 max-h-80 overflow-y-auto bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 rounded-xl shadow-2xl z-50 p-2 border-t-4 border-t-brand-navy dark:border-t-blue-500 animate-slide-in">
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'computer science')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Computer
+                                    Science</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'computer engineering')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">CompE</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'electrical engineering')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">EE</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'mechanical engineering')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">MechE</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'data science')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Data
+                                    Science</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'statistics')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Statistics</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'business')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Business</span>
+                            </label>
+                            <label
+                                class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
+                                <input type="checkbox" onchange="toggleFilter('majors', 'finance')"
+                                    class="custom-checkbox">
+                                <span
+                                    class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Finance</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex gap-2 h-10">
+                    <button onclick="toggleFlairs()" id="flair-toggle" data-active="true"
+                        class="h-full px-4 rounded-lg text-sm font-semibold transition bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 border border-gray-200 dark:border-gray-600 flex items-center gap-2 shadow-sm">
+                        <i class="fas fa-tags text-[10px] opacity-60"></i>
+                        <span>Flairs</span>
+                    </button>
+                    <button onclick="toggleTheme()" id="theme-toggle"
+                        class="h-full px-3 relative rounded-lg text-sm font-medium transition bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 border border-gray-200 dark:border-gray-600 shadow-sm"
+                        title="Toggle theme">
+                        <i class="fas fa-sun"></i>
+                    </button>
+                </div>
             </div>
-            <div id="job-table-wrap" class="bg-white dark:bg-gray-800 shadow-md rounded-lg overflow-hidden flairs-active">
+            <p class="text-xs text-gray-400 dark:text-gray-500 mb-3 mt-1 text-left"><i class="fas fa-circle-info mr-1 opacity-50"></i>Not all listings specify year or major — filters may hide relevant jobs.</p>
+
+            <div id="job-table-wrap"
+                class="bg-white dark:bg-gray-800 shadow-md rounded-xl overflow-hidden flairs-active border border-gray-100 dark:border-gray-700">
                 <table class="w-full">
                     <thead>
                         <tr>
-                            <th class="hidden md:table-cell px-4 py-2.5 border-b-2 border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-left text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider w-1/5">
+                            <th
+                                class="hidden md:table-cell px-6 py-4 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 text-left text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-1/5">
                                 Company
                             </th>
-                            <th class="px-3 md:px-4 py-2.5 border-b-2 border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-left text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider">
+                            <th
+                                class="px-4 md:px-6 py-4 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 text-left text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider">
                                 Position
                             </th>
-                            <th class="hidden md:table-cell px-4 py-2.5 border-b-2 border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-left text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider w-48 whitespace-nowrap">
+                            <th
+                                class="hidden md:table-cell px-6 py-4 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 text-left text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-48 whitespace-nowrap">
                                 Posted Date
                             </th>
-                            <th class="px-2 md:px-4 py-2.5 border-b-2 border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-700 text-left text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider w-16 md:w-20">
+                            <th
+                                class="px-4 md:px-6 py-4 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 text-left text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-16 md:w-20">
                                 Action
                             </th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody class="divide-y divide-gray-100 dark:divide-gray-700">
                         {% for job in jobs %}
-                        <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/50 transition job-row" data-type="{{ 'internship' if 'intern' in job.position|lower else 'fulltime' }}">
-                            <td class="hidden md:table-cell px-4 py-2.5 border-b border-gray-200 dark:border-gray-700 text-sm align-top">
-                                <span class="text-gray-900 dark:text-gray-100 font-medium">{{ job.company }}</span>
+                        <tr class="hover:bg-gray-50/80 dark:hover:bg-gray-700/30 transition job-row"
+                            data-type="{{ 'internship' if 'intern' in job.position|lower else 'fulltime' }}"
+                            data-years="{{ job.badges.class_years | join(',') | lower if job.badges and job.badges.class_years else '' }}"
+                            data-majors="{{ job.badges.majors | join(',') | lower if job.badges and job.badges.majors else '' }}">
+                            <td class="hidden md:table-cell px-6 py-4 text-sm align-top">
+                                <div class="flex items-center gap-2">
+                                    {% if job.logo_url %}
+                                    <img src="{{ job.logo_url }}" alt="" class="w-6 h-6 rounded flex-shrink-0" onerror="this.style.display='none'">
+                                    {% endif %}
+                                    <span class="text-gray-900 dark:text-gray-100 font-semibold truncate">{{ job.company }}</span>
+                                </div>
                             </td>
-                            <td class="px-3 md:px-4 py-2.5 border-b border-gray-200 dark:border-gray-700 text-sm align-top">
+                            <td class="px-4 md:px-6 py-4 text-sm align-top">
                                 <div class="pos-content">
-                                    <span class="md:hidden text-xs text-gray-500 dark:text-gray-400 font-medium">{{ job.company }}</span>
-                                    <span class="text-gray-900 dark:text-gray-100 block md:inline">{{ job.position }}</span>
+                                    <div class="md:hidden flex items-center gap-1.5 mb-1">
+                                        {% if job.logo_url %}
+                                        <img src="{{ job.logo_url }}" alt="" class="w-4 h-4 rounded" onerror="this.style.display='none'">
+                                        {% endif %}
+                                        <span class="text-xs text-gray-500 dark:text-gray-400 font-bold tracking-tight uppercase">{{ job.company }}</span>
+                                    </div>
+                                    <span
+                                        class="text-gray-900 dark:text-gray-100 block md:inline font-medium text-base">{{
+                                        job.position
+                                        }}</span>
                                     {% if job.badges %}
                                     <div class="flair-row">
-                                        <div class="flex flex-wrap gap-1 mt-1 text-[10px]">
-                                            {% if job.badges.min_gpa %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-300 font-semibold">GPA {{ job.badges.min_gpa }}+</span>
-                                            {% endif %}
-                                            {% if job.badges.class_years %}
-                                            {% for year in job.badges.class_years %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-sky-100 dark:bg-sky-900/40 text-sky-800 dark:text-sky-300 font-semibold">{{ year }}</span>
-                                            {% endfor %}
-                                            {% endif %}
-                                            {% if job.badges.cpt_opt_required %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-pink-100 dark:bg-pink-900/40 text-pink-800 dark:text-pink-300 font-semibold">CPT/OPT Required</span>
-                                            {% endif %}
-                                            {% if job.badges.work_mode %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-purple-100 dark:bg-purple-900/40 text-purple-800 dark:text-purple-300 font-semibold">{{ job.badges.work_mode | capitalize }}</span>
-                                            {% endif %}
-                                            {% if job.badges.duration %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-green-100 dark:bg-green-900/40 text-green-800 dark:text-green-300 font-semibold">{{ job.badges.duration }}</span>
-                                            {% endif %}
-                                        </div>
                                         {% if job.badges.majors %}
-                                        <div class="flex flex-wrap gap-1 mt-1 text-[10px]">
+                                        <div class="flex flex-wrap gap-1.5 mt-2.5 text-[10px]">
                                             {% for major in job.badges.majors %}
-                                            <span class="px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-600 text-gray-700 dark:text-gray-300 font-semibold">{{ major }}</span>
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 font-bold border border-gray-200 dark:border-gray-600">{{
+                                                major }}</span>
                                             {% endfor %}
                                         </div>
                                         {% endif %}
+                                        <div class="flex flex-wrap gap-1.5 mt-1.5 text-[10px]">
+                                            {% if job.badges.min_gpa %}
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-amber-50 dark:bg-amber-900/20 text-amber-700 dark:text-amber-400 font-bold border border-amber-100 dark:border-amber-900/30">GPA
+                                                {{ job.badges.min_gpa }}+</span>
+                                            {% endif %}
+                                            {% if job.badges.class_years %}
+                                            {% for year in job.badges.class_years %}
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-blue-50 dark:bg-blue-900/20 text-blue-700 dark:text-blue-400 font-bold border border-blue-100 dark:border-blue-900/30">{{
+                                                year }}</span>
+                                            {% endfor %}
+                                            {% endif %}
+                                            {% if job.badges.cpt_opt_required %}
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-rose-50 dark:bg-rose-900/20 text-rose-700 dark:text-rose-400 font-bold border border-rose-100 dark:border-rose-900/30">CPT/OPT</span>
+                                            {% endif %}
+                                            {% if job.badges.work_mode %}
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-violet-50 dark:bg-violet-900/20 text-violet-700 dark:text-violet-400 font-bold border border-violet-100 dark:border-violet-900/30">{{
+                                                job.badges.work_mode | capitalize }}</span>
+                                            {% endif %}
+                                            {% if job.badges.duration %}
+                                            <span
+                                                class="px-2 py-0.5 rounded-full bg-emerald-50 dark:bg-emerald-900/20 text-emerald-700 dark:text-emerald-400 font-bold border border-emerald-100 dark:border-emerald-900/30">{{
+                                                job.badges.duration }}</span>
+                                            {% endif %}
+                                        </div>
                                     </div>
                                     {% endif %}
                                 </div>
                             </td>
-                            <td class="hidden md:table-cell px-4 py-2.5 border-b border-gray-200 dark:border-gray-700 text-sm whitespace-nowrap align-top">
-                                <span class="text-gray-900 dark:text-gray-100">{{ job.formatted_date }}</span>
+                            <td class="hidden md:table-cell px-6 py-4 text-sm whitespace-nowrap align-top">
+                                <span class="text-gray-500 dark:text-gray-400 font-medium">{{ job.formatted_date
+                                    }}</span>
                             </td>
-                            <td class="px-2 md:px-4 py-2.5 border-b border-gray-200 dark:border-gray-700 text-sm align-top">
+                            <td class="px-4 md:px-6 py-4 text-sm align-top">
                                 <a href="{{ job.link }}" target="_blank"
-                                   class="inline-block bg-[#13294b] hover:bg-[#0f203c] dark:bg-blue-600 dark:hover:bg-blue-700 text-white px-3 py-1 rounded text-xs font-bold transition">
+                                    class="inline-flex items-center justify-center bg-brand-navy hover:bg-[#0f203c] dark:bg-blue-600 dark:hover:bg-blue-700 text-white w-full md:w-auto px-4 py-2 rounded-lg text-sm font-bold transition shadow-sm">
                                     Apply
                                 </a>
                             </td>
@@ -133,48 +391,64 @@
             </div>
         </main>
 
-        <footer class="mt-8 text-center text-gray-500 dark:text-gray-400 text-sm">
+        <footer class="mt-12 mb-8 text-center text-gray-400 dark:text-gray-500 text-sm">
             <p>&copy; 2026 UIUC Research Park Job Monitor</p>
         </footer>
     </div>
 
     <!-- Subscribe Modal -->
-    <div id="subscribeModal" class="fixed inset-0 bg-gray-600/50 dark:bg-black/60 hidden overflow-y-auto h-full w-full flex items-center justify-center p-4">
-        <div class="relative p-5 border border-gray-200 dark:border-gray-600 w-full max-w-sm shadow-lg rounded-md bg-white dark:bg-gray-800">
-            <div class="mt-3 text-center">
-                <h3 class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100">Get Email Notifications</h3>
-                <div class="mt-2 px-4 md:px-7 py-3">
-                    <p class="text-sm text-gray-500 dark:text-gray-400 mb-4">
-                        Enter your email to get notified when new jobs are posted.
-                        You can unsubscribe anytime via the link in every email.
+    <div id="subscribeModal"
+        class="fixed inset-0 bg-gray-900/60 backdrop-blur-sm hidden overflow-y-auto h-full w-full flex items-center justify-center p-4 z-[100]">
+        <div
+            class="relative p-6 border border-gray-100 dark:border-gray-700 w-full max-w-md shadow-2xl rounded-2xl bg-white dark:bg-gray-800 animate-slide-in">
+            <div class="text-center">
+                <div
+                    class="mx-auto flex items-center justify-center h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/30 mb-4">
+                    <i class="fas fa-paper-plane text-brand-navy dark:text-blue-400"></i>
+                </div>
+                <h3 class="text-xl leading-6 font-bold text-gray-900 dark:text-gray-100">Get Email Notifications</h3>
+                <div class="mt-4">
+                    <p class="text-sm text-gray-500 dark:text-gray-400 mb-6 leading-relaxed">
+                        Stay ahead of the competition. Enter your email to get notified immediately when new jobs are
+                        posted.
                     </p>
                     <input type="email" id="emailInput" placeholder="your@email.com"
-                           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-[#13294b] dark:focus:ring-blue-500">
-                    <div class="mt-3 text-left">
-                        <p class="text-xs text-gray-500 dark:text-gray-400 mb-2 font-medium">Notify me about:</p>
-                        <div class="flex gap-2">
-                            <label class="flex-1 cursor-pointer">
+                        class="w-full px-4 py-3 border border-gray-200 dark:border-gray-600 rounded-xl bg-gray-50 dark:bg-gray-700/50 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-brand-navy dark:focus:ring-blue-500 transition-all">
+
+                    <div class="mt-6 text-left">
+                        <p class="text-xs text-gray-400 dark:text-gray-500 mb-3 font-bold uppercase tracking-wider">
+                            Notification Preference</p>
+                        <div class="grid grid-cols-3 gap-2">
+                            <label class="cursor-pointer group">
                                 <input type="radio" name="preference" value="both" class="hidden peer" checked>
-                                <div class="text-center text-xs py-1.5 px-2 rounded-md border border-gray-300 dark:border-gray-600 peer-checked:bg-[#13294b] dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-[#13294b] dark:peer-checked:border-blue-600 text-gray-700 dark:text-gray-300 transition">Both</div>
+                                <div
+                                    class="text-center text-xs py-2.5 px-2 rounded-xl border border-gray-200 dark:border-gray-700 peer-checked:bg-brand-navy dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-brand-navy dark:peer-checked:border-blue-600 text-gray-500 dark:text-gray-400 transition-all font-bold">
+                                    All</div>
                             </label>
-                            <label class="flex-1 cursor-pointer">
+                            <label class="cursor-pointer group">
                                 <input type="radio" name="preference" value="internship" class="hidden peer">
-                                <div class="text-center text-xs py-1.5 px-2 rounded-md border border-gray-300 dark:border-gray-600 peer-checked:bg-[#13294b] dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-[#13294b] dark:peer-checked:border-blue-600 text-gray-700 dark:text-gray-300 transition">Internships</div>
+                                <div
+                                    class="text-center text-xs py-2.5 px-2 rounded-xl border border-gray-200 dark:border-gray-700 peer-checked:bg-brand-navy dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-brand-navy dark:peer-checked:border-blue-600 text-gray-500 dark:text-gray-400 transition-all font-bold">
+                                    Interns</div>
                             </label>
-                            <label class="flex-1 cursor-pointer">
+                            <label class="cursor-pointer group">
                                 <input type="radio" name="preference" value="fulltime" class="hidden peer">
-                                <div class="text-center text-xs py-1.5 px-2 rounded-md border border-gray-300 dark:border-gray-600 peer-checked:bg-[#13294b] dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-[#13294b] dark:peer-checked:border-blue-600 text-gray-700 dark:text-gray-300 transition">Full-Time</div>
+                                <div
+                                    class="text-center text-xs py-2.5 px-2 rounded-xl border border-gray-200 dark:border-gray-700 peer-checked:bg-brand-navy dark:peer-checked:bg-blue-600 peer-checked:text-white peer-checked:border-brand-navy dark:peer-checked:border-blue-600 text-gray-500 dark:text-gray-400 transition-all font-bold">
+                                    Full-Time</div>
                             </label>
                         </div>
                     </div>
-                    <p id="subscribeMsg" class="text-xs mt-2 hidden"></p>
+                    <p id="subscribeMsg" class="text-xs mt-3 hidden"></p>
                 </div>
-                <div class="items-center px-4 py-3">
-                    <button id="subscribeBtn" class="px-4 py-2 bg-[#E84A27] text-white text-base font-medium rounded-md w-full shadow-sm hover:bg-[#c43e21] focus:outline-none focus:ring-2 focus:ring-[#E84A27]">
-                        Subscribe
+                <div class="mt-8 flex flex-col gap-2">
+                    <button id="subscribeBtn"
+                        class="px-4 py-3 bg-brand-navy hover:bg-[#0f203c] text-white text-base font-bold rounded-xl w-full shadow-lg shadow-blue-500/10 transition-all active:scale-[0.98]">
+                        Subscribe Now
                     </button>
-                    <button onclick="document.getElementById('subscribeModal').classList.add('hidden')" class="mt-3 px-4 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-base font-medium rounded-md w-full shadow-sm hover:bg-gray-200 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-gray-300">
-                        Cancel
+                    <button onclick="document.getElementById('subscribeModal').classList.add('hidden')"
+                        class="px-4 py-3 bg-white dark:bg-gray-800 text-gray-500 dark:text-gray-400 text-base font-semibold rounded-xl w-full hover:bg-gray-50 dark:hover:bg-gray-700 transition-all">
+                        Maybe Later
                     </button>
                 </div>
             </div>
@@ -182,7 +456,7 @@
     </div>
 
     <script>
-        // Theme: defaults to system on first visit, then toggles light <-> dark
+        // Theme logic
         function applyTheme() {
             const saved = localStorage.getItem('theme');
             const isDark = saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
@@ -204,40 +478,94 @@
 
         applyTheme();
 
-        // Flairs: shown by default
+        // Flairs logic
         function toggleFlairs() {
             const btn = document.getElementById('flair-toggle');
             const wrap = document.getElementById('job-table-wrap');
             const flairs = document.querySelectorAll('.flair-row');
             const showing = btn.dataset.active === 'true';
+
             flairs.forEach(el => el.classList.toggle('hidden', showing));
             wrap.classList.toggle('flairs-active', !showing);
             btn.dataset.active = showing ? 'false' : 'true';
+
             const isDark = document.documentElement.classList.contains('dark');
             if (showing) {
-                btn.className = 'px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition '
-                    + (isDark ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' : 'bg-gray-200 text-gray-700 hover:bg-gray-300');
+                btn.className = 'h-full px-4 rounded-lg text-sm font-semibold transition bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 border border-gray-200 dark:border-gray-600 flex items-center gap-2 shadow-sm';
             } else {
-                btn.className = 'px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition '
-                    + (isDark ? 'bg-blue-600 text-white' : 'bg-[#13294b] text-white');
+                btn.className = 'h-full px-4 rounded-lg text-sm font-semibold transition bg-brand-navy dark:bg-blue-600 text-white border-transparent flex items-center gap-2 shadow-sm';
             }
         }
 
-        function filterJobs(type) {
+        // Dropdown logic
+        function toggleDropdown(id) {
+            const dropped = document.getElementById(id);
+            const isHidden = dropped.classList.contains('hidden');
+            document.querySelectorAll('[id$="-dropdown"]').forEach(el => el.classList.add('hidden'));
+            if (isHidden) dropped.classList.remove('hidden');
+        }
+
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.relative.group')) {
+                document.querySelectorAll('[id$="-dropdown"]').forEach(el => el.classList.add('hidden'));
+            }
+        });
+
+        // Filtering logic
+        const filters = {
+            type: 'all',
+            years: [],
+            majors: []
+        };
+
+        function setFilter(key, value) {
+            filters[key] = value;
+            applyFilters();
+
+            if (key === 'type') {
+                const isDark = document.documentElement.classList.contains('dark');
+                ['all', 'internship', 'fulltime'].forEach(t => {
+                    const btn = document.getElementById('filter-type-' + t);
+                    if (t === value) {
+                        btn.className = 'px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 bg-white dark:bg-gray-600 text-brand-navy dark:text-white shadow-sm ring-1 ring-black/5 dark:ring-white/10';
+                    } else {
+                        btn.className = 'px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 text-gray-500 dark:text-gray-400 hover:text-brand-navy dark:hover:text-white';
+                    }
+                });
+            }
+        }
+
+        function toggleFilter(category, value) {
+            const index = filters[category].indexOf(value);
+            if (index === -1) {
+                filters[category].push(value);
+            } else {
+                filters[category].splice(index, 1);
+            }
+            applyFilters();
+        }
+
+        function applyFilters() {
             document.querySelectorAll('.job-row').forEach(row => {
-                row.style.display = (type === 'all' || row.dataset.type === type) ? '' : 'none';
-            });
-            const isDark = document.documentElement.classList.contains('dark');
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                const active = btn.id === 'filter-' + type;
-                btn.className = 'filter-btn px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-sm font-medium transition '
-                    + (active
-                        ? (isDark ? 'bg-blue-600 text-white' : 'bg-[#13294b] text-white')
-                        : (isDark ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'));
+                const typeMatch = filters.type === 'all' || row.dataset.type === filters.type;
+
+                let yearMatch = true;
+                if (filters.years.length > 0) {
+                    const rowYears = (row.dataset.years || '').split(',').filter(Boolean);
+                    yearMatch = filters.years.some(y => rowYears.includes(y));
+                }
+
+                let majorMatch = true;
+                if (filters.majors.length > 0) {
+                    const rowMajors = (row.dataset.majors || '').split(',').filter(Boolean);
+                    majorMatch = filters.majors.some(m => rowMajors.includes(m));
+                }
+
+                row.style.display = (typeMatch && yearMatch && majorMatch) ? '' : 'none';
             });
         }
 
-        document.getElementById('subscribeBtn').addEventListener('click', async function() {
+        document.getElementById('subscribeBtn').addEventListener('click', async function () {
             const btn = this;
             const input = document.getElementById('emailInput');
             const msg = document.getElementById('subscribeMsg');
@@ -245,12 +573,12 @@
 
             if (!email) {
                 msg.textContent = 'Please enter an email address';
-                msg.className = 'text-xs mt-2 text-red-600 block';
+                msg.className = 'text-xs mt-2 text-rose-500 block font-bold';
                 return;
             }
 
             btn.disabled = true;
-            btn.textContent = 'Subscribing...';
+            btn.innerHTML = '<i class="fas fa-circle-notch fa-spin mr-2"></i> Subscribing...';
 
             try {
                 const preference = document.querySelector('input[name="preference"]:checked').value;
@@ -262,27 +590,28 @@
                 const data = await response.json();
 
                 msg.textContent = data.message;
-                msg.className = data.success ? 'text-xs mt-2 text-green-600 block' : 'text-xs mt-2 text-red-600 block';
+                msg.className = data.success ? 'text-xs mt-3 text-emerald-500 block font-bold' : 'text-xs mt-3 text-rose-500 block font-bold';
 
                 if (data.success) {
                     input.value = '';
                     setTimeout(() => {
                         document.getElementById('subscribeModal').classList.add('hidden');
                         msg.classList.add('hidden');
-                        btn.textContent = 'Subscribe';
+                        btn.textContent = 'Subscribe Now';
                         btn.disabled = false;
                     }, 2000);
                 } else {
                     btn.disabled = false;
-                    btn.textContent = 'Subscribe';
+                    btn.textContent = 'Subscribe Now';
                 }
             } catch (error) {
                 msg.textContent = 'Failed to subscribe. Try again.';
-                msg.className = 'text-xs mt-2 text-red-600 block';
+                msg.className = 'text-xs mt-3 text-rose-500 block font-bold';
                 btn.disabled = false;
-                btn.textContent = 'Subscribe';
+                btn.textContent = 'Subscribe Now';
             }
         });
     </script>
 </body>
+
 </html>

@@ -3,13 +3,11 @@
 import logging
 import os
 import re
-import smtplib
 import time
 from html import escape as html_escape
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 
 import requests
+import resend
 from flask import Flask, jsonify, render_template, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -96,6 +94,29 @@ def format_posted_date(posted_date_str: str, published_parsed=None) -> str:
     return posted_date_str[:16] if len(posted_date_str) > 16 else posted_date_str
 
 
+COMPANY_DOMAINS = {
+    "Affiliated Engineers": "aeieng.com",
+    "Avea Robotics": "avearobotics.com",
+    "Boston Bioprocess": "bostonbioprocess.com",
+    "Brunswick": "brunswick.com",
+    "Cache Energy": "cache-energy.com",
+    "Dow": "www.dow.com",
+    "Electric Power Engineers": "epeconsulting.com",
+    "Epivara": "epivara.com",
+    "John Deere": "deere.com",
+    "Kocree": "",
+    "Littelfuse": "littelfuse.com",
+    "Lyten": "lyten.com",
+    "MSA": "msasafety.com",
+    "Mondelēz International": "mondelez.com",
+    "NVIDIA": "nvidia.com",
+    "Rivian": "rivian.com",
+    "State Farm": "statefarm.com",
+    "Synchrony": "synchrony.com",
+    "Tiptek": "tiptek.com",
+}
+
+
 @app.route("/")
 def index():
     from datetime import datetime, timedelta
@@ -119,6 +140,9 @@ def index():
                 job["is_new"] = False
         else:
             job["is_new"] = False
+
+        domain = COMPANY_DOMAINS.get(job.get("company", ""))
+        job["logo_url"] = f"https://www.google.com/s2/favicons?domain={domain}&sz=128" if domain else ""
 
     return render_template("index.html", jobs=jobs)
 
@@ -150,13 +174,14 @@ def subscribe():
 
 def send_confirmation_email(recipient: str, token: str, preference: str = "both") -> None:
     """Send a confirmation email to a new subscriber."""
+    api_key = os.environ.get("RESEND_API_KEY")
     sender = os.environ.get("EMAIL_SENDER")
-    password = os.environ.get("EMAIL_PASSWORD")
     app_url = os.environ.get("APP_URL", "").rstrip("/")
 
-    if not sender or not password:
+    if not api_key or not sender:
         return
 
+    resend.api_key = api_key
     confirm_url = f"{app_url}/confirm?token={token}" if app_url and token else ""
 
     pref_labels = {"internship": "internship", "fulltime": "full-time", "both": "all"}
@@ -175,15 +200,12 @@ def send_confirmation_email(recipient: str, token: str, preference: str = "both"
     """
 
     try:
-        msg = MIMEMultipart()
-        msg["From"] = sender
-        msg["To"] = recipient
-        msg["Subject"] = "Confirm your Research Park Job Alerts subscription"
-        msg.attach(MIMEText(html, "html"))
-
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(sender, password)
-            server.send_message(msg)
+        resend.Emails.send({
+            "from": sender,
+            "to": [recipient],
+            "subject": "Confirm your Research Park Job Alerts subscription",
+            "html": html,
+        })
         logger.info("Confirmation email sent to %s", recipient)
     except Exception as e:
         logger.error("Failed to send confirmation email to %s: %s", recipient, e)
@@ -228,12 +250,14 @@ def test_notification():
     auth_error = require_admin()
     if auth_error:
         return auth_error
+    api_key = os.environ.get("RESEND_API_KEY")
     sender = os.environ.get("EMAIL_SENDER")
-    password = os.environ.get("EMAIL_PASSWORD")
     app_url = os.environ.get("APP_URL", "").rstrip("/")
 
-    if not sender or not password:
+    if not api_key or not sender:
         return jsonify({"success": False, "message": "Email credentials not set"}), 500
+
+    resend.api_key = api_key
 
     from database import get_active_subscribers
     subscribers = get_active_subscribers()
@@ -247,26 +271,25 @@ def test_notification():
 
     count = len(fake_jobs)
     subject = f"\U0001f393 {count} New Research Park Job{'s' if count > 1 else ''} Found!"
-    html = f"""
+
+    try:
+        for sub in subscribers:
+            unsubscribe_url = f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}" if app_url else ""
+            html = f"""
     <html>
       <body style="font-family: Arial, sans-serif; line-height: 1.6;">
         <h2 style="color: #13294b;">New Job Postings at Research Park</h2>
         <p>The following new positions were just detected:</p>
         <ul style="list-style-type: none; padding: 0;">
     """
-    for job in fake_jobs:
-        html += f"""
+            for job in fake_jobs:
+                html += f"""
           <li style="margin-bottom: 15px; border-left: 4px solid #E84A27; padding-left: 10px;">
             <strong>{html_escape(job['company'])}</strong><br>
             {html_escape(job['position'])}
           </li>
         """
-    try:
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(sender, password)
-            for sub in subscribers:
-                unsubscribe_url = f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}" if app_url else ""
-                body = html + f"""
+            html += f"""
         </ul>
         <p><a href="{html_escape(app_url)}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
@@ -278,12 +301,12 @@ def test_notification():
       </body>
     </html>
     """
-                msg = MIMEMultipart()
-                msg["From"] = sender
-                msg["To"] = sub["email"]
-                msg["Subject"] = subject
-                msg.attach(MIMEText(body, "html"))
-                server.send_message(msg)
+            resend.Emails.send({
+                "from": sender,
+                "to": [sub["email"]],
+                "subject": subject,
+                "html": html,
+            })
         return jsonify({"success": True, "message": f"Test notification sent to {len(subscribers)} subscriber(s)"})
     except Exception as e:
         logger.error("Test notification failed: %s", e)

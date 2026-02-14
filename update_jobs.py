@@ -8,18 +8,16 @@ import json
 import logging
 import os
 import re
-import smtplib
 import time
 import urllib.error
 import urllib.request
 from datetime import datetime
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 from html import escape as html_escape
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import feedparser
+import resend
 
 from database import get_active_subscribers, init_db, record_stats_snapshot
 
@@ -463,15 +461,17 @@ def badge_html(job: dict) -> str:
 
 
 def send_email(new_jobs: list[dict]) -> None:
-    """Send email notification for new jobs using SMTP."""
+    """Send email notification for new jobs using Resend."""
+    api_key = os.environ.get("RESEND_API_KEY")
     sender_email = os.environ.get("EMAIL_SENDER")
-    sender_password = os.environ.get("EMAIL_PASSWORD")
     recipients_env = os.environ.get("EMAIL_RECIPIENTS", "")
     app_url = os.environ.get("APP_URL", "").rstrip("/")
 
-    if not sender_email or not sender_password:
-        logger.warning("Email credentials not found. Skipping notification.")
+    if not api_key or not sender_email:
+        logger.warning("Resend API key or sender not found. Skipping notification.")
         return
+
+    resend.api_key = api_key
 
     # Admin recipients from env var
     admin_recipients = [r.strip() for r in recipients_env.split(",") if r.strip()]
@@ -536,43 +536,39 @@ def send_email(new_jobs: list[dict]) -> None:
         return html
 
     try:
-        logger.info("Connecting to SMTP server...")
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(sender_email, sender_password)
+        # Send to admin recipients (no unsubscribe link, all jobs)
+        for recipient in admin_recipients:
+            resend.Emails.send({
+                "from": sender_email,
+                "to": [recipient],
+                "subject": subject,
+                "html": build_html(new_jobs),
+            })
 
-            # Send to admin recipients (no unsubscribe link, all jobs)
-            for recipient in admin_recipients:
-                msg = MIMEMultipart()
-                msg["From"] = sender_email
-                msg["To"] = recipient
-                msg["Subject"] = subject
-                msg.attach(MIMEText(build_html(new_jobs), "html"))
-                server.send_message(msg)
-
-            # Send to DB subscribers (with unsubscribe link, filtered by preference)
-            sent_count = 0
-            for sub in db_subscribers:
-                # Skip if already in admin list
-                if sub["email"] in admin_recipients:
-                    continue
-                filtered = filter_jobs_by_preference(new_jobs, sub.get("preference", "both"))
-                if not filtered:
-                    logger.info("Skipping %s — no jobs match preference '%s'", sub["email"], sub.get("preference"))
-                    continue
-                unsubscribe_url = (
-                    f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}"
-                    if app_url
-                    else None
-                )
-                sub_count = len(filtered)
-                sub_subject = f"\U0001f393 {sub_count} New Research Park Job{'s' if sub_count > 1 else ''} Found!"
-                msg = MIMEMultipart()
-                msg["From"] = sender_email
-                msg["To"] = sub["email"]
-                msg["Subject"] = sub_subject
-                msg.attach(MIMEText(build_html(filtered, unsubscribe_url), "html"))
-                server.send_message(msg)
-                sent_count += 1
+        # Send to DB subscribers (with unsubscribe link, filtered by preference)
+        sent_count = 0
+        for sub in db_subscribers:
+            # Skip if already in admin list
+            if sub["email"] in admin_recipients:
+                continue
+            filtered = filter_jobs_by_preference(new_jobs, sub.get("preference", "both"))
+            if not filtered:
+                logger.info("Skipping %s — no jobs match preference '%s'", sub["email"], sub.get("preference"))
+                continue
+            unsubscribe_url = (
+                f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}"
+                if app_url
+                else None
+            )
+            sub_count = len(filtered)
+            sub_subject = f"\U0001f393 {sub_count} New Research Park Job{'s' if sub_count > 1 else ''} Found!"
+            resend.Emails.send({
+                "from": sender_email,
+                "to": [sub["email"]],
+                "subject": sub_subject,
+                "html": build_html(filtered, unsubscribe_url),
+            })
+            sent_count += 1
 
         total = len(admin_recipients) + sent_count
         logger.info("Email notification sent to %d recipient(s)", total)
