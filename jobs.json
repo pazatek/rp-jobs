@@ -1,5 +1,40 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
+    "company": "Synchrony",
+    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
+    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
+    "posted_date": "Fri, 13 Feb 2026 23:14:33 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      13,
+      23,
+      14,
+      33,
+      4,
+      44,
+      0
+    ],
+    "discovered_date": "2026-02-09T19:46:23.009373",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": true,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Human Resources",
+        "Business Administration",
+        "Project Management",
+        "Psychology"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47878",
     "company": "John Deere",
     "position": "Part-Time Student- Software Engineer",
@@ -241,41 +276,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
-    "company": "Synchrony",
-    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
-    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
-    "posted_date": "Mon, 09 Feb 2026 23:14:33 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      9,
-      23,
-      14,
-      33,
-      0,
-      40,
-      0
-    ],
-    "discovered_date": "2026-02-09T19:46:23.009373",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": true,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Human Resources",
-        "Business Administration",
-        "Project Management",
-        "Psychology"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47829",
     "company": "Cache Energy",
     "position": "Part-Time Public Relations Intern",
@@ -303,82 +303,6 @@
       "job_type": "part-time",
       "work_mode": "hybrid",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
-    "company": "Dow",
-    "position": "Data Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
-    "posted_date": "Wed, 28 Jan 2026 17:15:12 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      28,
-      17,
-      15,
-      12,
-      2,
-      28,
-      0
-    ],
-    "discovered_date": "2026-02-09T19:46:23.009382",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Mechanical Engineering",
-        "Electrical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
-    "company": "Dow",
-    "position": "Data Platform Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
-    "posted_date": "Wed, 28 Jan 2026 17:14:53 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      28,
-      17,
-      14,
-      53,
-      2,
-      28,
-      0
-    ],
-    "discovered_date": "2026-02-09T19:46:23.009383",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
     }
   },
   {

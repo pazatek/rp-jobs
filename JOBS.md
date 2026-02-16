@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 13, 2026 at 04:46 PM CST | **Total:** 38
+**Updated:** February 16, 2026 at 02:54 AM CST | **Total:** 36
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 13, 2026 05:14 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | John Deere | Part-Time Student- Software Engineer | Feb 13, 2026 12:57 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer/) |
 | Brunswick | Computer Graphics Software Developer Intern | Feb 11, 2026 11:33 AM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/) |
 | Brunswick | Data Science Intern | Feb 11, 2026 11:27 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-3/) |
@@ -15,10 +16,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Affiliated Engineers | Electrical Project Engineer | Feb 11, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-project-engineer/) |
 | State Farm | Summer 2026 Intern – MAGNet Program | Feb 11, 2026 09:46 AM CST | [Apply](https://researchpark.illinois.edu/job/summer-2026-intern-magnet-program/) |
 | Littelfuse | New Product Development Engineer | Feb 11, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/new-product-development-engineer/) |
-| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 09, 2026 05:14 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | Cache Energy | Part-Time Public Relations Intern | Feb 04, 2026 09:46 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-public-relations-intern/) |
-| Dow | Data Engineer Internship Summer 2026 | Jan 28, 2026 11:15 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
-| Dow | Data Platform Engineer Internship Summer 2026 | Jan 28, 2026 11:14 AM CST | [Apply](https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/) |
 | Boston Bioprocess | Contract Bioprocess Associate | Jan 23, 2026 03:55 PM CST | [Apply](https://researchpark.illinois.edu/job/contract-bioprocess-associate-2/) |
 | Kocree | Business Development Intern | Jan 23, 2026 11:02 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
 | Kocree | Business Development | Jan 23, 2026 11:01 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-kocree/) |
@@ -50,21 +48,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 38 postings)
+### Job Posting Times (Based on 36 postings)
 
 ```
 Jobs
 
-  9 AM │█████████ 3
- 10 AM │████████████████████████ 8
- 11 AM │████████████████████████████████████████ 13
- 12 PM │██████ 2
-  2 PM │███████████████ 5
-  3 PM │████████████ 4
+  9 AM │██████████ 3
+ 10 AM │█████████████████████████████ 8
+ 11 AM │████████████████████████████████████████ 11
+ 12 PM │███████ 2
+  2 PM │██████████████████ 5
+  3 PM │██████████████ 4
   4 PM │███ 1
-  5 PM │██████ 2
+  5 PM │███████ 2
        └────────────────────────────────────────
-        0                                       13
+        0                                       11
 ```
 
 
