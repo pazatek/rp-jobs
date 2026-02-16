@@ -1,5 +1,51 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
+    "posted_date": "Mon, 16 Feb 2026 19:30:11 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      16,
+      19,
+      30,
+      11,
+      0,
+      47,
+      0
+    ],
+    "discovered_date": "2026-02-16T19:34:20.165479",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Philosophy",
+        "Consumer Science",
+        "Computer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
     "company": "Synchrony",
     "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
@@ -1006,88 +1052,6 @@
       "job_type": "full-time",
       "work_mode": null,
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47642",
-    "company": "Mondel\u0113z International",
-    "position": "R&D Product Development Intern",
-    "link": "https://researchpark.illinois.edu/job/product-development-intern/",
-    "posted_date": "Mon, 15 Dec 2025 17:14:47 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      15,
-      17,
-      14,
-      47,
-      0,
-      349,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971828",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Philosophy",
-        "Consumer Science",
-        "Material Science",
-        "Music",
-        "Food Science",
-        "Physiology",
-        "Psychiatry",
-        "Statistics",
-        "Economics"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Spring 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47641",
-    "company": "Mondel\u0113z International",
-    "position": "Extended Reality Intern",
-    "link": "https://researchpark.illinois.edu/job/extended-reality-intern/",
-    "posted_date": "Mon, 15 Dec 2025 16:49:06 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      15,
-      16,
-      49,
-      6,
-      0,
-      349,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971830",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering",
-        "Mechanical Engineering",
-        "Industrial Design"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
     }
   },
   {
