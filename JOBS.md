@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 17, 2026 at 11:04 AM CST | **Total:** 35
+**Updated:** February 17, 2026 at 12:07 PM CST | **Total:** 37
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Dow | Data Platform Engineer Internship Summer 2026 | Feb 17, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/) |
+| Dow | Data Engineer Internship Summer 2026 | Feb 17, 2026 11:51 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
+| Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 17, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
+| Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 17, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Feb 16, 2026 01:30 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 13, 2026 05:14 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | John Deere | Part-Time Student- Software Engineer | Feb 13, 2026 12:57 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer/) |
@@ -31,8 +35,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Littelfuse | RISE Rotational Engineer — Electrical | Jan 09, 2026 12:56 PM CST | [Apply](https://researchpark.illinois.edu/job/rise-rotational-engineer-electrical-3/) |
 | Lyten | Senior Manager, Plasma Science & Innovation | Jan 08, 2026 04:22 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-manager-plasma-science-innovation/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
-| Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Dec 17, 2025 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
-| Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Dec 17, 2025 11:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Dec 17, 2025 11:27 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
 | Electric Power Engineers | Power Systems Engineer Intern – Summer | Dec 17, 2025 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/power-systems-engineer-intern-summer/) |
 | NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Dec 16, 2025 03:12 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture/) |
@@ -47,22 +49,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 35 postings)
+### Job Posting Times (Based on 37 postings)
 
 ```
 Jobs
 
-  9 AM │████████████ 3
- 10 AM │████████████████████████████ 7
- 11 AM │████████████████████████████████████████ 10
- 12 PM │████████ 2
-  1 PM │████ 1
-  2 PM │████████████████████ 5
-  3 PM │████████████████ 4
-  4 PM │████ 1
-  5 PM │████████ 2
+  9 AM │██████████ 3
+ 10 AM │███████████████████████ 7
+ 11 AM │████████████████████████████████████████ 12
+ 12 PM │██████ 2
+  1 PM │███ 1
+  2 PM │████████████████ 5
+  3 PM │█████████████ 4
+  4 PM │███ 1
+  5 PM │██████ 2
        └────────────────────────────────────────
-        0                                       10
+        0                                       12
 ```
 
 

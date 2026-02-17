@@ -1,5 +1,141 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
+    "company": "Dow",
+    "position": "Data Platform Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 17:52:44 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      17,
+      17,
+      52,
+      44,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-17T18:07:12.830122",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
+    "company": "Dow",
+    "position": "Data Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 17:51:57 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      17,
+      17,
+      51,
+      57,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-17T18:07:12.830129",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47671",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Business, Marketing, Consulting Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 17:49:38 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      17,
+      17,
+      49,
+      38,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971811",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47673",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Technology, Engineering, Design Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 17:49:24 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      17,
+      17,
+      49,
+      24,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971813",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
     "company": "Mondel\u0113z International",
     "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
@@ -762,66 +898,6 @@
       "job_type": "internship",
       "work_mode": null,
       "duration": "Winter 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47671",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Business, Marketing, Consulting Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/",
-    "posted_date": "Wed, 17 Dec 2025 17:32:38 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      17,
-      17,
-      32,
-      38,
-      2,
-      351,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971811",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47673",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Technology, Engineering, Design Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/",
-    "posted_date": "Wed, 17 Dec 2025 17:29:32 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      17,
-      17,
-      29,
-      32,
-      2,
-      351,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971813",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
     }
   },
   {
