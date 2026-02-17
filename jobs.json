@@ -1,17 +1,55 @@
 [
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
     "company": "Dow",
-    "position": "Data Platform Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 17:52:44 +0000",
+    "position": "Data Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 20:08:36 +0000",
     "published_parsed": [
       2026,
       2,
       17,
+      20,
+      8,
+      36,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-17T18:07:12.830129",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
+    "company": "Dow",
+    "position": "Data Platform Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 20:08:31 +0000",
+    "published_parsed": [
+      2026,
+      2,
       17,
-      52,
-      44,
+      20,
+      8,
+      31,
       1,
       48,
       0
@@ -38,37 +76,67 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
-    "company": "Dow",
-    "position": "Data Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 17:51:57 +0000",
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47672",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Data Analytics Capabilities Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/",
+    "posted_date": "Tue, 17 Feb 2026 20:07:54 +0000",
     "published_parsed": [
       2026,
       2,
       17,
-      17,
-      51,
-      57,
+      20,
+      7,
+      54,
       1,
       48,
       0
     ],
-    "discovered_date": "2026-02-17T18:07:12.830129",
+    "discovered_date": "2026-02-16T10:59:24.971815",
     "badges": {
       "min_gpa": "3.0",
       "visa_sponsorship": false,
       "cpt_opt_required": false,
       "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
+      "class_years": [],
       "majors": [
         "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
+    "company": "Synchrony",
+    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
+    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
+    "posted_date": "Tue, 17 Feb 2026 20:00:33 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      17,
+      20,
+      0,
+      33,
+      1,
+      48,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971759",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": true,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Human Resources",
+        "Business Administration",
+        "Project Management",
+        "Psychology"
       ],
       "job_type": "internship",
       "work_mode": "in-person",
@@ -130,41 +198,6 @@
       "uiuc_only": true,
       "class_years": [],
       "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
-    "company": "Synchrony",
-    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
-    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
-    "posted_date": "Mon, 16 Feb 2026 23:14:33 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      16,
-      23,
-      14,
-      33,
-      0,
-      47,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971759",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": true,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Human Resources",
-        "Business Administration",
-        "Project Management",
-        "Psychology"
-      ],
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Summer 2026"
@@ -898,39 +931,6 @@
       "job_type": "internship",
       "work_mode": null,
       "duration": "Winter 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47672",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Data Analytics Capabilities Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/",
-    "posted_date": "Wed, 17 Dec 2025 17:27:31 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      17,
-      17,
-      27,
-      31,
-      2,
-      351,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971815",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
     }
   },
   {
