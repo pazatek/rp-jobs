@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 17, 2026 at 01:15 PM CST | **Total:** 37
+**Updated:** February 17, 2026 at 02:00 PM CST | **Total:** 37
 
 ---
 
@@ -12,8 +12,8 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Data Engineer Internship Summer 2026 | Feb 17, 2026 11:51 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 17, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 17, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
+| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 16, 2026 05:14 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Feb 16, 2026 01:30 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
-| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 13, 2026 05:14 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | John Deere | Part-Time Student- Software Engineer | Feb 13, 2026 12:57 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer/) |
 | Brunswick | Computer Graphics Software Developer Intern | Feb 11, 2026 11:33 AM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/) |
 | Brunswick | Data Science Intern | Feb 11, 2026 11:27 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-3/) |

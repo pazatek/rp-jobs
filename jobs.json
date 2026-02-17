@@ -136,6 +136,41 @@
     }
   },
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
+    "company": "Synchrony",
+    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
+    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
+    "posted_date": "Mon, 16 Feb 2026 23:14:33 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      16,
+      23,
+      14,
+      33,
+      0,
+      47,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971759",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": true,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Human Resources",
+        "Business Administration",
+        "Project Management",
+        "Psychology"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
     "company": "Mondel\u0113z International",
     "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
@@ -179,41 +214,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Spring 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
-    "company": "Synchrony",
-    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
-    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
-    "posted_date": "Fri, 13 Feb 2026 23:14:33 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      13,
-      23,
-      14,
-      33,
-      4,
-      44,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971759",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": true,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Human Resources",
-        "Business Administration",
-        "Project Management",
-        "Psychology"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
     }
   },
   {
