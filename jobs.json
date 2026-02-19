@@ -835,42 +835,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47736",
-    "company": "Littelfuse",
-    "position": "RISE Rotational Engineer \u2014 Electrical",
-    "link": "https://researchpark.illinois.edu/job/rise-rotational-engineer-electrical-3/",
-    "posted_date": "Fri, 09 Jan 2026 18:56:33 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      9,
-      18,
-      56,
-      33,
-      4,
-      9,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971806",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Senior"
-      ],
-      "majors": [
-        "Electrical Engineering",
-        "Mechanical Engineering",
-        "Industrial Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47726",
     "company": "Lyten",
     "position": "Senior Manager, Plasma Science & Innovation",

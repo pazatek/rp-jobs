@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 19, 2026 at 04:03 PM CST | **Total:** 37
+**Updated:** February 19, 2026 at 04:52 PM CST | **Total:** 36
 
 ---
 
@@ -33,7 +33,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | John Deere | Part-Time Student- Software Engineer | Jan 20, 2026 03:39 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | Avea Robotics | Founding Engineer (Robotics) | Jan 16, 2026 11:30 AM CST | [Apply](https://researchpark.illinois.edu/job/founding-engineer-robotics/) |
 | Cache Energy | Materials Performance Engineer | Jan 12, 2026 11:04 AM CST | [Apply](https://researchpark.illinois.edu/job/materials-performance-engineer/) |
-| Littelfuse | RISE Rotational Engineer — Electrical | Jan 09, 2026 12:56 PM CST | [Apply](https://researchpark.illinois.edu/job/rise-rotational-engineer-electrical-3/) |
 | Lyten | Senior Manager, Plasma Science & Innovation | Jan 08, 2026 04:22 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-manager-plasma-science-innovation/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
 | Electric Power Engineers | Power Systems Engineer Intern – Summer | Dec 17, 2025 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/power-systems-engineer-intern-summer/) |
@@ -49,7 +48,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 37 postings)
+### Job Posting Times (Based on 36 postings)
 
 ```
 Jobs
@@ -57,7 +56,7 @@ Jobs
   9 AM │█████████████ 3
  10 AM │███████████████████████████████ 7
  11 AM │████████████████████████████████████████ 9
- 12 PM │████████ 2
+ 12 PM │████ 1
   1 PM │████ 1
   2 PM │████████████████████████████████████████ 9
   3 PM │█████████████████ 4
