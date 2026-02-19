@@ -386,6 +386,64 @@ def stats_page():
     )
 
 
+@app.route("/api/announce", methods=["POST"])
+def announce():
+    """Send a custom announcement email to all confirmed subscribers."""
+    auth_error = require_admin()
+    if auth_error:
+        return auth_error
+
+    data = request.get_json()
+    if not data or not data.get("subject") or not data.get("body"):
+        return jsonify({"success": False, "message": "subject and body are required"}), 400
+
+    api_key = os.environ.get("RESEND_API_KEY")
+    sender = os.environ.get("EMAIL_SENDER")
+    app_url = os.environ.get("APP_URL", "").rstrip("/")
+
+    if not api_key or not sender:
+        return jsonify({"success": False, "message": "Email credentials not set"}), 500
+
+    resend.api_key = api_key
+
+    test_email = data.get("to")
+    if test_email:
+        subscribers = [{"email": test_email, "unsubscribe_token": ""}]
+    else:
+        subscribers = get_active_subscribers()
+        if not subscribers:
+            return jsonify({"success": False, "message": "No subscribers found"}), 404
+
+    subject = data["subject"]
+    body = data["body"]
+
+    try:
+        for sub in subscribers:
+            unsubscribe_url = f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}" if app_url else ""
+            html = f"""
+    <html>
+      <body style="font-family: Arial, sans-serif; line-height: 1.6;">
+        <h2 style="color: #13294b;">{html_escape(subject)}</h2>
+        <p>{html_escape(body)}</p>
+        <p><a href="{html_escape(app_url)}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">Visit the Job Board</a></p>
+        <p style="color: #999; font-size: 11px; margin-top: 30px;">
+          <a href="{html_escape(unsubscribe_url)}" style="color: #999;">Unsubscribe from these notifications</a>
+        </p>
+      </body>
+    </html>
+    """
+            resend.Emails.send({
+                "from": sender,
+                "to": [sub["email"]],
+                "subject": subject,
+                "html": html,
+            })
+        return jsonify({"success": True, "message": f"Announcement sent to {len(subscribers)} subscriber(s)"})
+    except Exception as e:
+        logger.error("Announce failed: %s", e)
+        return jsonify({"success": False, "message": "Failed to send announcement"}), 500
+
+
 @app.route("/health")
 def health():
     return jsonify({"status": "ok"})
