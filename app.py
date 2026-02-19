@@ -438,6 +438,7 @@ def announce():
                 "subject": subject,
                 "html": html,
             })
+            time.sleep(1)
         return jsonify({"success": True, "message": f"Announcement sent to {len(subscribers)} subscriber(s)"})
     except Exception as e:
         logger.error("Announce failed: %s", e)
