@@ -441,7 +441,7 @@ def announce():
         return jsonify({"success": True, "message": f"Announcement sent to {len(subscribers)} subscriber(s)"})
     except Exception as e:
         logger.error("Announce failed: %s", e)
-        return jsonify({"success": False, "message": "Failed to send announcement"}), 500
+        return jsonify({"success": False, "message": f"Failed to send announcement: {e}"}), 500
 
 
 @app.route("/health")
