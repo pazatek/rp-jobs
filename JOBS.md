@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 20, 2026 at 09:01 AM CST | **Total:** 36
+**Updated:** February 20, 2026 at 09:54 AM CST | **Total:** 39
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
+| Littelfuse | Sr. New Product Development Engineer | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer/) |
+| GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
 | Dow | Data Engineer Internship Summer 2026 | Feb 17, 2026 02:08 PM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
 | Dow | Data Platform Engineer Internship Summer 2026 | Feb 17, 2026 02:08 PM CST | [Apply](https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 17, 2026 02:07 PM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
@@ -48,12 +51,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 36 postings)
+### Job Posting Times (Based on 39 postings)
 
 ```
 Jobs
 
-  9 AM │█████████████ 3
+  9 AM │██████████████████████████ 6
  10 AM │███████████████████████████████ 7
  11 AM │████████████████████████████████████████ 9
  12 PM │████ 1
