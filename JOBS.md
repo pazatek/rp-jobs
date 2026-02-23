@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 23, 2026 at 12:35 PM CST | **Total:** 39
+**Updated:** February 23, 2026 at 01:45 PM CST | **Total:** 38
 
 ---
 
@@ -25,7 +25,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Affiliated Engineers | Electrical Project Engineer | Feb 11, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-project-engineer/) |
 | State Farm | Summer 2026 Intern – MAGNet Program | Feb 11, 2026 09:46 AM CST | [Apply](https://researchpark.illinois.edu/job/summer-2026-intern-magnet-program/) |
 | Littelfuse | New Product Development Engineer | Feb 11, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/new-product-development-engineer/) |
-| Cache Energy | Part-Time Public Relations Intern | Feb 04, 2026 09:46 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-public-relations-intern/) |
 | Boston Bioprocess | Contract Bioprocess Associate | Jan 23, 2026 03:55 PM CST | [Apply](https://researchpark.illinois.edu/job/contract-bioprocess-associate-2/) |
 | Kocree | Business Development Intern | Jan 23, 2026 11:02 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
 | Kocree | Business Development | Jan 23, 2026 11:01 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-kocree/) |
@@ -51,12 +50,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 39 postings)
+### Job Posting Times (Based on 38 postings)
 
 ```
 Jobs
 
-  9 AM │██████████████████████████ 6
+  9 AM │██████████████████████ 5
  10 AM │███████████████████████████████ 7
  11 AM │████████████████████████████████████████ 9
  12 PM │████ 1

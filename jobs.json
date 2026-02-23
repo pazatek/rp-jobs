@@ -588,36 +588,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47829",
-    "company": "Cache Energy",
-    "position": "Part-Time Public Relations Intern",
-    "link": "https://researchpark.illinois.edu/job/part-time-public-relations-intern/",
-    "posted_date": "Wed, 04 Feb 2026 15:46:10 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      4,
-      15,
-      46,
-      10,
-      2,
-      35,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971782",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "hybrid",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47806",
     "company": "Boston Bioprocess",
     "position": "Contract Bioprocess Associate",
