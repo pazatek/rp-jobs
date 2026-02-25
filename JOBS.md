@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 25, 2026 at 01:59 PM CST | **Total:** 40
+**Updated:** February 25, 2026 at 02:49 PM CST | **Total:** 41
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 25, 2026 02:00 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
 | John Deere | Part-Time Student- Software Engineer | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | Kocree | Blockchain Developer Intern | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/) |
 | Kocree | Full-Stack System Architect Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/) |
@@ -52,7 +53,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 40 postings)
+### Job Posting Times (Based on 41 postings)
 
 ```
 Jobs
@@ -60,7 +61,7 @@ Jobs
   9 AM │████████████████████ 9
  10 AM │████████████████████████████████████████ 18
  11 AM │████████ 4
-  2 PM │███████████ 5
+  2 PM │█████████████ 6
   3 PM │████ 2
   4 PM │██ 1
   5 PM │██ 1

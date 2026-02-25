@@ -1,5 +1,40 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
+    "company": "Synchrony",
+    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
+    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
+    "posted_date": "Wed, 25 Feb 2026 20:00:33 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      20,
+      0,
+      33,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T20:49:33.463953",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": true,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Human Resources",
+        "Business Administration",
+        "Project Management",
+        "Psychology"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
     "company": "John Deere",
     "position": "Part-Time Student- Software Engineer",
