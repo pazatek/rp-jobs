@@ -1,5 +1,487 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
+    "company": "John Deere",
+    "position": "Part-Time Student- Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/",
+    "posted_date": "Wed, 25 Feb 2026 16:32:29 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      32,
+      29,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971800",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Management Information Systems"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47803",
+    "company": "Kocree",
+    "position": "Blockchain Developer Intern",
+    "link": "https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/",
+    "posted_date": "Wed, 25 Feb 2026 16:32:09 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      32,
+      9,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508699",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47801",
+    "company": "Kocree",
+    "position": "Full-Stack System Architect Intern",
+    "link": "https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/",
+    "posted_date": "Wed, 25 Feb 2026 16:31:45 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      31,
+      45,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508697",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47805",
+    "company": "Kocree",
+    "position": "Business Development Intern",
+    "link": "https://researchpark.illinois.edu/job/business-development-intern-kocree/",
+    "posted_date": "Wed, 25 Feb 2026 16:31:28 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      31,
+      28,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508694",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47873",
+    "company": "Brunswick",
+    "position": "Data Science Intern",
+    "link": "https://researchpark.illinois.edu/job/data-science-intern-3/",
+    "posted_date": "Wed, 25 Feb 2026 16:31:01 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      31,
+      1,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971771",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47874",
+    "company": "Brunswick",
+    "position": "Computer Graphics Software Developer Intern",
+    "link": "https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/",
+    "posted_date": "Wed, 25 Feb 2026 16:30:45 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      30,
+      45,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971769",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47878",
+    "company": "John Deere",
+    "position": "Part-Time Student- Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer/",
+    "posted_date": "Wed, 25 Feb 2026 16:30:32 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      30,
+      32,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971766",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
+    "posted_date": "Wed, 25 Feb 2026 16:30:15 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      30,
+      15,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T19:34:20.165479",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Philosophy",
+        "Consumer Science",
+        "Computer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47673",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Technology, Engineering, Design Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/",
+    "posted_date": "Wed, 25 Feb 2026 16:30:00 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      30,
+      0,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971813",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47671",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Business, Marketing, Consulting Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/",
+    "posted_date": "Wed, 25 Feb 2026 16:29:37 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      29,
+      37,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971811",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47672",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Data Analytics Capabilities Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/",
+    "posted_date": "Wed, 25 Feb 2026 16:29:02 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      29,
+      2,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-16T10:59:24.971815",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
+    "company": "Dow",
+    "position": "Data Platform Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
+    "posted_date": "Wed, 25 Feb 2026 16:28:45 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      28,
+      45,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-17T18:07:12.830122",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
+    "company": "Dow",
+    "position": "Data Engineer Internship Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
+    "posted_date": "Wed, 25 Feb 2026 16:28:05 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      16,
+      28,
+      5,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-17T18:07:12.830129",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47933",
+    "company": "Cygnus Photonics",
+    "position": "Engineering Internship",
+    "link": "https://researchpark.illinois.edu/job/engineering-internship-2/",
+    "posted_date": "Wed, 25 Feb 2026 15:41:46 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      15,
+      41,
+      46,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T16:49:34.283617",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47932",
     "company": "Country Financial",
     "position": "Data Science Intern \u2013 DigitaLab",
@@ -189,364 +671,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47811",
-    "company": "Dow",
-    "position": "Data Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 20:08:36 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      20,
-      8,
-      36,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-17T18:07:12.830129",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47810",
-    "company": "Dow",
-    "position": "Data Platform Engineer Internship Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 20:08:31 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      20,
-      8,
-      31,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-17T18:07:12.830122",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47672",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Data Analytics Capabilities Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 20:07:54 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      20,
-      7,
-      54,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971815",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
-    "company": "Synchrony",
-    "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
-    "link": "https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/",
-    "posted_date": "Tue, 17 Feb 2026 20:00:33 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      20,
-      0,
-      33,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971759",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": true,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Human Resources",
-        "Business Administration",
-        "Project Management",
-        "Psychology"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47671",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Business, Marketing, Consulting Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 17:49:38 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      17,
-      49,
-      38,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971811",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47673",
-    "company": "Synchrony",
-    "position": "Emerging Technology Intern \u2013 Technology, Engineering, Design Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/",
-    "posted_date": "Tue, 17 Feb 2026 17:49:24 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      17,
-      17,
-      49,
-      24,
-      1,
-      48,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971813",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
-    "company": "Mondel\u0113z International",
-    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
-    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
-    "posted_date": "Mon, 16 Feb 2026 19:30:11 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      16,
-      19,
-      30,
-      11,
-      0,
-      47,
-      0
-    ],
-    "discovered_date": "2026-02-16T19:34:20.165479",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Philosophy",
-        "Consumer Science",
-        "Computer Science",
-        "Material Science",
-        "Music",
-        "Food Science",
-        "Psychology",
-        "Physiology",
-        "Psychiatry",
-        "Statistics",
-        "Economics"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47878",
-    "company": "John Deere",
-    "position": "Part-Time Student- Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer/",
-    "posted_date": "Fri, 13 Feb 2026 18:57:02 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      13,
-      18,
-      57,
-      2,
-      4,
-      44,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971766",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Software Engineering"
-      ],
-      "job_type": "part-time",
-      "work_mode": "hybrid",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47874",
-    "company": "Brunswick",
-    "position": "Computer Graphics Software Developer Intern",
-    "link": "https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/",
-    "posted_date": "Wed, 11 Feb 2026 17:33:00 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      11,
-      17,
-      33,
-      0,
-      2,
-      42,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971769",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior"
-      ],
-      "majors": [
-        "Computer Science"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47873",
-    "company": "Brunswick",
-    "position": "Data Science Intern",
-    "link": "https://researchpark.illinois.edu/job/data-science-intern-3/",
-    "posted_date": "Wed, 11 Feb 2026 17:27:52 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      11,
-      17,
-      27,
-      52,
-      2,
-      42,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971771",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Data Science",
-        "Statistics",
-        "Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47872",
     "company": "Affiliated Engineers",
     "position": "Electrical Engineer II",
@@ -678,36 +802,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47805",
-    "company": "Kocree",
-    "position": "Business Development Intern",
-    "link": "https://researchpark.illinois.edu/job/business-development-intern-kocree/",
-    "posted_date": "Fri, 23 Jan 2026 17:02:35 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      23,
-      17,
-      2,
-      35,
-      4,
-      23,
-      0
-    ],
-    "discovered_date": "2026-02-25T15:33:18.508694",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47804",
     "company": "Kocree",
     "position": "Business Development",
@@ -733,66 +827,6 @@
       "class_years": [],
       "majors": [],
       "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47801",
-    "company": "Kocree",
-    "position": "Full-Stack System Architect Intern",
-    "link": "https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/",
-    "posted_date": "Fri, 23 Jan 2026 16:57:30 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      23,
-      16,
-      57,
-      30,
-      4,
-      23,
-      0
-    ],
-    "discovered_date": "2026-02-25T15:33:18.508697",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47803",
-    "company": "Kocree",
-    "position": "Blockchain Developer Intern",
-    "link": "https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/",
-    "posted_date": "Fri, 23 Jan 2026 16:57:08 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      23,
-      16,
-      57,
-      8,
-      4,
-      23,
-      0
-    ],
-    "discovered_date": "2026-02-25T15:33:18.508699",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
       "work_mode": null,
       "duration": null
     }
@@ -854,42 +888,6 @@
       "majors": [],
       "job_type": "full-time",
       "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
-    "company": "John Deere",
-    "position": "Part-Time Student- Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/",
-    "posted_date": "Tue, 20 Jan 2026 21:39:23 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      20,
-      21,
-      39,
-      23,
-      1,
-      20,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971800",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Management Information Systems"
-      ],
-      "job_type": "part-time",
-      "work_mode": "in-person",
       "duration": null
     }
   },
