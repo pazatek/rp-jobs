@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47932",
+    "company": "Country Financial",
+    "position": "Data Science Intern \u2013 DigitaLab",
+    "link": "https://researchpark.illinois.edu/job/data-science-intern-digitalab/",
+    "posted_date": "Wed, 25 Feb 2026 15:08:51 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      15,
+      8,
+      51,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508671",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47931",
+    "company": "Country Financial",
+    "position": "User Experience Design Intern \u2013 DigitaLab",
+    "link": "https://researchpark.illinois.edu/job/user-experience-design-intern-digitalab/",
+    "posted_date": "Wed, 25 Feb 2026 15:08:36 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      15,
+      8,
+      36,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508678",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47930",
+    "company": "Country Financial",
+    "position": "Software Developer Intern \u2013 DigitaLab",
+    "link": "https://researchpark.illinois.edu/job/software-developer-intern-digitalab/",
+    "posted_date": "Wed, 25 Feb 2026 15:08:18 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      25,
+      15,
+      8,
+      18,
+      2,
+      56,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508681",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47912",
     "company": "Littelfuse",
     "position": "Engineering Intern \u2013 Industrial Fuses",
@@ -575,6 +665,186 @@
       0
     ],
     "discovered_date": "2026-02-16T10:59:24.971780",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47805",
+    "company": "Kocree",
+    "position": "Business Development Intern",
+    "link": "https://researchpark.illinois.edu/job/business-development-intern-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 17:02:35 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      17,
+      2,
+      35,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508694",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47804",
+    "company": "Kocree",
+    "position": "Business Development",
+    "link": "https://researchpark.illinois.edu/job/business-development-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 17:01:27 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      17,
+      1,
+      27,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508696",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47801",
+    "company": "Kocree",
+    "position": "Full-Stack System Architect Intern",
+    "link": "https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 16:57:30 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      16,
+      57,
+      30,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508697",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47803",
+    "company": "Kocree",
+    "position": "Blockchain Developer Intern",
+    "link": "https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 16:57:08 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      16,
+      57,
+      8,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508699",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47802",
+    "company": "Kocree",
+    "position": "Blockchain Developer",
+    "link": "https://researchpark.illinois.edu/job/blockchain-developer-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 16:56:51 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      16,
+      56,
+      51,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508700",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47800",
+    "company": "Kocree",
+    "position": "Full-Stack System Architect",
+    "link": "https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/",
+    "posted_date": "Fri, 23 Jan 2026 16:55:52 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      23,
+      16,
+      55,
+      52,
+      4,
+      23,
+      0
+    ],
+    "discovered_date": "2026-02-25T15:33:18.508702",
     "badges": {
       "min_gpa": null,
       "visa_sponsorship": null,

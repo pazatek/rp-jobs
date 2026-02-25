@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 25, 2026 at 08:16 AM CST | **Total:** 31
+**Updated:** February 25, 2026 at 09:33 AM CST | **Total:** 40
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Country Financial | Data Science Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-digitalab/) |
+| Country Financial | User Experience Design Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/user-experience-design-intern-digitalab/) |
+| Country Financial | Software Developer Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/software-developer-intern-digitalab/) |
 | Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
 | Littelfuse | Sr. New Product Development Engineer | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer/) |
 | GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
@@ -25,6 +28,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Affiliated Engineers | Electrical Project Engineer | Feb 11, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-project-engineer/) |
 | State Farm | Summer 2026 Intern – MAGNet Program | Feb 11, 2026 09:46 AM CST | [Apply](https://researchpark.illinois.edu/job/summer-2026-intern-magnet-program/) |
 | Littelfuse | New Product Development Engineer | Feb 11, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/new-product-development-engineer/) |
+| Kocree | Business Development Intern | Jan 23, 2026 11:02 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
+| Kocree | Business Development | Jan 23, 2026 11:01 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-kocree/) |
+| Kocree | Full-Stack System Architect Intern | Jan 23, 2026 10:57 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/) |
+| Kocree | Blockchain Developer Intern | Jan 23, 2026 10:57 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/) |
+| Kocree | Blockchain Developer | Jan 23, 2026 10:56 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-kocree/) |
+| Kocree | Full-Stack System Architect | Jan 23, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/) |
 | John Deere | Part-Time Student- Software Engineer | Jan 20, 2026 03:39 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | Avea Robotics | Founding Engineer (Robotics) | Jan 16, 2026 11:30 AM CST | [Apply](https://researchpark.illinois.edu/job/founding-engineer-robotics/) |
 | Cache Energy | Materials Performance Engineer | Jan 12, 2026 11:04 AM CST | [Apply](https://researchpark.illinois.edu/job/materials-performance-engineer/) |
@@ -43,14 +52,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 31 postings)
+### Job Posting Times (Based on 40 postings)
 
 ```
 Jobs
 
-  9 AM │██████████████████████ 5
- 10 AM │█████████████ 3
- 11 AM │███████████████████████████████ 7
+  9 AM │███████████████████████████████████ 8
+ 10 AM │███████████████████████████████ 7
+ 11 AM │████████████████████████████████████████ 9
  12 PM │████ 1
   1 PM │████ 1
   2 PM │████████████████████████████████████████ 9
