@@ -65,42 +65,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
-    "company": "John Deere",
-    "position": "Part-Time Student- Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/",
-    "posted_date": "Wed, 25 Feb 2026 16:32:29 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      25,
-      16,
-      32,
-      29,
-      2,
-      56,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971800",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Management Information Systems"
-      ],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47803",
     "company": "Kocree",
     "position": "Blockchain Developer Intern",
@@ -258,43 +222,6 @@
       ],
       "job_type": "internship",
       "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47878",
-    "company": "John Deere",
-    "position": "Part-Time Student- Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer/",
-    "posted_date": "Wed, 25 Feb 2026 16:30:32 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      25,
-      16,
-      30,
-      32,
-      2,
-      56,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971766",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Software Engineering"
-      ],
-      "job_type": "part-time",
-      "work_mode": "hybrid",
       "duration": null
     }
   },

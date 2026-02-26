@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 26, 2026 at 09:56 AM CST | **Total:** 42
+**Updated:** February 26, 2026 at 11:06 AM CST | **Total:** 40
 
 ---
 
@@ -10,13 +10,11 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | ------- | -------- | ------ | ---- |
 | University of Illinois Sponsored Programs Administration | Award Management Coordinator / Senior Award Management Coordinator | Feb 26, 2026 08:00 AM CST | [Apply](https://researchpark.illinois.edu/job/award-management-coordinator-senior-award-management-coordinator-2/) |
 | Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 25, 2026 02:00 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
-| John Deere | Part-Time Student- Software Engineer | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | Kocree | Blockchain Developer Intern | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/) |
 | Kocree | Full-Stack System Architect Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/) |
 | Kocree | Business Development Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
 | Brunswick | Data Science Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-3/) |
 | Brunswick | Computer Graphics Software Developer Intern | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-software-developer-intern/) |
-| John Deere | Part-Time Student- Software Engineer | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
@@ -54,21 +52,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 42 postings)
+### Job Posting Times (Based on 40 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │████████████████████ 9
- 10 AM │████████████████████████████████████████ 18
- 11 AM │████████ 4
-  2 PM │█████████████ 6
-  3 PM │████ 2
+  9 AM │██████████████████████ 9
+ 10 AM │████████████████████████████████████████ 16
+ 11 AM │██████████ 4
+  2 PM │███████████████ 6
+  3 PM │█████ 2
   4 PM │██ 1
   5 PM │██ 1
        └────────────────────────────────────────
-        0                                       18
+        0                                       16
 ```
 
 
