@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47934",
+    "company": "University of Illinois Sponsored Programs Administration",
+    "position": "Award Management Coordinator / Senior Award Management Coordinator",
+    "link": "https://researchpark.illinois.edu/job/award-management-coordinator-senior-award-management-coordinator-2/",
+    "posted_date": "Thu, 26 Feb 2026 14:00:00 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      26,
+      14,
+      0,
+      0,
+      3,
+      57,
+      0
+    ],
+    "discovered_date": "2026-02-26T14:51:43.687727",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47864",
     "company": "Synchrony",
     "position": "SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern",
