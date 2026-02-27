@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47949",
+    "company": "Aviatrix",
+    "position": "MTS \u2013 Software Development",
+    "link": "https://researchpark.illinois.edu/job/mts-software-development-2/",
+    "posted_date": "Fri, 27 Feb 2026 18:51:59 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      27,
+      18,
+      51,
+      59,
+      4,
+      58,
+      0
+    ],
+    "discovered_date": "2026-02-27T19:03:39.127584",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47948",
     "company": "Aviatrix",
     "position": "Senior MTS \u2013 Software Development",
