@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47947",
+    "company": "Aviatrix",
+    "position": "Staff Engineer \u2013 Software Development",
+    "link": "https://researchpark.illinois.edu/job/staff-engineer-software-development-2/",
+    "posted_date": "Fri, 27 Feb 2026 16:40:44 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      27,
+      16,
+      40,
+      44,
+      4,
+      58,
+      0
+    ],
+    "discovered_date": "2026-02-27T16:45:15.514426",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47946",
+    "company": "Aviatrix",
+    "position": "Senior Member Technical Staff \u2013 Software Development",
+    "link": "https://researchpark.illinois.edu/job/senior-member-technical-staff-software-development/",
+    "posted_date": "Fri, 27 Feb 2026 16:23:23 +0000",
+    "published_parsed": [
+      2026,
+      2,
+      27,
+      16,
+      23,
+      23,
+      4,
+      58,
+      0
+    ],
+    "discovered_date": "2026-02-27T16:45:15.514432",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47934",
     "company": "University of Illinois Sponsored Programs Administration",
     "position": "Award Management Coordinator / Senior Award Management Coordinator",
