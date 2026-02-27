@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 27, 2026 at 11:23 AM CST | **Total:** 42
+**Updated:** February 27, 2026 at 12:01 PM CST | **Total:** 43
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Aviatrix | Senior MTS – Software Development | Feb 27, 2026 10:52 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-mts-software-development/) |
 | Aviatrix | Staff Engineer – Software Development | Feb 27, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/staff-engineer-software-development-2/) |
 | Aviatrix | Senior Member Technical Staff – Software Development | Feb 27, 2026 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-member-technical-staff-software-development/) |
 | University of Illinois Sponsored Programs Administration | Award Management Coordinator / Senior Award Management Coordinator | Feb 26, 2026 08:00 AM CST | [Apply](https://researchpark.illinois.edu/job/award-management-coordinator-senior-award-management-coordinator-2/) |
@@ -54,21 +55,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 42 postings)
+### Job Posting Times (Based on 43 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │████████████████████ 9
- 10 AM │████████████████████████████████████████ 18
+  9 AM │██████████████████ 9
+ 10 AM │████████████████████████████████████████ 19
  11 AM │████████ 4
-  2 PM │█████████████ 6
+  2 PM │████████████ 6
   3 PM │████ 2
   4 PM │██ 1
   5 PM │██ 1
        └────────────────────────────────────────
-        0                                       18
+        0                                       19
 ```
 
 
