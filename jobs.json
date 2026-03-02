@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47951",
+    "company": "Brunswick",
+    "position": "Software Engineer Intern",
+    "link": "https://researchpark.illinois.edu/job/software-engineer-intern-3/",
+    "posted_date": "Mon, 02 Mar 2026 16:16:41 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      2,
+      16,
+      16,
+      41,
+      0,
+      61,
+      0
+    ],
+    "discovered_date": "2026-03-02T16:59:55.634007",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Computer Engineering",
+        "Physics"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
     "company": "Research Park",
     "position": "Events Intern",

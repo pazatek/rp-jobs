@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 02, 2026 at 09:57 AM CST | **Total:** 44
+**Updated:** March 02, 2026 at 10:59 AM CST | **Total:** 45
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Brunswick | Software Engineer Intern | Mar 02, 2026 10:16 AM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-3/) |
 | Research Park | Events Intern | Mar 02, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Research Park | HR and Outreach Intern | Mar 02, 2026 09:02 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Research Park | Graphic Design Intern | Mar 02, 2026 08:56 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
@@ -56,14 +57,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 44 postings)
+### Job Posting Times (Based on 45 postings)
 
 ```
 Jobs
 
   8 AM │████ 2
   9 AM │████████████████ 8
- 10 AM │████████████████████████████████████████ 19
+ 10 AM │████████████████████████████████████████ 20
  11 AM │████████ 4
  12 PM │██ 1
   2 PM │████████████ 6
@@ -71,7 +72,7 @@ Jobs
   4 PM │██ 1
   5 PM │██ 1
        └────────────────────────────────────────
-        0                                       19
+        0                                       20
 ```
 
 
