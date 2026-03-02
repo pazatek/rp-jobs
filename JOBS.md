@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 02, 2026 at 09:10 AM CST | **Total:** 41
+**Updated:** March 02, 2026 at 09:57 AM CST | **Total:** 44
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Events Intern | Mar 02, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
+| Research Park | HR and Outreach Intern | Mar 02, 2026 09:02 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
+| Research Park | Graphic Design Intern | Mar 02, 2026 08:56 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Aviatrix | MTS – Software Development | Feb 27, 2026 12:51 PM CST | [Apply](https://researchpark.illinois.edu/job/mts-software-development-2/) |
 | Aviatrix | Senior MTS – Software Development | Feb 27, 2026 10:52 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-mts-software-development/) |
 | Aviatrix | Staff Engineer – Software Development | Feb 27, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/staff-engineer-software-development-2/) |
@@ -53,13 +56,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 41 postings)
+### Job Posting Times (Based on 44 postings)
 
 ```
 Jobs
 
-  8 AM │██ 1
-  9 AM │████████████ 6
+  8 AM │████ 2
+  9 AM │████████████████ 8
  10 AM │████████████████████████████████████████ 19
  11 AM │████████ 4
  12 PM │██ 1
