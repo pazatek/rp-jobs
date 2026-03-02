@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 02, 2026 at 10:59 AM CST | **Total:** 45
+**Updated:** March 02, 2026 at 11:55 AM CST | **Total:** 47
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
+| AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
 | Brunswick | Software Engineer Intern | Mar 02, 2026 10:16 AM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-3/) |
 | Research Park | Events Intern | Mar 02, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Research Park | HR and Outreach Intern | Mar 02, 2026 09:02 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
@@ -57,7 +59,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 45 postings)
+### Job Posting Times (Based on 47 postings)
 
 ```
 Jobs
@@ -65,7 +67,7 @@ Jobs
   8 AM │████ 2
   9 AM │████████████████ 8
  10 AM │████████████████████████████████████████ 20
- 11 AM │████████ 4
+ 11 AM │████████████ 6
  12 PM │██ 1
   2 PM │████████████ 6
   3 PM │████ 2

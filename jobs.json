@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47953",
+    "company": "EarthSense",
+    "position": "Robotics Technician",
+    "link": "https://researchpark.illinois.edu/job/robotics-technician/",
+    "posted_date": "Mon, 02 Mar 2026 17:45:52 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      2,
+      17,
+      45,
+      52,
+      0,
+      61,
+      0
+    ],
+    "discovered_date": "2026-03-02T17:55:17.394078",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47952",
+    "company": "AXIS Capital",
+    "position": "Data Processing Intern",
+    "link": "https://researchpark.illinois.edu/job/data-processing-intern/",
+    "posted_date": "Mon, 02 Mar 2026 17:37:10 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      2,
+      17,
+      37,
+      10,
+      0,
+      61,
+      0
+    ],
+    "discovered_date": "2026-03-02T17:55:17.394086",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47951",
     "company": "Brunswick",
     "position": "Software Engineer Intern",
