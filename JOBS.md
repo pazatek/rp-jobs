@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** February 27, 2026 at 04:59 PM CST | **Total:** 44
+**Updated:** March 02, 2026 at 02:52 AM CST | **Total:** 41
 
 ---
 
@@ -26,9 +26,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Data Platform Engineer Internship Summer 2026 | Feb 25, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/) |
 | Dow | Data Engineer Internship Summer 2026 | Feb 25, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
 | Cygnus Photonics | Engineering Internship | Feb 25, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-internship-2/) |
-| Country Financial | Data Science Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/data-science-intern-digitalab/) |
-| Country Financial | User Experience Design Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/user-experience-design-intern-digitalab/) |
-| Country Financial | Software Developer Intern – DigitaLab | Feb 25, 2026 09:08 AM CST | [Apply](https://researchpark.illinois.edu/job/software-developer-intern-digitalab/) |
 | Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
 | Littelfuse | Sr. New Product Development Engineer | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer/) |
 | GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
@@ -56,13 +53,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 44 postings)
+### Job Posting Times (Based on 41 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │██████████████████ 9
+  9 AM │████████████ 6
  10 AM │████████████████████████████████████████ 19
  11 AM │████████ 4
  12 PM │██ 1
