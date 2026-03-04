@@ -38,6 +38,10 @@
             }
         }
 
+        html {
+            scroll-behavior: smooth;
+        }
+
         .custom-checkbox {
             appearance: none;
             -webkit-appearance: none;
@@ -99,6 +103,20 @@
         .animate-slide-in {
             animation: slideIn 0.2s ease-out forwards;
         }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .animate-fade-in {
+            animation: fadeIn 0.2s ease-out forwards;
+        }
     </style>
 </head>
 
@@ -156,41 +174,42 @@
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('years', 'freshman')"
-                                    class="custom-checkbox">
+                                    data-category="years" data-value="freshman" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Freshman</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('years', 'sophomore')"
-                                    class="custom-checkbox">
+                                    data-category="years" data-value="sophomore" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Sophomore</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
-                                <input type="checkbox" onchange="toggleFilter('years', 'junior')"
-                                    class="custom-checkbox">
+                                <input type="checkbox" onchange="toggleFilter('years', 'junior')" data-category="years"
+                                    data-value="junior" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Junior</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
-                                <input type="checkbox" onchange="toggleFilter('years', 'senior')"
-                                    class="custom-checkbox">
+                                <input type="checkbox" onchange="toggleFilter('years', 'senior')" data-category="years"
+                                    data-value="senior" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Senior</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
-                                <input type="checkbox" onchange="toggleFilter('years', 'masters')"
-                                    class="custom-checkbox">
+                                <input type="checkbox" onchange="toggleFilter('years', 'masters')" data-category="years"
+                                    data-value="masters" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Masters</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
-                                <input type="checkbox" onchange="toggleFilter('years', 'phd')" class="custom-checkbox">
+                                <input type="checkbox" onchange="toggleFilter('years', 'phd')" data-category="years"
+                                    data-value="phd" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">PhD</span>
                             </label>
@@ -208,7 +227,7 @@
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'computer science')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="computer science" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Computer
                                     Science</span>
@@ -216,28 +235,28 @@
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'computer engineering')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="computer engineering" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">CompE</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'electrical engineering')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="electrical engineering" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">EE</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'mechanical engineering')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="mechanical engineering" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">MechE</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'data science')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="data science" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Data
                                     Science</span>
@@ -245,26 +264,33 @@
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'statistics')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="statistics" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Statistics</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'business')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="business" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Business</span>
                             </label>
                             <label
                                 class="flex items-center gap-3 px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/50 rounded-lg cursor-pointer transition-colors group">
                                 <input type="checkbox" onchange="toggleFilter('majors', 'finance')"
-                                    class="custom-checkbox">
+                                    data-category="majors" data-value="finance" class="custom-checkbox">
                                 <span
                                     class="text-sm text-gray-700 dark:text-gray-200 group-hover:text-brand-navy dark:group-hover:text-white font-medium">Finance</span>
                             </label>
                         </div>
                     </div>
+
+                    <!-- Clear Filters Button -->
+                    <button onclick="clearFilters()" id="clear-filters-btn"
+                        class="hidden h-10 w-10 rounded-lg text-sm font-semibold bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-600 hover:text-rose-500 dark:hover:text-rose-400 transition-all focus:outline-none focus:ring-2 focus:ring-rose-500 flex items-center justify-center shadow-sm"
+                        title="Clear all filters">
+                        <i class="fas fa-times"></i>
+                    </button>
                 </div>
 
                 <div class="flex gap-2 h-10">
@@ -280,7 +306,9 @@
                     </button>
                 </div>
             </div>
-            <p class="text-xs text-gray-400 dark:text-gray-500 mb-3 mt-1 text-left"><i class="fas fa-circle-info mr-1 opacity-50"></i>Not all listings specify year or major — filters may hide relevant jobs.</p>
+            <p class="text-xs text-gray-400 dark:text-gray-500 mb-3 mt-1 text-left"><i
+                    class="fas fa-circle-info mr-1 opacity-50"></i>Not all listings specify year or major — filters may
+                hide relevant jobs.</p>
 
             <div id="job-table-wrap"
                 class="bg-white dark:bg-gray-800 shadow-md rounded-xl overflow-hidden flairs-active border border-gray-100 dark:border-gray-700">
@@ -314,18 +342,23 @@
                             <td class="hidden md:table-cell px-6 py-4 text-sm align-top">
                                 <div class="flex items-center gap-2">
                                     {% if job.logo_url %}
-                                    <img src="{{ job.logo_url }}" alt="" class="w-6 h-6 rounded flex-shrink-0" onerror="this.style.display='none'">
+                                    <img src="{{ job.logo_url }}" alt="" class="w-6 h-6 rounded flex-shrink-0"
+                                        onerror="this.style.display='none'">
                                     {% endif %}
-                                    <span class="text-gray-900 dark:text-gray-100 font-semibold truncate">{{ job.company }}</span>
+                                    <span class="text-gray-900 dark:text-gray-100 font-semibold truncate">{{ job.company
+                                        }}</span>
                                 </div>
                             </td>
                             <td class="px-4 md:px-6 py-4 text-sm align-top">
                                 <div class="pos-content">
                                     <div class="md:hidden flex items-center gap-1.5 mb-1">
                                         {% if job.logo_url %}
-                                        <img src="{{ job.logo_url }}" alt="" class="w-4 h-4 rounded" onerror="this.style.display='none'">
+                                        <img src="{{ job.logo_url }}" alt="" class="w-4 h-4 rounded"
+                                            onerror="this.style.display='none'">
                                         {% endif %}
-                                        <span class="text-xs text-gray-500 dark:text-gray-400 font-bold tracking-tight uppercase">{{ job.company }}</span>
+                                        <span
+                                            class="text-xs text-gray-500 dark:text-gray-400 font-bold tracking-tight uppercase">{{
+                                            job.company }}</span>
                                     </div>
                                     <span
                                         class="text-gray-900 dark:text-gray-100 block md:inline font-medium text-base">{{
@@ -533,6 +566,7 @@
                     }
                 });
             }
+            updateClearButtonVisibility();
         }
 
         function toggleFilter(category, value) {
@@ -543,6 +577,42 @@
                 filters[category].splice(index, 1);
             }
             applyFilters();
+            updateClearButtonVisibility();
+        }
+
+        function clearFilters() {
+            // Reset state
+            filters.type = 'all';
+            filters.years = [];
+            filters.majors = [];
+
+            // Reset UI - Type buttons
+            ['all', 'internship', 'fulltime'].forEach(t => {
+                const btn = document.getElementById('filter-type-' + t);
+                if (t === 'all') {
+                    btn.className = 'px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 bg-white dark:bg-gray-600 text-brand-navy dark:text-white shadow-sm ring-1 ring-black/5 dark:ring-white/10';
+                } else {
+                    btn.className = 'px-4 h-full rounded-md text-sm font-semibold transition-all duration-200 text-gray-500 dark:text-gray-400 hover:text-brand-navy dark:hover:text-white';
+                }
+            });
+
+            // Reset UI - Checkboxes
+            document.querySelectorAll('.custom-checkbox').forEach(cb => cb.checked = false);
+
+            applyFilters();
+            updateClearButtonVisibility();
+        }
+
+        function updateClearButtonVisibility() {
+            const hasActiveFilters = filters.type !== 'all' || filters.years.length > 0 || filters.majors.length > 0;
+            const btn = document.getElementById('clear-filters-btn');
+            if (hasActiveFilters) {
+                btn.classList.remove('hidden');
+                btn.classList.add('animate-fade-in');
+            } else {
+                btn.classList.add('hidden');
+                btn.classList.remove('animate-fade-in');
+            }
         }
 
         function applyFilters() {
@@ -611,6 +681,35 @@
                 btn.textContent = 'Subscribe Now';
             }
         });
+
+        // Sync filters with checkbox state on load
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.custom-checkbox').forEach(cb => {
+                if (cb.checked) {
+                    const category = cb.getAttribute('data-category');
+                    const value = cb.getAttribute('data-value');
+                    if (category && value) {
+                        if (filters[category] && !filters[category].includes(value)) {
+                            filters[category].push(value);
+                        }
+                    }
+                }
+            });
+            applyFilters();
+            updateClearButtonVisibility();
+        });
+
+        // Smooth height transition for table
+        const tableWrap = document.getElementById('job-table-wrap');
+        const table = tableWrap.querySelector('table');
+
+        tableWrap.style.transition = 'height 0.3s ease-out';
+
+        const resizeObserver = new ResizeObserver(() => {
+            tableWrap.style.height = table.offsetHeight + 'px';
+        });
+
+        resizeObserver.observe(table);
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
 </body>
