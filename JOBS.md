@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 04, 2026 at 05:04 PM CST | **Total:** 45
+**Updated:** March 05, 2026 at 02:50 AM CST | **Total:** 46
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
 | Brunswick | Software Engineer Intern | Mar 02, 2026 10:16 AM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-3/) |
@@ -57,7 +58,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 45 postings)
+### Job Posting Times (Based on 46 postings)
 
 ```
 Jobs
@@ -71,6 +72,7 @@ Jobs
   3 PM │████ 2
   4 PM │██ 1
   5 PM │██ 1
+  6 PM │██ 1
        └────────────────────────────────────────
         0                                       18
 ```

@@ -1,5 +1,42 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
+    "company": "John Deere",
+    "position": "Part-Time Student- Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/",
+    "posted_date": "Thu, 05 Mar 2026 00:15:28 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      5,
+      0,
+      15,
+      28,
+      3,
+      64,
+      0
+    ],
+    "discovered_date": "2026-03-05T08:50:31.888356",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Data Science"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47953",
     "company": "EarthSense",
     "position": "Robotics Technician",
