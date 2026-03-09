@@ -2,13 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 09, 2026 at 12:34 PM CST | **Total:** 50
+**Updated:** March 09, 2026 at 01:31 PM CST | **Total:** 50
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Rivian | Research Park Internship – Motor Controls Development Research Intern – | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
+| Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
 | Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 07, 2026 06:04 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
