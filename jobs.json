@@ -1,5 +1,213 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47991",
+    "company": "Rivian",
+    "position": "Research Park Internship \u2013 Motor Controls Development Research Intern \u2013",
+    "link": "https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/",
+    "posted_date": "Sun, 08 Mar 2026 22:35:33 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      22,
+      35,
+      33,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166669",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47990",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab HR Spring/Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/",
+    "posted_date": "Sun, 08 Mar 2026 22:15:56 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      22,
+      15,
+      56,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166677",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Human Resources"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Communcations Spring/Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/",
+    "posted_date": "Sun, 08 Mar 2026 22:08:10 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      22,
+      8,
+      10,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166679",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Journalism",
+        "Digital Media",
+        "Communications",
+        "Public Relations"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47987",
+    "company": "Dow",
+    "position": "Dow Career Experiences for PhDs \u2013 Adhesives/Primers in Roofing Membranes",
+    "link": "https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/",
+    "posted_date": "Sun, 08 Mar 2026 00:04:01 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      0,
+      4,
+      1,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166680",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Chemical Engineering",
+        "Material Science Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47986",
+    "company": "Dow",
+    "position": "Dow Career Experiences for PhDs \u2013 Optical Chemical Structure Recognition",
+    "link": "https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/",
+    "posted_date": "Sun, 08 Mar 2026 00:00:28 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      0,
+      0,
+      28,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166682",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Chemical Engineering",
+        "Materials Science Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47983",
+    "company": "Dow",
+    "position": "Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance",
+    "link": "https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/",
+    "posted_date": "Sat, 07 Mar 2026 23:55:05 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      7,
+      23,
+      55,
+      5,
+      5,
+      66,
+      0
+    ],
+    "discovered_date": "2026-03-09T08:51:15.166683",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Chemical Engineering",
+        "Material Science Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47534",
     "company": "John Deere",
     "position": "Part-Time Student- Software Engineer",
@@ -93,42 +301,6 @@
       "majors": [],
       "job_type": "internship",
       "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47951",
-    "company": "Brunswick",
-    "position": "Software Engineer Intern",
-    "link": "https://researchpark.illinois.edu/job/software-engineer-intern-3/",
-    "posted_date": "Mon, 02 Mar 2026 16:16:41 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      2,
-      16,
-      16,
-      41,
-      0,
-      61,
-      0
-    ],
-    "discovered_date": "2026-03-02T16:59:55.634007",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Data Science",
-        "Statistics",
-        "Computer Engineering",
-        "Physics"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
       "duration": null
     }
   },
@@ -1148,36 +1320,6 @@
         "Mechanical Engineering",
         "Chemical Engineering"
       ],
-      "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47726",
-    "company": "Lyten",
-    "position": "Senior Manager, Plasma Science & Innovation",
-    "link": "https://researchpark.illinois.edu/job/senior-manager-plasma-science-innovation/",
-    "posted_date": "Thu, 08 Jan 2026 22:22:10 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      8,
-      22,
-      22,
-      10,
-      3,
-      8,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971808",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
       "job_type": "full-time",
       "work_mode": null,
       "duration": null

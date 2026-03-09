@@ -2,16 +2,21 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 06, 2026 at 04:48 PM CST | **Total:** 46
+**Updated:** March 09, 2026 at 03:51 AM CST | **Total:** 50
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Rivian | Research Park Internship – Motor Controls Development Research Intern – | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
+| Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
+| Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
+| Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 07, 2026 06:04 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
+| Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 07, 2026 06:00 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
+| Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 07, 2026 05:55 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
 | John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
-| Brunswick | Software Engineer Intern | Mar 02, 2026 10:16 AM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-3/) |
 | Research Park | Events Intern | Mar 02, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Research Park | HR and Outreach Intern | Mar 02, 2026 09:02 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Research Park | Graphic Design Intern | Mar 02, 2026 08:56 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
@@ -43,7 +48,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Kocree | Full-Stack System Architect | Jan 23, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/) |
 | Avea Robotics | Founding Engineer (Robotics) | Jan 16, 2026 11:30 AM CST | [Apply](https://researchpark.illinois.edu/job/founding-engineer-robotics/) |
 | Cache Energy | Materials Performance Engineer | Jan 12, 2026 11:04 AM CST | [Apply](https://researchpark.illinois.edu/job/materials-performance-engineer/) |
-| Lyten | Senior Manager, Plasma Science & Innovation | Jan 08, 2026 04:22 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-manager-plasma-science-innovation/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
 | Electric Power Engineers | Power Systems Engineer Intern – Summer | Dec 17, 2025 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/power-systems-engineer-intern-summer/) |
 | NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Dec 16, 2025 03:12 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture/) |
@@ -58,23 +62,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 46 postings)
+### Job Posting Times (Based on 50 postings)
 
 ```
 Jobs
 
   8 AM │████ 2
-  9 AM │█████████████████ 8
- 10 AM │████████████████████████████████████████ 18
- 11 AM │█████████████ 6
+  9 AM │██████████████████ 8
+ 10 AM │████████████████████████████████████████ 17
+ 11 AM │██████████████ 6
  12 PM │██ 1
-  2 PM │█████████████ 6
+  2 PM │██████████████ 6
   3 PM │████ 2
-  4 PM │██ 1
-  5 PM │██ 1
-  6 PM │██ 1
+  5 PM │███████████ 5
+  6 PM │███████ 3
        └────────────────────────────────────────
-        0                                       18
+        0                                       17
 ```
 
 
