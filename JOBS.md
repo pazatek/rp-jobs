@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 11, 2026 at 11:04 AM CST | **Total:** 48
+**Updated:** March 11, 2026 at 12:11 PM CST | **Total:** 49
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Communications Intern | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
+| Research Park | Graphic Design Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
+| Research Park | HR and Outreach Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
+| Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
@@ -17,9 +21,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
-| Research Park | Events Intern | Mar 02, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
-| Research Park | HR and Outreach Intern | Mar 02, 2026 09:02 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
-| Research Park | Graphic Design Intern | Mar 02, 2026 08:56 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Aviatrix | MTS – Software Development | Feb 27, 2026 12:51 PM CST | [Apply](https://researchpark.illinois.edu/job/mts-software-development-2/) |
 | Aviatrix | Senior MTS – Software Development | Feb 27, 2026 10:52 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-mts-software-development/) |
 | Aviatrix | Staff Engineer – Software Development | Feb 27, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/staff-engineer-software-development-2/) |
@@ -60,15 +61,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 48 postings)
+### Job Posting Times (Based on 49 postings)
 
 ```
 Jobs
 
-  8 AM │█████ 2
-  9 AM │█████████████████████ 8
+  8 AM │██ 1
+  9 AM │████████████████ 6
  10 AM │████████████████████████████████████████ 15
- 11 AM │████████████████ 6
+ 11 AM │██████████████████████████ 10
  12 PM │██ 1
   2 PM │████████████████ 6
   3 PM │█████ 2

@@ -1,5 +1,143 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
+    "company": "Research Park",
+    "position": "Communications Intern",
+    "link": "https://researchpark.illinois.edu/job/communications-intern-2/",
+    "posted_date": "Wed, 11 Mar 2026 16:32:43 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      11,
+      16,
+      32,
+      43,
+      2,
+      70,
+      0
+    ],
+    "discovered_date": "2026-03-11T17:11:50.486702",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
+    "company": "Research Park",
+    "position": "Graphic Design Intern",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
+    "posted_date": "Wed, 11 Mar 2026 16:06:53 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      11,
+      16,
+      6,
+      53,
+      2,
+      70,
+      0
+    ],
+    "discovered_date": "2026-03-02T15:57:04.231389",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Graphic Design"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
+    "company": "Research Park",
+    "position": "HR and Outreach Intern",
+    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
+    "posted_date": "Wed, 11 Mar 2026 16:06:10 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      11,
+      16,
+      6,
+      10,
+      2,
+      70,
+      0
+    ],
+    "discovered_date": "2026-03-02T15:57:04.231387",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
+    "company": "Research Park",
+    "position": "Events Intern",
+    "link": "https://researchpark.illinois.edu/job/events-intern-2/",
+    "posted_date": "Wed, 11 Mar 2026 16:05:48 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      11,
+      16,
+      5,
+      48,
+      2,
+      70,
+      0
+    ],
+    "discovered_date": "2026-03-02T15:57:04.231380",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47991",
     "company": "Rivian",
     "position": "Research Park Internship \u2013 Motor Controls Development Research Intern",
@@ -302,110 +440,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
-    "company": "Research Park",
-    "position": "Events Intern",
-    "link": "https://researchpark.illinois.edu/job/events-intern-2/",
-    "posted_date": "Mon, 02 Mar 2026 15:53:02 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      2,
-      15,
-      53,
-      2,
-      0,
-      61,
-      0
-    ],
-    "discovered_date": "2026-03-02T15:57:04.231380",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
-    "company": "Research Park",
-    "position": "HR and Outreach Intern",
-    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
-    "posted_date": "Mon, 02 Mar 2026 15:02:13 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      2,
-      15,
-      2,
-      13,
-      0,
-      61,
-      0
-    ],
-    "discovered_date": "2026-03-02T15:57:04.231387",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
-    "company": "Research Park",
-    "position": "Graphic Design Intern",
-    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
-    "posted_date": "Mon, 02 Mar 2026 14:56:20 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      2,
-      14,
-      56,
-      20,
-      0,
-      61,
-      0
-    ],
-    "discovered_date": "2026-03-02T15:57:04.231389",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Graphic Design"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
     }
   },
   {
