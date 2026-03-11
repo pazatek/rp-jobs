@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 10, 2026 at 06:02 PM CST | **Total:** 50
+**Updated:** March 11, 2026 at 03:49 AM CST | **Total:** 48
 
 ---
 
@@ -33,8 +33,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
-| Dow | Data Platform Engineer Internship Summer 2026 | Feb 25, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-platform-engineer-internship-summer-2026/) |
-| Dow | Data Engineer Internship Summer 2026 | Feb 25, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-internship-summer-2026/) |
 | Cygnus Photonics | Engineering Internship | Feb 25, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-internship-2/) |
 | Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
 | Littelfuse | Sr. New Product Development Engineer | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer/) |
@@ -62,22 +60,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 50 postings)
+### Job Posting Times (Based on 48 postings)
 
 ```
 Jobs
 
-  8 AM │████ 2
-  9 AM │██████████████████ 8
- 10 AM │████████████████████████████████████████ 17
- 11 AM │██████████████ 6
+  8 AM │█████ 2
+  9 AM │█████████████████████ 8
+ 10 AM │████████████████████████████████████████ 15
+ 11 AM │████████████████ 6
  12 PM │██ 1
-  2 PM │██████████████ 6
-  3 PM │████ 2
-  5 PM │███████████ 5
-  6 PM │███████ 3
+  2 PM │████████████████ 6
+  3 PM │█████ 2
+  5 PM │█████████████ 5
+  6 PM │████████ 3
        └────────────────────────────────────────
-        0                                       17
+        0                                       15
 ```
 
 
