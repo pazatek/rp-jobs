@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48015",
+    "company": "Johnson Controls",
+    "position": "AI Innovation Intern (PHD)",
+    "link": "https://researchpark.illinois.edu/job/ai-innovation-intern-phd/",
+    "posted_date": "Thu, 12 Mar 2026 17:12:38 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      12,
+      17,
+      12,
+      38,
+      3,
+      71,
+      0
+    ],
+    "discovered_date": "2026-03-12T17:27:00.897702",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
     "company": "Research Park",
     "position": "Communications Intern",

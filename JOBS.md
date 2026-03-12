@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 12, 2026 at 11:16 AM CST | **Total:** 46
+**Updated:** March 12, 2026 at 12:27 PM CST | **Total:** 47
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
 | Research Park | Communications Intern | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | HR and Outreach Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
@@ -58,7 +59,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 46 postings)
+### Job Posting Times (Based on 47 postings)
 
 ```
 Jobs
@@ -67,7 +68,7 @@ Jobs
   9 AM │█████████████████ 6
  10 AM │████████████████████████████████████████ 14
  11 AM │████████████████████████████ 10
- 12 PM │██ 1
+ 12 PM │█████ 2
   2 PM │███████████ 4
   3 PM │█████ 2
   5 PM │██████████████ 5
