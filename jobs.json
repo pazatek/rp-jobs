@@ -727,52 +727,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
-    "company": "Mondel\u0113z International",
-    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
-    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
-    "posted_date": "Wed, 25 Feb 2026 16:30:15 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      25,
-      16,
-      30,
-      15,
-      2,
-      56,
-      0
-    ],
-    "discovered_date": "2026-02-16T19:34:20.165479",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Philosophy",
-        "Consumer Science",
-        "Computer Science",
-        "Material Science",
-        "Music",
-        "Food Science",
-        "Psychology",
-        "Physiology",
-        "Psychiatry",
-        "Statistics",
-        "Economics"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47673",
     "company": "Synchrony",
     "position": "Emerging Technology Intern \u2013 Technology, Engineering, Design Summer 2026",
@@ -1508,66 +1462,6 @@
       "majors": [
         "Civil Engineering"
       ],
-      "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47619",
-    "company": "Tiptek",
-    "position": "Laboratory Technician",
-    "link": "https://researchpark.illinois.edu/job/laboratory-technician-2/",
-    "posted_date": "Fri, 05 Dec 2025 20:44:47 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      5,
-      20,
-      44,
-      47,
-      4,
-      339,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971832",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47620",
-    "company": "Tiptek",
-    "position": "Production Technician",
-    "link": "https://researchpark.illinois.edu/job/production-technician-2/",
-    "posted_date": "Fri, 05 Dec 2025 20:44:25 +0000",
-    "published_parsed": [
-      2025,
-      12,
-      5,
-      20,
-      44,
-      25,
-      4,
-      339,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971834",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
       "job_type": "full-time",
       "work_mode": null,
       "duration": null

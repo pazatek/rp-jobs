@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 11, 2026 at 05:59 PM CST | **Total:** 49
+**Updated:** March 12, 2026 at 03:50 AM CST | **Total:** 46
 
 ---
 
@@ -30,7 +30,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Kocree | Blockchain Developer Intern | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/) |
 | Kocree | Full-Stack System Architect Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/) |
 | Kocree | Business Development Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
-| Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
@@ -54,29 +53,27 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | NVIDIA | Distinguished Engineer, Apache Spark | Dec 16, 2025 02:56 PM CST | [Apply](https://researchpark.illinois.edu/job/distinguished-engineer-apache-spark/) |
 | NVIDIA | Senior C++ and Build Engineer – DC System Software | Dec 16, 2025 02:46 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-c-and-build-engineer-dc-system-software/) |
 | MSA | Project Engineer Public Works | Dec 16, 2025 02:14 PM CST | [Apply](https://researchpark.illinois.edu/job/project-engineer-public-works/) |
-| Tiptek | Laboratory Technician | Dec 05, 2025 02:44 PM CST | [Apply](https://researchpark.illinois.edu/job/laboratory-technician-2/) |
-| Tiptek | Production Technician | Dec 05, 2025 02:44 PM CST | [Apply](https://researchpark.illinois.edu/job/production-technician-2/) |
 | Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 49 postings)
+### Job Posting Times (Based on 46 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │████████████████ 6
- 10 AM │████████████████████████████████████████ 15
- 11 AM │██████████████████████████ 10
+  9 AM │█████████████████ 6
+ 10 AM │████████████████████████████████████████ 14
+ 11 AM │████████████████████████████ 10
  12 PM │██ 1
-  2 PM │████████████████ 6
+  2 PM │███████████ 4
   3 PM │█████ 2
-  5 PM │█████████████ 5
+  5 PM │██████████████ 5
   6 PM │████████ 3
        └────────────────────────────────────────
-        0                                       15
+        0                                       14
 ```
 
 
