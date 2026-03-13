@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 12, 2026 at 06:01 PM CST | **Total:** 47
+**Updated:** March 13, 2026 at 03:46 AM CST | **Total:** 45
 
 ---
 
@@ -36,7 +36,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
 | Cygnus Photonics | Engineering Internship | Feb 25, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-internship-2/) |
 | Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
-| Littelfuse | Sr. New Product Development Engineer | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer/) |
 | GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
 | Affiliated Engineers | Electrical Engineer II | Feb 11, 2026 10:58 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-engineer-ii/) |
 | Affiliated Engineers | Electrical Project Engineer | Feb 11, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-project-engineer/) |
@@ -46,7 +45,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Kocree | Blockchain Developer | Jan 23, 2026 10:56 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-kocree/) |
 | Kocree | Full-Stack System Architect | Jan 23, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/) |
 | Avea Robotics | Founding Engineer (Robotics) | Jan 16, 2026 11:30 AM CST | [Apply](https://researchpark.illinois.edu/job/founding-engineer-robotics/) |
-| Cache Energy | Materials Performance Engineer | Jan 12, 2026 11:04 AM CST | [Apply](https://researchpark.illinois.edu/job/materials-performance-engineer/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
 | Electric Power Engineers | Power Systems Engineer Intern – Summer | Dec 17, 2025 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/power-systems-engineer-intern-summer/) |
 | NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Dec 16, 2025 03:12 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture/) |
@@ -59,15 +57,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 47 postings)
+### Job Posting Times (Based on 45 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │█████████████████ 6
+  9 AM │██████████████ 5
  10 AM │████████████████████████████████████████ 14
- 11 AM │████████████████████████████ 10
+ 11 AM │█████████████████████████ 9
  12 PM │█████ 2
   2 PM │███████████ 4
   3 PM │█████ 2

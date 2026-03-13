@@ -919,39 +919,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47911",
-    "company": "Littelfuse",
-    "position": "Sr. New Product Development Engineer",
-    "link": "https://researchpark.illinois.edu/job/sr-new-product-development-engineer/",
-    "posted_date": "Fri, 20 Feb 2026 15:39:54 +0000",
-    "published_parsed": [
-      2026,
-      2,
-      20,
-      15,
-      39,
-      54,
-      4,
-      51,
-      0
-    ],
-    "discovered_date": "2026-02-20T15:54:15.504447",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47910",
     "company": "GDM",
     "position": "HR Operations Specialist",
@@ -1227,41 +1194,6 @@
       "uiuc_only": false,
       "class_years": [],
       "majors": [],
-      "job_type": "full-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=46395",
-    "company": "Cache Energy",
-    "position": "Materials Performance Engineer",
-    "link": "https://researchpark.illinois.edu/job/materials-performance-engineer/",
-    "posted_date": "Mon, 12 Jan 2026 17:04:28 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      12,
-      17,
-      4,
-      28,
-      0,
-      12,
-      0
-    ],
-    "discovered_date": "2026-02-16T10:59:24.971804",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Civil Engineering",
-        "Materials Engineering",
-        "Mechanical Engineering",
-        "Chemical Engineering"
-      ],
       "job_type": "full-time",
       "work_mode": null,
       "duration": null
