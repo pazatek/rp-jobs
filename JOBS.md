@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 16, 2026 at 01:38 PM CST | **Total:** 44
+**Updated:** March 16, 2026 at 02:42 PM CST | **Total:** 44
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
+| Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
+| Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
 | Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
 | Research Park | Communications Intern | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
@@ -16,9 +19,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
-| Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 07, 2026 06:04 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
-| Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 07, 2026 06:00 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
-| Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 07, 2026 05:55 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
 | John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
@@ -66,10 +66,10 @@ Jobs
  10 AM │████████████████████████████████████████ 14
  11 AM │█████████████████████████ 9
  12 PM │█████ 2
-  2 PM │███████████ 4
+  2 PM │████████████████████ 7
   3 PM │█████ 2
-  5 PM │██████████████ 5
-  6 PM │████████ 3
+  5 PM │███████████ 4
+  6 PM │██ 1
        └────────────────────────────────────────
         0                                       14
 ```
