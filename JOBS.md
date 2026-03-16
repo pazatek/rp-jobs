@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 13, 2026 at 06:01 PM CST | **Total:** 45
+**Updated:** March 16, 2026 at 04:01 AM CST | **Total:** 44
 
 ---
 
@@ -35,7 +35,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
 | Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
 | Cygnus Photonics | Engineering Internship | Feb 25, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-internship-2/) |
-| Littelfuse | Engineering Intern – Industrial Fuses | Feb 20, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-intern-industrial-fuses/) |
 | GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
 | Affiliated Engineers | Electrical Engineer II | Feb 11, 2026 10:58 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-engineer-ii/) |
 | Affiliated Engineers | Electrical Project Engineer | Feb 11, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/electrical-project-engineer/) |
@@ -57,13 +56,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 45 postings)
+### Job Posting Times (Based on 44 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
-  9 AM │██████████████ 5
+  9 AM │███████████ 4
  10 AM │████████████████████████████████████████ 14
  11 AM │█████████████████████████ 9
  12 PM │█████ 2
