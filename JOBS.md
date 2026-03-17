@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 17, 2026 at 10:45 AM CST | **Total:** 35
+**Updated:** March 17, 2026 at 11:47 AM CST | **Total:** 35
 
 ---
 
@@ -12,8 +12,8 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
 | Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
 | Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
-| Research Park | Communications Intern | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
-| Research Park | Graphic Design Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
+| Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
+| Research Park | Graphic Design Intern Summer 2026 | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | HR and Outreach Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
