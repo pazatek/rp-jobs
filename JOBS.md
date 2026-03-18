@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 17, 2026 at 06:16 PM CST | **Total:** 35
+**Updated:** March 18, 2026 at 03:55 AM CST | **Total:** 33
 
 ---
 
@@ -40,29 +40,26 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Kocree | Blockchain Developer | Jan 23, 2026 10:56 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-kocree/) |
 | Kocree | Full-Stack System Architect | Jan 23, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
-| Electric Power Engineers | Power Systems Engineer Intern – Summer | Dec 17, 2025 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/power-systems-engineer-intern-summer/) |
-| NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Dec 16, 2025 03:12 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture/) |
 | Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 35 postings)
+### Job Posting Times (Based on 33 postings)
 
 ```
 Jobs
 
   8 AM │███ 1
-  9 AM │██████ 2
- 10 AM │████████████████████████████████████████ 12
- 11 AM │██████████████████████████ 8
- 12 PM │██████ 2
-  2 PM │█████████████ 4
-  3 PM │███ 1
-  5 PM │█████████████ 4
+  9 AM │███████ 2
+ 10 AM │████████████████████████████████████████ 11
+ 11 AM │█████████████████████████████ 8
+ 12 PM │███████ 2
+  2 PM │██████████████ 4
+  5 PM │██████████████ 4
   6 PM │███ 1
        └────────────────────────────────────────
-        0                                       12
+        0                                       11
 ```
 
 
