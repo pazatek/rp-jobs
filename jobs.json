@@ -1,5 +1,46 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48059",
+    "company": "John Deere",
+    "position": "Part-Time Student- Data Science and Analytics",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/",
+    "posted_date": "Thu, 19 Mar 2026 16:54:46 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      19,
+      16,
+      54,
+      46,
+      3,
+      78,
+      0
+    ],
+    "discovered_date": "2026-03-19T17:43:38.521384",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Data Analytics",
+        "Engineering",
+        "Mathematics",
+        "Statistics"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47983",
     "company": "Dow",
     "position": "Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance",
@@ -163,76 +204,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
-    "company": "Research Park",
-    "position": "Graphic Design Intern Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
-    "posted_date": "Wed, 11 Mar 2026 16:06:53 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      11,
-      16,
-      6,
-      53,
-      2,
-      70,
-      0
-    ],
-    "discovered_date": "2026-03-02T15:57:04.231389",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Graphic Design"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
-    "company": "Research Park",
-    "position": "HR and Outreach Intern",
-    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
-    "posted_date": "Wed, 11 Mar 2026 16:06:10 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      11,
-      16,
-      6,
-      10,
-      2,
-      70,
-      0
-    ],
-    "discovered_date": "2026-03-02T15:57:04.231387",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
     }
   },
   {
