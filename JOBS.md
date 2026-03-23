@@ -2,14 +2,64 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 23, 2026 at 08:21 AM CST | **Total:** 0
+**Updated:** March 23, 2026 at 09:38 AM CST | **Total:** 32
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
+| Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
+| Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
+| Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
+| Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
+| Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
+| Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
+| Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
+| Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
+| Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
+| John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
+| EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
+| AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
+| Aviatrix | MTS – Software Development | Feb 27, 2026 12:51 PM CST | [Apply](https://researchpark.illinois.edu/job/mts-software-development-2/) |
+| Aviatrix | Senior MTS – Software Development | Feb 27, 2026 10:52 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-mts-software-development/) |
+| Aviatrix | Staff Engineer – Software Development | Feb 27, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/staff-engineer-software-development-2/) |
+| Aviatrix | Senior Member Technical Staff – Software Development | Feb 27, 2026 10:23 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-member-technical-staff-software-development/) |
+| University of Illinois Sponsored Programs Administration | Award Management Coordinator / Senior Award Management Coordinator | Feb 26, 2026 08:00 AM CST | [Apply](https://researchpark.illinois.edu/job/award-management-coordinator-senior-award-management-coordinator-2/) |
+| Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 25, 2026 02:00 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
+| Kocree | Blockchain Developer Intern | Feb 25, 2026 10:32 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-intern-kocree/) |
+| Kocree | Full-Stack System Architect Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-intern-kocree/) |
+| Kocree | Business Development Intern | Feb 25, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-kocree/) |
+| Synchrony | Emerging Technology Intern – Technology, Engineering, Design Summer 2026 | Feb 25, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-technology-engineering-design-summer-2026/) |
+| Synchrony | Emerging Technology Intern – Business, Marketing, Consulting Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-business-marketing-consulting-summer-2026/) |
+| Synchrony | Emerging Technology Intern – Data Analytics Capabilities Summer 2026 | Feb 25, 2026 10:29 AM CST | [Apply](https://researchpark.illinois.edu/job/emerging-technology-intern-data-analytics-capabilities-summer-2026/) |
+| Cygnus Photonics | Engineering Internship | Feb 25, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/engineering-internship-2/) |
+| GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
+| Kocree | Business Development | Jan 23, 2026 11:01 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-kocree/) |
+| Kocree | Blockchain Developer | Jan 23, 2026 10:56 AM CST | [Apply](https://researchpark.illinois.edu/job/blockchain-developer-kocree/) |
+| Kocree | Full-Stack System Architect | Jan 23, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/full-stack-system-architect-kocree/) |
+| Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
+| Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
+## Posting Time Distribution
+
+### Job Posting Times (Based on 32 postings)
+
+```
+Jobs
+
+  8 AM │███ 1
+  9 AM │███████ 2
+ 10 AM │████████████████████████████████████████ 11
+ 11 AM │█████████████████████████ 7
+ 12 PM │███████ 2
+  2 PM │██████████████ 4
+  5 PM │██████████████ 4
+  6 PM │███ 1
+       └────────────────────────────────────────
+        0                                       11
+```
 
 
 ---
