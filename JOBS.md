@@ -2,12 +2,21 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 25, 2026 at 09:42 AM CST | **Total:** 34
+**Updated:** March 25, 2026 at 10:52 AM CST | **Total:** 43
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
+| Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
+| Rivian | UIUC Research Park Intern – Validation | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/) |
+| Rivian | UIUC Research Park Intern – Low Voltage Electronics | Mar 25, 2026 10:05 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-low-voltage-electronics/) |
+| Rivian | UIUC Research Park Intern – Mechanical Modeling | Mar 25, 2026 10:05 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-mechanical-modeling/) |
+| Rivian | UIUC Research Park Intern – ADAS HW Systems Validation | Mar 25, 2026 10:04 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-adas-hw-systems-validation/) |
+| Rivian | UIUC Research Park Intern – Machine Learning Hardware | Mar 25, 2026 10:04 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-hardware/) |
+| Rivian | UIUC Research Park Intern – Machine Learning Compiler | Mar 25, 2026 10:03 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/) |
+| Rivian | UIUC Research Park Intern – Computational Methods Development | Mar 25, 2026 10:02 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/) |
 | John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
 | Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
 | Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
@@ -46,21 +55,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 34 postings)
+### Job Posting Times (Based on 43 postings)
 
 ```
 Jobs
 
-  8 AM │███ 1
-  9 AM │███████ 2
- 10 AM │████████████████████████████████████████ 11
- 11 AM │████████████████████████████████ 9
- 12 PM │███████ 2
-  2 PM │██████████████ 4
-  5 PM │██████████████ 4
-  6 PM │███ 1
+  8 AM │██ 1
+  9 AM │████ 2
+ 10 AM │████████████████████████████████████████ 20
+ 11 AM │██████████████████ 9
+ 12 PM │████ 2
+  2 PM │████████ 4
+  5 PM │████████ 4
+  6 PM │██ 1
        └────────────────────────────────────────
-        0                                       11
+        0                                       20
 ```
 
 
