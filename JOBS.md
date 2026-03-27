@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 27, 2026 at 10:35 AM CST | **Total:** 31
+**Updated:** March 27, 2026 at 11:37 AM CST | **Total:** 33
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Johnson Controls | AI Innovation Intern (Bachelor & Masters) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters/) |
+| Johnson Controls | AI Innovation Intern (PHD) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
+| Rivian | UIUC Research Park Intern – Design Verification | Mar 27, 2026 10:51 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/) |
 | Research Park | Student Outreach Intern | Mar 27, 2026 10:34 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
 | Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
@@ -22,7 +25,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
 | Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
 | Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
-| Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
 | Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern Summer 2026 | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
@@ -43,20 +45,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 31 postings)
+### Job Posting Times (Based on 33 postings)
 
 ```
 Jobs
 
-  9 AM │███ 1
- 10 AM │████████████████████████████████████████ 13
- 11 AM │█████████████████████ 7
- 12 PM │███ 1
-  2 PM │████████████ 4
-  5 PM │████████████ 4
-  6 PM │███ 1
+  9 AM │██ 1
+ 10 AM │████████████████████████████████████████ 16
+ 11 AM │█████████████████ 7
+  2 PM │██████████ 4
+  5 PM │██████████ 4
+  6 PM │██ 1
        └────────────────────────────────────────
-        0                                       13
+        0                                       16
 ```
 
 

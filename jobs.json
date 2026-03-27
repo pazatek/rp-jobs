@@ -1,5 +1,108 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48087",
+    "company": "Johnson Controls",
+    "position": "AI Innovation Intern (Bachelor & Masters)",
+    "link": "https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters/",
+    "posted_date": "Fri, 27 Mar 2026 15:55:48 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      15,
+      55,
+      48,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-27T16:37:22.432053",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48015",
+    "company": "Johnson Controls",
+    "position": "AI Innovation Intern (PHD)",
+    "link": "https://researchpark.illinois.edu/job/ai-innovation-intern-phd/",
+    "posted_date": "Fri, 27 Mar 2026 15:55:38 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      15,
+      55,
+      38,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679930",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48086",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Design Verification",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/",
+    "posted_date": "Fri, 27 Mar 2026 15:51:51 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      15,
+      51,
+      51,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-27T16:37:22.432060",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
     "company": "Research Park",
     "position": "Student Outreach Intern",
@@ -498,36 +601,6 @@
       "job_type": "part-time",
       "work_mode": "in-person",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48015",
-    "company": "Johnson Controls",
-    "position": "AI Innovation Intern (PHD)",
-    "link": "https://researchpark.illinois.edu/job/ai-innovation-intern-phd/",
-    "posted_date": "Thu, 12 Mar 2026 17:12:38 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      12,
-      17,
-      12,
-      38,
-      3,
-      71,
-      0
-    ],
-    "discovered_date": "2026-03-23T14:37:45.679930",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
     }
   },
   {
