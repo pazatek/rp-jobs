@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
+    "company": "Research Park",
+    "position": "Student Outreach Intern",
+    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
+    "posted_date": "Fri, 27 Mar 2026 15:34:04 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      15,
+      34,
+      4,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-23T17:38:04.038943",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48080",
     "company": "Rivian",
     "position": "UIUC Research Park Intern \u2013 Power Electronics",
@@ -562,40 +596,6 @@
       ],
       "job_type": "internship",
       "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
-    "company": "Research Park",
-    "position": "HR and Outreach Intern",
-    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
-    "posted_date": "Wed, 11 Mar 2026 16:06:10 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      11,
-      16,
-      6,
-      10,
-      2,
-      70,
-      0
-    ],
-    "discovered_date": "2026-03-23T17:38:04.038943",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": null,
       "duration": "Summer 2026"
     }
   },

@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 27, 2026 at 09:32 AM CST | **Total:** 31
+**Updated:** March 27, 2026 at 10:35 AM CST | **Total:** 31
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Student Outreach Intern | Mar 27, 2026 10:34 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
 | Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
 | Rivian | UIUC Research Park Intern – Validation | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/) |
@@ -24,7 +25,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Johnson Controls | AI Innovation Intern (PHD) | Mar 12, 2026 12:12 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
 | Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern Summer 2026 | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
-| Research Park | HR and Outreach Intern | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
@@ -49,14 +49,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 Jobs
 
   9 AM │███ 1
- 10 AM │████████████████████████████████████████ 12
- 11 AM │██████████████████████████ 8
+ 10 AM │████████████████████████████████████████ 13
+ 11 AM │█████████████████████ 7
  12 PM │███ 1
-  2 PM │█████████████ 4
-  5 PM │█████████████ 4
+  2 PM │████████████ 4
+  5 PM │████████████ 4
   6 PM │███ 1
        └────────────────────────────────────────
-        0                                       12
+        0                                       13
 ```
 
 
