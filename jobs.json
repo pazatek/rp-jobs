@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48091",
+    "company": "John Deere",
+    "position": "Part-Time Student- Data Science",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-data-science/",
+    "posted_date": "Fri, 27 Mar 2026 18:55:50 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      18,
+      55,
+      50,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-27T19:30:04.389369",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Business Analytics",
+        "Software Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48087",
     "company": "Johnson Controls",
     "position": "AI Innovation Intern (Bachelor & Masters)",
