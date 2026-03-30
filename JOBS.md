@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 27, 2026 at 05:53 PM CST | **Total:** 34
+**Updated:** March 30, 2026 at 04:17 AM CST | **Total:** 31
 
 ---
 
@@ -23,9 +23,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | UIUC Research Park Intern – Machine Learning Compiler | Mar 25, 2026 10:03 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/) |
 | Rivian | UIUC Research Park Intern – Computational Methods Development | Mar 25, 2026 10:02 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/) |
 | John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
-| Dow | Dow Career Experiences for PhDs Modeling Approaches for Multilayer Film Performance | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds/) |
-| Dow | Dow Career Experiences for PhDs – Optical Chemical Structure Recognition | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-optical-chemical-structure-recognition/) |
-| Dow | Dow Career Experiences for PhDs – Adhesives/Primers in Roofing Membranes | Mar 16, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-career-experiences-for-phds-adhesives-primers-in-roofing-membranes/) |
 | Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern Summer 2026 | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
@@ -46,7 +43,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 34 postings)
+### Job Posting Times (Based on 31 postings)
 
 ```
 Jobs
@@ -55,7 +52,7 @@ Jobs
  10 AM │████████████████████████████████████████ 16
  11 AM │█████████████████ 7
   1 PM │██ 1
-  2 PM │██████████ 4
+  2 PM │██ 1
   5 PM │██████████ 4
   6 PM │██ 1
        └────────────────────────────────────────
