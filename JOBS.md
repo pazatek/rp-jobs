@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** March 30, 2026 at 10:44 AM CST | **Total:** 31
+**Updated:** March 30, 2026 at 11:42 AM CST | **Total:** 32
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
 | John Deere | Part-Time Student- Data Science | Mar 27, 2026 01:55 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science/) |
 | Johnson Controls | AI Innovation Intern (Bachelor & Masters) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters/) |
 | Johnson Controls | AI Innovation Intern (PHD) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
@@ -43,14 +44,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 31 postings)
+### Job Posting Times (Based on 32 postings)
 
 ```
 Jobs
 
   9 AM │██ 1
  10 AM │████████████████████████████████████████ 16
- 11 AM │█████████████████ 7
+ 11 AM │████████████████████ 8
   1 PM │██ 1
   2 PM │██ 1
   5 PM │██████████ 4
