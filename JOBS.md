@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 01, 2026 at 12:36 PM CST | **Total:** 32
+**Updated:** April 01, 2026 at 01:38 PM CST | **Total:** 27
 
 ---
 
@@ -10,8 +10,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | ------- | -------- | ------ | ---- |
 | University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
 | John Deere | Part-Time Student- Data Science | Mar 27, 2026 01:55 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science/) |
-| Johnson Controls | AI Innovation Intern (Bachelor & Masters) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters/) |
-| Johnson Controls | AI Innovation Intern (PHD) | Mar 27, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-phd/) |
 | Rivian | UIUC Research Park Intern – Design Verification | Mar 27, 2026 10:51 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/) |
 | Research Park | Student Outreach Intern | Mar 27, 2026 10:34 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
@@ -24,13 +22,10 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | UIUC Research Park Intern – Machine Learning Compiler | Mar 25, 2026 10:03 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/) |
 | Rivian | UIUC Research Park Intern – Computational Methods Development | Mar 25, 2026 10:02 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/) |
 | John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
-| Research Park | Communications Intern Summer 2026 | Mar 11, 2026 11:32 AM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | Research Park | Graphic Design Intern Summer 2026 | Mar 11, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
-| Research Park | Events Intern | Mar 11, 2026 11:05 AM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
-| John Deere | Part-Time Student- Software Engineer | Mar 04, 2026 06:15 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-sophormore-engineer/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
 | Synchrony | SYNCHRONY EMERGING TECHNOLOGY: Summer 2026 Human Resources Intern | Feb 25, 2026 02:00 PM CST | [Apply](https://researchpark.illinois.edu/job/synchrony-emerging-technology-summer-2026-human-resources-intern/) |
@@ -44,20 +39,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 32 postings)
+### Job Posting Times (Based on 27 postings)
 
 ```
 Jobs
 
   9 AM │██ 1
- 10 AM │████████████████████████████████████████ 16
- 11 AM │████████████████████ 8
+ 10 AM │████████████████████████████████████████ 14
+ 11 AM │█████████████████ 6
   1 PM │██ 1
   2 PM │██ 1
-  5 PM │██████████ 4
-  6 PM │██ 1
+  5 PM │███████████ 4
        └────────────────────────────────────────
-        0                                       16
+        0                                       14
 ```
 
 
