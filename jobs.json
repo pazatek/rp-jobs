@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48103",
+    "company": "Boston Bioprocess",
+    "position": "Senior Bioprocess Scientist / Engineer",
+    "link": "https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/",
+    "posted_date": "Wed, 01 Apr 2026 20:58:53 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      1,
+      20,
+      58,
+      53,
+      2,
+      91,
+      0
+    ],
+    "discovered_date": "2026-04-01T23:22:35.948330",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": true,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48100",
     "company": "Yahoo",
     "position": "Yahoo \u2013 Junior AI Engineer (Champaign, IL)",
