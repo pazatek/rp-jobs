@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48100",
+    "company": "Yahoo",
+    "position": "Yahoo \u2013 Junior AI Engineer (Champaign, IL)",
+    "link": "https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/",
+    "posted_date": "Wed, 01 Apr 2026 18:39:14 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      1,
+      18,
+      39,
+      14,
+      2,
+      91,
+      0
+    ],
+    "discovered_date": "2026-04-01T19:46:09.401487",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48093",
     "company": "University of Illinois Office of Corporate Relations",
     "position": "Design Intern",
