@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 02, 2026 at 02:16 PM CST | **Total:** 23
+**Updated:** April 02, 2026 at 03:02 PM CST | **Total:** 24
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Apr 02, 2026 02:56 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
+| Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Apr 02, 2026 02:53 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
@@ -25,7 +27,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
-| Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Mar 08, 2026 05:08 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
 | EarthSense | Robotics Technician | Mar 02, 2026 11:45 AM CST | [Apply](https://researchpark.illinois.edu/job/robotics-technician/) |
 | AXIS Capital | Data Processing Intern | Mar 02, 2026 11:37 AM CST | [Apply](https://researchpark.illinois.edu/job/data-processing-intern/) |
 | GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
@@ -35,7 +36,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 23 postings)
+### Job Posting Times (Based on 24 postings)
 
 ```
 Jobs
@@ -44,8 +45,9 @@ Jobs
  10 AM │████████████████████████████████████████ 10
  11 AM │████████████████████ 5
   1 PM │████████ 2
+  2 PM │████████ 2
   3 PM │████ 1
-  5 PM │████████████████ 4
+  5 PM │████████████ 3
        └────────────────────────────────────────
         0                                       10
 ```
