@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 02, 2026 at 03:02 PM CST | **Total:** 24
+**Updated:** April 02, 2026 at 03:55 PM CST | **Total:** 28
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Events Intern | Apr 02, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
+| Research Park | Graphic Design Intern Summer 2026 | Apr 02, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
+| Research Park | Communications Intern Summer 2026 | Apr 02, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
+| Research Park | Student Outreach Intern | Apr 02, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/) |
 | Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Apr 02, 2026 02:56 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Apr 02, 2026 02:53 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
@@ -36,7 +40,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 24 postings)
+### Job Posting Times (Based on 28 postings)
 
 ```
 Jobs
@@ -46,7 +50,7 @@ Jobs
  11 AM │████████████████████ 5
   1 PM │████████ 2
   2 PM │████████ 2
-  3 PM │████ 1
+  3 PM │████████████████████ 5
   5 PM │████████████ 3
        └────────────────────────────────────────
         0                                       10

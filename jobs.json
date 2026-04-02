@@ -1,5 +1,144 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
+    "company": "Research Park",
+    "position": "Events Intern",
+    "link": "https://researchpark.illinois.edu/job/events-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:11:11 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      11,
+      11,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854894",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
+    "company": "Research Park",
+    "position": "Graphic Design Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:39 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      39,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854902",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Graphic Design"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
+    "company": "Research Park",
+    "position": "Communications Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/communications-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:24 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      24,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854904",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
+    "company": "Research Park",
+    "position": "Student Outreach Intern",
+    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:11 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      11,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854905",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
     "company": "Mondel\u0113z International",
     "position": "FutureLab Communcations Spring/Summer 2026 Internship",
