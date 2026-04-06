@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48118",
+    "company": "University of Illinois Urbana-Champaign",
+    "position": "Software Engineer/Senior Software Engineer/Lead Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/",
+    "posted_date": "Mon, 06 Apr 2026 17:35:00 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      6,
+      17,
+      35,
+      0,
+      0,
+      96,
+      0
+    ],
+    "discovered_date": "2026-04-06T18:05:03.702489",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
     "company": "Research Park",
     "position": "Events Intern",

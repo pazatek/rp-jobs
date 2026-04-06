@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 06, 2026 at 12:07 PM CST | **Total:** 26
+**Updated:** April 06, 2026 at 01:05 PM CST | **Total:** 27
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| University of Illinois Urbana-Champaign | Software Engineer/Senior Software Engineer/Lead Software Engineer | Apr 06, 2026 12:35 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/) |
 | Research Park | Events Intern | Apr 02, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
 | Research Park | Graphic Design Intern Summer 2026 | Apr 02, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | Communications Intern Summer 2026 | Apr 02, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
@@ -38,7 +39,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 26 postings)
+### Job Posting Times (Based on 27 postings)
 
 ```
 Jobs
@@ -46,6 +47,7 @@ Jobs
   9 AM │████ 1
  10 AM │████████████████████████████████████████ 10
  11 AM │████████████ 3
+ 12 PM │████ 1
   1 PM │████████ 2
   2 PM │████████ 2
   3 PM │████████████████████ 5
