@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48123",
+    "company": "Abbott",
+    "position": "Part-Time PHD Student \u2013 Quantum Technologies",
+    "link": "https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/",
+    "posted_date": "Tue, 07 Apr 2026 15:35:33 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      7,
+      15,
+      35,
+      33,
+      1,
+      97,
+      0
+    ],
+    "discovered_date": "2026-04-07T15:55:43.596316",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48118",
     "company": "University of Illinois Urbana-Champaign",
     "position": "Software Engineer/Senior Software Engineer/Lead Software Engineer",
