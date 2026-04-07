@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 06, 2026 at 06:05 PM CST | **Total:** 27
+**Updated:** April 07, 2026 at 04:07 AM CST | **Total:** 26
 
 ---
 
@@ -32,19 +32,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
-| GDM | HR Operations Specialist | Feb 20, 2026 09:39 AM CST | [Apply](https://researchpark.illinois.edu/job/hr-operations-specialist/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
 | Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 27 postings)
+### Job Posting Times (Based on 26 postings)
 
 ```
 Jobs
 
-  9 AM │████ 1
  10 AM │████████████████████████████████████████ 10
  11 AM │████████████ 3
  12 PM │████ 1
