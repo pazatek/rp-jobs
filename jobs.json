@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48221",
+    "company": "Iridescent Sensors",
+    "position": "Electronics or Mechatronics Engineer",
+    "link": "https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/",
+    "posted_date": "Thu, 09 Apr 2026 16:40:15 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      16,
+      40,
+      15,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T17:37:44.855698",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Mechatronics"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48220",
     "company": "Rivian",
     "position": "Advanced Diagnostics Integration (Data Analytics) Intern",

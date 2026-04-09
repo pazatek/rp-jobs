@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 09, 2026 at 11:20 AM CST | **Total:** 28
+**Updated:** April 09, 2026 at 12:37 PM CST | **Total:** 29
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Iridescent Sensors | Electronics or Mechatronics Engineer | Apr 09, 2026 11:40 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Rivian | Advanced Diagnostics Integration (Data Analytics) Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
 | Rivian | Hardware Functional Safety | Apr 09, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/) |
 | Rivian | Validation & Verification Intern | Apr 09, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/) |
@@ -40,13 +41,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 28 postings)
+### Job Posting Times (Based on 29 postings)
 
 ```
 Jobs
 
  10 AM │████████████████████████████████████████ 14
- 11 AM │█████ 2
+ 11 AM │████████ 3
  12 PM │██ 1
   1 PM │██ 1
   2 PM │█████ 2
