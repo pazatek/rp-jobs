@@ -379,45 +379,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48091",
-    "company": "John Deere",
-    "position": "Part-Time Student- Data Science",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-data-science/",
-    "posted_date": "Fri, 27 Mar 2026 18:55:50 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      27,
-      18,
-      55,
-      50,
-      4,
-      86,
-      0
-    ],
-    "discovered_date": "2026-03-27T19:30:04.389369",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Data Science",
-        "Business Analytics",
-        "Software Engineering"
-      ],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48086",
     "company": "Rivian",
     "position": "UIUC Research Park Intern \u2013 Design Verification",
@@ -774,47 +735,6 @@
         "Engineering"
       ],
       "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48059",
-    "company": "John Deere",
-    "position": "Part-Time Student- Data Science and Analytics",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/",
-    "posted_date": "Thu, 19 Mar 2026 16:54:46 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      19,
-      16,
-      54,
-      46,
-      3,
-      78,
-      0
-    ],
-    "discovered_date": "2026-03-23T14:37:45.679915",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Data Science",
-        "Data Analytics",
-        "Engineering",
-        "Mathematics",
-        "Statistics"
-      ],
-      "job_type": "part-time",
       "work_mode": "in-person",
       "duration": null
     }

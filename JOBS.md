@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 08, 2026 at 06:26 PM CST | **Total:** 27
+**Updated:** April 09, 2026 at 04:12 AM CST | **Total:** 25
 
 ---
 
@@ -19,7 +19,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
-| John Deere | Part-Time Student- Data Science | Mar 27, 2026 01:55 PM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science/) |
 | Rivian | UIUC Research Park Intern – Design Verification | Mar 27, 2026 10:51 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/) |
 | Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
 | Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
@@ -30,7 +29,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | UIUC Research Park Intern – Machine Learning Hardware | Mar 25, 2026 10:04 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-hardware/) |
 | Rivian | UIUC Research Park Intern – Machine Learning Compiler | Mar 25, 2026 10:03 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/) |
 | Rivian | UIUC Research Park Intern – Computational Methods Development | Mar 25, 2026 10:02 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/) |
-| John Deere | Part-Time Student- Data Science and Analytics | Mar 19, 2026 11:54 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-data-science-and-analytics-2/) |
 | Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
 | Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
@@ -39,15 +37,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 27 postings)
+### Job Posting Times (Based on 25 postings)
 
 ```
 Jobs
 
  10 AM │████████████████████████████████████████ 11
- 11 AM │██████████ 3
+ 11 AM │███████ 2
  12 PM │███ 1
-  1 PM │███████ 2
+  1 PM │███ 1
   2 PM │███████ 2
   3 PM │██████████████████ 5
   5 PM │██████████ 3
