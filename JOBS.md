@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 09, 2026 at 09:55 AM CST | **Total:** 25
+**Updated:** April 09, 2026 at 11:20 AM CST | **Total:** 28
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Rivian | Advanced Diagnostics Integration (Data Analytics) Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
+| Rivian | Hardware Functional Safety | Apr 09, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/) |
+| Rivian | Validation & Verification Intern | Apr 09, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/) |
 | Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
 | University of Illinois Urbana-Champaign | Software Engineer/Senior Software Engineer/Lead Software Engineer | Apr 06, 2026 12:35 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/) |
 | Research Park | Events Intern | Apr 02, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/events-intern-2/) |
@@ -37,20 +40,20 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 28 postings)
 
 ```
 Jobs
 
- 10 AM │████████████████████████████████████████ 11
- 11 AM │███████ 2
- 12 PM │███ 1
-  1 PM │███ 1
-  2 PM │███████ 2
-  3 PM │██████████████████ 5
-  5 PM │██████████ 3
+ 10 AM │████████████████████████████████████████ 14
+ 11 AM │█████ 2
+ 12 PM │██ 1
+  1 PM │██ 1
+  2 PM │█████ 2
+  3 PM │██████████████ 5
+  5 PM │████████ 3
        └────────────────────────────────────────
-        0                                       11
+        0                                       14
 ```
 
 

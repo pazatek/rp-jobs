@@ -1,5 +1,107 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48220",
+    "company": "Rivian",
+    "position": "Advanced Diagnostics Integration (Data Analytics) Intern",
+    "link": "https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/",
+    "posted_date": "Thu, 09 Apr 2026 15:55:03 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      55,
+      3,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270646",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48218",
+    "company": "Rivian",
+    "position": "Hardware Functional Safety",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/",
+    "posted_date": "Thu, 09 Apr 2026 15:40:34 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      40,
+      34,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270654",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48140",
+    "company": "Rivian",
+    "position": "Validation & Verification Intern",
+    "link": "https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/",
+    "posted_date": "Thu, 09 Apr 2026 15:28:29 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      28,
+      29,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270657",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48123",
     "company": "Abbott",
     "position": "Part-Time PHD Student \u2013 Quantum Technologies",
