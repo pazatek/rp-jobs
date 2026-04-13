@@ -1,1 +1,1009 @@
-[]
+[
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48221",
+    "company": "Iridescent Sensors",
+    "position": "Electronics or Mechatronics Engineer",
+    "link": "https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/",
+    "posted_date": "Thu, 09 Apr 2026 16:40:15 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      16,
+      40,
+      15,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T17:37:44.855698",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Mechatronics"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48220",
+    "company": "Rivian",
+    "position": "Advanced Diagnostics Integration (Data Analytics) Intern",
+    "link": "https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/",
+    "posted_date": "Thu, 09 Apr 2026 15:55:03 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      55,
+      3,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270646",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48218",
+    "company": "Rivian",
+    "position": "Hardware Functional Safety",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/",
+    "posted_date": "Thu, 09 Apr 2026 15:40:34 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      40,
+      34,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270654",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48140",
+    "company": "Rivian",
+    "position": "Validation & Verification Intern",
+    "link": "https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/",
+    "posted_date": "Thu, 09 Apr 2026 15:28:29 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      9,
+      15,
+      28,
+      29,
+      3,
+      99,
+      0
+    ],
+    "discovered_date": "2026-04-09T16:20:47.270657",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48123",
+    "company": "Abbott",
+    "position": "Part-Time PHD Student \u2013 Quantum Technologies",
+    "link": "https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/",
+    "posted_date": "Tue, 07 Apr 2026 15:35:33 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      7,
+      15,
+      35,
+      33,
+      1,
+      97,
+      0
+    ],
+    "discovered_date": "2026-04-07T15:55:43.596316",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48118",
+    "company": "University of Illinois Urbana-Champaign",
+    "position": "Software Engineer/Senior Software Engineer/Lead Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/",
+    "posted_date": "Mon, 06 Apr 2026 17:35:00 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      6,
+      17,
+      35,
+      0,
+      0,
+      96,
+      0
+    ],
+    "discovered_date": "2026-04-06T18:05:03.702489",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47937",
+    "company": "Research Park",
+    "position": "Events Intern",
+    "link": "https://researchpark.illinois.edu/job/events-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:11:11 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      11,
+      11,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854894",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
+    "company": "Research Park",
+    "position": "Graphic Design Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:39 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      39,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854902",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Graphic Design"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
+    "company": "Research Park",
+    "position": "Communications Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/communications-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:24 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      24,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854904",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47935",
+    "company": "Research Park",
+    "position": "Student Outreach Intern",
+    "link": "https://researchpark.illinois.edu/job/hr-and-outreach-intern-2/",
+    "posted_date": "Thu, 02 Apr 2026 20:10:11 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      20,
+      10,
+      11,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:55:10.854905",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Communcations Spring/Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/",
+    "posted_date": "Thu, 02 Apr 2026 19:56:06 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      19,
+      56,
+      6,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679939",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Journalism",
+        "Digital Media",
+        "Communications",
+        "Public Relations"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
+    "posted_date": "Thu, 02 Apr 2026 19:53:40 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      2,
+      19,
+      53,
+      40,
+      3,
+      92,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:02:28.057699",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Philosophy",
+        "Consumer Science",
+        "Computer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48103",
+    "company": "Boston Bioprocess",
+    "position": "Senior Bioprocess Scientist / Engineer",
+    "link": "https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/",
+    "posted_date": "Wed, 01 Apr 2026 20:58:53 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      1,
+      20,
+      58,
+      53,
+      2,
+      91,
+      0
+    ],
+    "discovered_date": "2026-04-01T23:22:35.948330",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": true,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48100",
+    "company": "Yahoo",
+    "position": "Yahoo \u2013 Junior AI Engineer (Champaign, IL)",
+    "link": "https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/",
+    "posted_date": "Wed, 01 Apr 2026 18:39:14 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      1,
+      18,
+      39,
+      14,
+      2,
+      91,
+      0
+    ],
+    "discovered_date": "2026-04-01T19:46:09.401487",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48093",
+    "company": "University of Illinois Office of Corporate Relations",
+    "position": "Design Intern",
+    "link": "https://researchpark.illinois.edu/job/design-intern/",
+    "posted_date": "Mon, 30 Mar 2026 16:41:33 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      30,
+      16,
+      41,
+      33,
+      0,
+      89,
+      0
+    ],
+    "discovered_date": "2026-03-30T16:42:07.453657",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48086",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Design Verification",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/",
+    "posted_date": "Fri, 27 Mar 2026 15:51:51 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      27,
+      15,
+      51,
+      51,
+      4,
+      86,
+      0
+    ],
+    "discovered_date": "2026-03-27T16:37:22.432060",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48080",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Power Electronics",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/",
+    "posted_date": "Wed, 25 Mar 2026 15:06:52 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      6,
+      52,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454105",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48079",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Embedded Software",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/",
+    "posted_date": "Wed, 25 Mar 2026 15:06:28 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      6,
+      28,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454111",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48078",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Validation",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/",
+    "posted_date": "Wed, 25 Mar 2026 15:06:09 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      6,
+      9,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454113",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48077",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Low Voltage Electronics",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-low-voltage-electronics/",
+    "posted_date": "Wed, 25 Mar 2026 15:05:54 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      5,
+      54,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454115",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48076",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Mechanical Modeling",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-mechanical-modeling/",
+    "posted_date": "Wed, 25 Mar 2026 15:05:01 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      5,
+      1,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454117",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48075",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 ADAS HW Systems Validation",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-adas-hw-systems-validation/",
+    "posted_date": "Wed, 25 Mar 2026 15:04:29 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      4,
+      29,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454118",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48074",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Machine Learning Hardware",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-hardware/",
+    "posted_date": "Wed, 25 Mar 2026 15:04:15 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      4,
+      15,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454119",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48073",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Machine Learning Compiler",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/",
+    "posted_date": "Wed, 25 Mar 2026 15:03:33 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      3,
+      33,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454120",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48072",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Computational Methods Development",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/",
+    "posted_date": "Wed, 25 Mar 2026 15:02:38 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      2,
+      38,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-03-25T15:51:55.454121",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47991",
+    "company": "Rivian",
+    "position": "Research Park Internship \u2013 Motor Controls Development Research Intern",
+    "link": "https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/",
+    "posted_date": "Sun, 08 Mar 2026 22:35:33 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      22,
+      35,
+      33,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679935",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47990",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab HR Spring/Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/",
+    "posted_date": "Sun, 08 Mar 2026 22:15:56 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      8,
+      22,
+      15,
+      56,
+      6,
+      67,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679937",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Human Resources"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47721",
+    "company": "Rivian",
+    "position": "Embedded Systems Software \u2013 Rivian \u2013 Motor Controls Development",
+    "link": "https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/",
+    "posted_date": "Wed, 07 Jan 2026 17:52:48 +0000",
+    "published_parsed": [
+      2026,
+      1,
+      7,
+      17,
+      52,
+      48,
+      2,
+      7,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679979",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Winter 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47015",
+    "company": "Epivara",
+    "position": "Formulation Scientist",
+    "link": "https://researchpark.illinois.edu/job/formulation-scientist/",
+    "posted_date": "Thu, 25 Sep 2025 22:04:25 +0000",
+    "published_parsed": [
+      2025,
+      9,
+      25,
+      22,
+      4,
+      25,
+      3,
+      268,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679981",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  }
+]

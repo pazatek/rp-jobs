@@ -95,7 +95,17 @@ def save_jobs(jobs: list[dict]) -> None:
 def fetch_rss_page(page: int = 1) -> feedparser.FeedParserDict | None:
     """Grab one page of jobs from the RSS feed with retry logic."""
     url = f"{RSS_FEED_URL}&paged={page}" if page > 1 else RSS_FEED_URL
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+        },
+    )
 
     for attempt in range(1, FETCH_RETRIES + 2):
         try:
@@ -586,6 +596,17 @@ def main() -> None:
     logger.info("Fetching all job listings from job board...")
     current_jobs = parse_job_board()
     existing_jobs = load_existing_jobs()
+
+    # Guard: if upstream returned nothing but we previously had jobs, the feed
+    # is almost certainly broken (403, outage, parser change). Bail out instead
+    # of wiping jobs.json and losing all discovered_date/badge metadata.
+    if not current_jobs and existing_jobs:
+        logger.error(
+            "Upstream returned 0 jobs but %d existing jobs are on file — "
+            "refusing to overwrite. Investigate the RSS feed.",
+            len(existing_jobs),
+        )
+        raise SystemExit(1)
 
     # Preserve metadata from existing jobs
     existing_ids = {job["id"] for job in existing_jobs}
