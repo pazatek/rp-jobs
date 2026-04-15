@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48247",
+    "company": "Boston Bioprocess",
+    "position": "Business Development Associate",
+    "link": "https://researchpark.illinois.edu/job/business-development-associate-2/",
+    "posted_date": "Wed, 15 Apr 2026 13:57:43 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      15,
+      13,
+      57,
+      43,
+      2,
+      105,
+      0
+    ],
+    "discovered_date": "2026-04-15T14:47:30.451096"
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48221",
     "company": "Iridescent Sensors",
     "position": "Electronics or Mechatronics Engineer",
@@ -36,7 +55,7 @@
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48220",
     "company": "Rivian",
-    "position": "Advanced Diagnostics Integration (Data Analytics) Intern",
+    "position": "Advanced Diagnostics Integration Intern",
     "link": "https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/",
     "posted_date": "Thu, 09 Apr 2026 15:55:03 +0000",
     "published_parsed": [

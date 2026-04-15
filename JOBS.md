@@ -2,14 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 15, 2026 at 07:47 AM CST | **Total:** 29
+**Updated:** April 15, 2026 at 09:47 AM CST | **Total:** 30
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
 | Iridescent Sensors | Electronics or Mechatronics Engineer | Apr 09, 2026 11:40 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
-| Rivian | Advanced Diagnostics Integration (Data Analytics) Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
+| Rivian | Advanced Diagnostics Integration Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
 | Rivian | Hardware Functional Safety | Apr 09, 2026 10:40 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/) |
 | Rivian | Validation & Verification Intern | Apr 09, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/) |
 | Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
@@ -41,11 +42,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 29 postings)
+### Job Posting Times (Based on 30 postings)
 
 ```
 Jobs
 
+  8 AM │██ 1
  10 AM │████████████████████████████████████████ 14
  11 AM │████████ 3
  12 PM │██ 1
