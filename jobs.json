@@ -16,7 +16,21 @@
       105,
       0
     ],
-    "discovered_date": "2026-04-15T14:47:30.451096"
+    "discovered_date": "2026-04-15T14:47:30.451096",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Biotechnology",
+        "Bioprocess Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48221",
