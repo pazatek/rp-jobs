@@ -1,5 +1,143 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48248",
+    "company": "Research Park",
+    "position": "Data Entry/Analysis Intern",
+    "link": "https://researchpark.illinois.edu/job/data-entry-analysis-intern/",
+    "posted_date": "Fri, 17 Apr 2026 16:50:55 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      17,
+      16,
+      50,
+      55,
+      4,
+      107,
+      0
+    ],
+    "discovered_date": "2026-04-17T18:30:15.211269",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Data Science",
+        "Information Science",
+        "Business"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48095",
+    "company": "Research Park",
+    "position": "Business Development Intern Spring/Summer 2026 \u2013 Research Park",
+    "link": "https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/",
+    "posted_date": "Fri, 17 Apr 2026 16:47:33 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      17,
+      16,
+      47,
+      33,
+      4,
+      107,
+      0
+    ],
+    "discovered_date": "2026-04-17T18:30:15.211275",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48301",
+    "company": "Rivian",
+    "position": "Embedded Software, Inverter",
+    "link": "https://researchpark.illinois.edu/job/embedded-software-inverter/",
+    "posted_date": "Fri, 17 Apr 2026 16:36:12 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      17,
+      16,
+      36,
+      12,
+      4,
+      107,
+      0
+    ],
+    "discovered_date": "2026-04-17T18:30:15.211277",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48299",
+    "company": "Rivian",
+    "position": "PCB Design for Manufacturing",
+    "link": "https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/",
+    "posted_date": "Fri, 17 Apr 2026 16:31:05 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      17,
+      16,
+      31,
+      5,
+      4,
+      107,
+      0
+    ],
+    "discovered_date": "2026-04-17T18:30:15.211278",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Industrial Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48247",
     "company": "Boston Bioprocess",
     "position": "Business Development Associate",

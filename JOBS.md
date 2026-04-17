@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 17, 2026 at 12:27 PM CST | **Total:** 30
+**Updated:** April 17, 2026 at 01:30 PM CST | **Total:** 34
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Data Entry/Analysis Intern | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
+| Research Park | Business Development Intern Spring/Summer 2026 – Research Park | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
+| Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
+| Rivian | PCB Design for Manufacturing | Apr 17, 2026 11:31 AM CST | [Apply](https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
 | Iridescent Sensors | Electronics or Mechatronics Engineer | Apr 09, 2026 11:40 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Rivian | Advanced Diagnostics Integration Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
@@ -42,14 +46,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 30 postings)
+### Job Posting Times (Based on 34 postings)
 
 ```
 Jobs
 
   8 AM │██ 1
  10 AM │████████████████████████████████████████ 14
- 11 AM │████████ 3
+ 11 AM │████████████████████ 7
  12 PM │██ 1
   1 PM │██ 1
   2 PM │█████ 2
