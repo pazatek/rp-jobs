@@ -2,14 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 20, 2026 at 09:53 AM CST | **Total:** 30
+**Updated:** April 20, 2026 at 03:52 PM CST | **Total:** 32
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Research Park | Data Entry/Analysis Intern | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
-| Research Park | Business Development Intern Spring/Summer 2026 – Research Park | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
+| Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
+| Research Park | Graphic Design Intern Summer 2026 | Apr 20, 2026 03:10 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
+| Research Park | Data Entry/Analysis Intern Summer 2026 | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
+| Research Park | Business Development Intern Summer 2026 | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
 | Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
 | Rivian | PCB Design for Manufacturing | Apr 17, 2026 11:31 AM CST | [Apply](https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
@@ -42,14 +44,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 30 postings)
+### Job Posting Times (Based on 32 postings)
 
 ```
 Jobs
 
+  3 AM │██ 1
   8 AM │██ 1
  10 AM │████████████████████████████████████████ 14
- 11 AM │████████████████████ 7
+ 11 AM │██████████████████████ 8
  12 PM │██ 1
   1 PM │██ 1
   2 PM │█████ 2

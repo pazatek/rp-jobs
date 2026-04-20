@@ -1,8 +1,74 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48313",
+    "company": "Research Park",
+    "position": "Associate Director of Community and Industry Partnerships \u2013 UI Research Park \u2013 EnterpriseWorks",
+    "link": "https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/",
+    "posted_date": "Mon, 20 Apr 2026 16:07:31 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      20,
+      16,
+      7,
+      31,
+      0,
+      110,
+      0
+    ],
+    "discovered_date": "2026-04-20T20:52:54.874872",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
+    "company": "Research Park",
+    "position": "Graphic Design Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
+    "posted_date": "Mon, 20 Apr 2026 08:10:00 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      20,
+      8,
+      10,
+      0,
+      0,
+      110,
+      0
+    ],
+    "discovered_date": "2026-04-20T20:52:54.874880",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Graphic Design"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48248",
     "company": "Research Park",
-    "position": "Data Entry/Analysis Intern",
+    "position": "Data Entry/Analysis Intern Summer 2026",
     "link": "https://researchpark.illinois.edu/job/data-entry-analysis-intern/",
     "posted_date": "Fri, 17 Apr 2026 16:50:55 +0000",
     "published_parsed": [
@@ -39,7 +105,7 @@
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48095",
     "company": "Research Park",
-    "position": "Business Development Intern Spring/Summer 2026 \u2013 Research Park",
+    "position": "Business Development Intern Summer 2026",
     "link": "https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/",
     "posted_date": "Fri, 17 Apr 2026 16:47:33 +0000",
     "published_parsed": [
