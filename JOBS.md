@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 22, 2026 at 09:03 AM CST | **Total:** 32
+**Updated:** April 22, 2026 at 10:41 AM CST | **Total:** 33
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
 | Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
 | Research Park | Graphic Design Intern Summer 2026 | Apr 20, 2026 03:10 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | Data Entry/Analysis Intern Summer 2026 | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
@@ -44,13 +45,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 32 postings)
+### Job Posting Times (Based on 33 postings)
 
 ```
 Jobs
 
   3 AM │██ 1
   8 AM │██ 1
+  9 AM │██ 1
  10 AM │████████████████████████████████████████ 14
  11 AM │██████████████████████ 8
  12 PM │██ 1

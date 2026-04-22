@@ -1,5 +1,40 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48319",
+    "company": "StructureIQ",
+    "position": "Mechanical Engineering Intern \u2014 Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/",
+    "posted_date": "Wed, 22 Apr 2026 14:04:27 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      22,
+      14,
+      4,
+      27,
+      2,
+      112,
+      0
+    ],
+    "discovered_date": "2026-04-22T15:41:25.888510",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48313",
     "company": "Research Park",
     "position": "Associate Director of Community and Industry Partnerships \u2013 UI Research Park \u2013 EnterpriseWorks",
