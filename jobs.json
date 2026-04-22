@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
+    "company": "Mondel\u0113z International",
+    "position": "Public Relations (PR) & Digital Media Summer/Fall 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/",
+    "posted_date": "Wed, 22 Apr 2026 17:43:58 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      22,
+      17,
+      43,
+      58,
+      2,
+      112,
+      0
+    ],
+    "discovered_date": "2026-03-23T14:37:45.679939",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Journalism",
+        "Digital Media",
+        "Communications",
+        "Public Relations"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring/Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
+    "posted_date": "Wed, 22 Apr 2026 17:41:05 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      22,
+      17,
+      41,
+      5,
+      2,
+      112,
+      0
+    ],
+    "discovered_date": "2026-04-02T20:02:28.057699",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Philosophy",
+        "Consumer Science",
+        "Computer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48319",
     "company": "StructureIQ",
     "position": "Mechanical Engineering Intern \u2014 Summer 2026",
@@ -469,90 +553,6 @@
       "job_type": "full-time",
       "work_mode": "hybrid",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
-    "company": "Mondel\u0113z International",
-    "position": "FutureLab Communcations Spring/Summer 2026 Internship",
-    "link": "https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/",
-    "posted_date": "Thu, 02 Apr 2026 19:56:06 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      2,
-      19,
-      56,
-      6,
-      3,
-      92,
-      0
-    ],
-    "discovered_date": "2026-03-23T14:37:45.679939",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior"
-      ],
-      "majors": [
-        "Journalism",
-        "Digital Media",
-        "Communications",
-        "Public Relations"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring/Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
-    "company": "Mondel\u0113z International",
-    "position": "FutureLab Research & Development (R&D) Spring 2026 Internship",
-    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
-    "posted_date": "Thu, 02 Apr 2026 19:53:40 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      2,
-      19,
-      53,
-      40,
-      3,
-      92,
-      0
-    ],
-    "discovered_date": "2026-04-02T20:02:28.057699",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Philosophy",
-        "Consumer Science",
-        "Computer Science",
-        "Material Science",
-        "Music",
-        "Food Science",
-        "Psychology",
-        "Physiology",
-        "Psychiatry",
-        "Statistics",
-        "Economics"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
     }
   },
   {

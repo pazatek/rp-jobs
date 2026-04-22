@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 22, 2026 at 11:43 AM CST | **Total:** 33
+**Updated:** April 22, 2026 at 12:45 PM CST | **Total:** 33
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Mondelēz International | Public Relations (PR) & Digital Media Summer/Fall 2026 Internship | Apr 22, 2026 12:43 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/) |
+| Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
 | Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
 | Research Park | Graphic Design Intern Summer 2026 | Apr 20, 2026 03:10 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
@@ -22,8 +24,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | Validation & Verification Intern | Apr 09, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/) |
 | Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
 | University of Illinois Urbana-Champaign | Software Engineer/Senior Software Engineer/Lead Software Engineer | Apr 06, 2026 12:35 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/) |
-| Mondelēz International | FutureLab Communcations Spring/Summer 2026 Internship | Apr 02, 2026 02:56 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-communcations-spring-summer-2026-internship/) |
-| Mondelēz International | FutureLab Research & Development (R&D) Spring 2026 Internship | Apr 02, 2026 02:53 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
@@ -55,9 +55,8 @@ Jobs
   9 AM │██ 1
  10 AM │████████████████████████████████████████ 14
  11 AM │██████████████████████ 8
- 12 PM │██ 1
+ 12 PM │████████ 3
   1 PM │██ 1
-  2 PM │█████ 2
   3 PM │██ 1
   5 PM │████████ 3
        └────────────────────────────────────────
