@@ -1,5 +1,137 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48334",
+    "company": "Neptune North",
+    "position": "Java (Calypso) Developer",
+    "link": "https://researchpark.illinois.edu/job/java-calypso-developer/",
+    "posted_date": "Thu, 23 Apr 2026 20:29:33 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      23,
+      20,
+      29,
+      33,
+      3,
+      113,
+      0
+    ],
+    "discovered_date": "2026-04-23T20:31:25.276030",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48332",
+    "company": "Dow",
+    "position": "Data Engineer",
+    "link": "https://researchpark.illinois.edu/job/dowdataengineer/",
+    "posted_date": "Thu, 23 Apr 2026 20:11:42 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      23,
+      20,
+      11,
+      42,
+      3,
+      113,
+      0
+    ],
+    "discovered_date": "2026-04-23T20:31:25.276036",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48330",
+    "company": "Neptune North",
+    "position": "Software Developer",
+    "link": "https://researchpark.illinois.edu/job/software-developer/",
+    "posted_date": "Thu, 23 Apr 2026 20:08:41 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      23,
+      20,
+      8,
+      41,
+      3,
+      113,
+      0
+    ],
+    "discovered_date": "2026-04-23T20:31:25.276038",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48329",
+    "company": "Neptune North",
+    "position": "Market Data Analyst",
+    "link": "https://researchpark.illinois.edu/job/market-data-analyst/",
+    "posted_date": "Thu, 23 Apr 2026 20:02:03 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      23,
+      20,
+      2,
+      3,
+      3,
+      113,
+      0
+    ],
+    "discovered_date": "2026-04-23T20:31:25.276039",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mathematics",
+        "Statistics",
+        "Engineering",
+        "Economics",
+        "Finance"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
     "company": "Mondel\u0113z International",
     "position": "Public Relations (PR) & Digital Media Summer/Fall 2026 Internship",

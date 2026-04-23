@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 23, 2026 at 02:16 PM CST | **Total:** 33
+**Updated:** April 23, 2026 at 03:31 PM CST | **Total:** 37
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Neptune North | Java (Calypso) Developer | Apr 23, 2026 03:29 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
+| Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
+| Neptune North | Software Developer | Apr 23, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
+| Neptune North | Market Data Analyst | Apr 23, 2026 03:02 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
 | Mondelēz International | Public Relations (PR) & Digital Media Summer/Fall 2026 Internship | Apr 22, 2026 12:43 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
@@ -45,7 +49,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 33 postings)
+### Job Posting Times (Based on 37 postings)
 
 ```
 Jobs
@@ -57,7 +61,7 @@ Jobs
  11 AM │██████████████████████ 8
  12 PM │████████ 3
   1 PM │██ 1
-  3 PM │██ 1
+  3 PM │██████████████ 5
   5 PM │████████ 3
        └────────────────────────────────────────
         0                                       14
