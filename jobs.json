@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48337",
+    "company": "University of Urbana-Champaign",
+    "position": "Award Negotiator / Senior Award Negotiator",
+    "link": "https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/",
+    "posted_date": "Fri, 24 Apr 2026 15:11:09 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      24,
+      15,
+      11,
+      9,
+      4,
+      114,
+      0
+    ],
+    "discovered_date": "2026-04-24T15:38:19.631121",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48334",
     "company": "Neptune North",
     "position": "Java (Calypso) Developer",

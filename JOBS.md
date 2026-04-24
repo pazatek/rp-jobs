@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 24, 2026 at 09:08 AM CST | **Total:** 37
+**Updated:** April 24, 2026 at 10:38 AM CST | **Total:** 38
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | Apr 24, 2026 10:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Neptune North | Java (Calypso) Developer | Apr 23, 2026 03:29 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
 | Neptune North | Software Developer | Apr 23, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
@@ -49,7 +50,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 37 postings)
+### Job Posting Times (Based on 38 postings)
 
 ```
 Jobs
@@ -57,14 +58,14 @@ Jobs
   3 AM │██ 1
   8 AM │██ 1
   9 AM │██ 1
- 10 AM │████████████████████████████████████████ 14
- 11 AM │██████████████████████ 8
+ 10 AM │████████████████████████████████████████ 15
+ 11 AM │█████████████████████ 8
  12 PM │████████ 3
   1 PM │██ 1
-  3 PM │██████████████ 5
+  3 PM │█████████████ 5
   5 PM │████████ 3
        └────────────────────────────────────────
-        0                                       14
+        0                                       15
 ```
 
 
