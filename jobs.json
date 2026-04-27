@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
+    "company": "Research Park",
+    "position": "Graphic Design Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
+    "posted_date": "Sat, 25 Apr 2026 20:11:00 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      25,
+      20,
+      11,
+      0,
+      5,
+      115,
+      0
+    ],
+    "discovered_date": "2026-04-20T20:52:54.874880",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Graphic Design"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
+    "company": "Research Park",
+    "position": "Communications Intern Summer 2026",
+    "link": "https://researchpark.illinois.edu/job/communications-intern-2/",
+    "posted_date": "Sat, 25 Apr 2026 20:10:24 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      25,
+      20,
+      10,
+      24,
+      5,
+      115,
+      0
+    ],
+    "discovered_date": "2026-04-27T10:20:37.613999",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48337",
     "company": "University of Urbana-Champaign",
     "position": "Award Negotiator / Senior Award Negotiator",
@@ -308,42 +378,6 @@
       "job_type": "full-time",
       "work_mode": "in-person",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
-    "company": "Research Park",
-    "position": "Graphic Design Intern Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
-    "posted_date": "Mon, 20 Apr 2026 08:10:00 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      20,
-      8,
-      10,
-      0,
-      0,
-      110,
-      0
-    ],
-    "discovered_date": "2026-04-20T20:52:54.874880",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Graphic Design"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
     }
   },
   {
@@ -776,36 +810,6 @@
       ],
       "job_type": "internship",
       "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48093",
-    "company": "University of Illinois Office of Corporate Relations",
-    "position": "Design Intern",
-    "link": "https://researchpark.illinois.edu/job/design-intern/",
-    "posted_date": "Mon, 30 Mar 2026 16:41:33 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      30,
-      16,
-      41,
-      33,
-      0,
-      89,
-      0
-    ],
-    "discovered_date": "2026-03-30T16:42:07.453657",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": null,
       "duration": null
     }
   },

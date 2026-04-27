@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 24, 2026 at 06:08 PM CST | **Total:** 38
+**Updated:** April 27, 2026 at 05:20 AM CST | **Total:** 38
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Graphic Design Intern Summer 2026 | Apr 25, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
+| Research Park | Communications Intern Summer 2026 | Apr 25, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
 | University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | Apr 24, 2026 10:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Neptune North | Java (Calypso) Developer | Apr 23, 2026 03:29 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
@@ -17,7 +19,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
 | Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
-| Research Park | Graphic Design Intern Summer 2026 | Apr 20, 2026 03:10 AM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
 | Research Park | Data Entry/Analysis Intern Summer 2026 | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
 | Research Park | Business Development Intern Summer 2026 | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
 | Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
@@ -31,7 +32,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | University of Illinois Urbana-Champaign | Software Engineer/Senior Software Engineer/Lead Software Engineer | Apr 06, 2026 12:35 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
-| University of Illinois Office of Corporate Relations | Design Intern | Mar 30, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern/) |
 | Rivian | UIUC Research Park Intern – Design Verification | Mar 27, 2026 10:51 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/) |
 | Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
 | Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
@@ -55,14 +55,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 ```
 Jobs
 
-  3 AM │██ 1
   8 AM │██ 1
   9 AM │██ 1
  10 AM │████████████████████████████████████████ 15
- 11 AM │█████████████████████ 8
+ 11 AM │██████████████████ 7
  12 PM │████████ 3
   1 PM │██ 1
-  3 PM │█████████████ 5
+  3 PM │██████████████████ 7
   5 PM │████████ 3
        └────────────────────────────────────────
         0                                       15
