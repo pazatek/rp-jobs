@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** April 30, 2026 at 06:29 PM CST | **Total:** 38
+**Updated:** May 01, 2026 at 04:49 AM CST | **Total:** 25
 
 ---
 
@@ -15,7 +15,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
 | Neptune North | Software Developer | Apr 23, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Market Data Analyst | Apr 23, 2026 03:02 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
-| Mondelēz International | Public Relations (PR) & Digital Media Summer/Fall 2026 Internship | Apr 22, 2026 12:43 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
 | Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
@@ -32,39 +31,27 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | University of Illinois Urbana-Champaign | Software Engineer/Senior Software Engineer/Lead Software Engineer | Apr 06, 2026 12:35 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-senior-software-engineer-lead-software-engineer/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
-| Rivian | UIUC Research Park Intern – Design Verification | Mar 27, 2026 10:51 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-design-verification/) |
-| Rivian | UIUC Research Park Intern – Power Electronics | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-power-electronics/) |
-| Rivian | UIUC Research Park Intern – Embedded Software | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-embedded-software/) |
-| Rivian | UIUC Research Park Intern – Validation | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/) |
-| Rivian | UIUC Research Park Intern – Low Voltage Electronics | Mar 25, 2026 10:05 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-low-voltage-electronics/) |
-| Rivian | UIUC Research Park Intern – Mechanical Modeling | Mar 25, 2026 10:05 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-mechanical-modeling/) |
-| Rivian | UIUC Research Park Intern – ADAS HW Systems Validation | Mar 25, 2026 10:04 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-adas-hw-systems-validation/) |
-| Rivian | UIUC Research Park Intern – Machine Learning Hardware | Mar 25, 2026 10:04 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-hardware/) |
-| Rivian | UIUC Research Park Intern – Machine Learning Compiler | Mar 25, 2026 10:03 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-machine-learning-compiler/) |
-| Rivian | UIUC Research Park Intern – Computational Methods Development | Mar 25, 2026 10:02 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-computational-methods-development/) |
-| Rivian | Research Park Internship – Motor Controls Development Research Intern | Mar 08, 2026 05:35 PM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-motor-controls-development-phd-required/) |
-| Mondelēz International | FutureLab HR Spring/Summer 2026 Internship | Mar 08, 2026 05:15 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-hr-spring-summer-2026-internship/) |
 | Rivian | Embedded Systems Software – Rivian – Motor Controls Development | Jan 07, 2026 11:52 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/) |
 | Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 38 postings)
+### Job Posting Times (Based on 25 postings)
 
 ```
 Jobs
 
-  8 AM │██ 1
-  9 AM │██ 1
- 10 AM │████████████████████████████████████████ 15
- 11 AM │██████████████████ 7
- 12 PM │████████ 3
-  1 PM │██ 1
-  3 PM │██████████████████ 7
-  5 PM │████████ 3
+  8 AM │█████ 1
+  9 AM │█████ 1
+ 10 AM │████████████████████████████ 5
+ 11 AM │████████████████████████████████████████ 7
+ 12 PM │███████████ 2
+  1 PM │█████ 1
+  3 PM │████████████████████████████████████████ 7
+  5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       15
+        0                                       7
 ```
 
 
