@@ -1,99 +1,32 @@
 [
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47936",
-    "company": "Research Park",
-    "position": "Graphic Design Intern Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-2/",
-    "posted_date": "Sat, 25 Apr 2026 20:11:00 +0000",
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
+    "company": "PAR",
+    "position": "Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/par-software-engineer/",
+    "posted_date": "Mon, 04 May 2026 14:26:39 +0000",
     "published_parsed": [
       2026,
+      5,
       4,
-      25,
-      20,
-      11,
+      14,
+      26,
+      39,
       0,
-      5,
-      115,
+      124,
       0
     ],
-    "discovered_date": "2026-04-20T20:52:54.874880",
+    "discovered_date": "2026-05-04T14:31:58.109860",
     "badges": {
       "min_gpa": null,
       "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Graphic Design"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48012",
-    "company": "Research Park",
-    "position": "Communications Intern Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/communications-intern-2/",
-    "posted_date": "Sat, 25 Apr 2026 20:10:24 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      25,
-      20,
-      10,
-      24,
-      5,
-      115,
-      0
-    ],
-    "discovered_date": "2026-04-27T10:20:37.613999",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48337",
-    "company": "University of Urbana-Champaign",
-    "position": "Award Negotiator / Senior Award Negotiator",
-    "link": "https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/",
-    "posted_date": "Fri, 24 Apr 2026 15:11:09 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      24,
-      15,
-      11,
-      9,
-      4,
-      114,
-      0
-    ],
-    "discovered_date": "2026-04-24T15:38:19.631121",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
       "cpt_opt_required": false,
       "uiuc_only": false,
       "class_years": [],
-      "majors": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
       "job_type": "full-time",
       "work_mode": "hybrid",
       "duration": null
@@ -232,52 +165,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
-    "company": "Mondel\u0113z International",
-    "position": "FutureLab Research & Development (R&D) Summer 2026 Internship",
-    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
-    "posted_date": "Wed, 22 Apr 2026 17:41:05 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      22,
-      17,
-      41,
-      5,
-      2,
-      112,
-      0
-    ],
-    "discovered_date": "2026-04-02T20:02:28.057699",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Philosophy",
-        "Consumer Science",
-        "Computer Science",
-        "Material Science",
-        "Music",
-        "Food Science",
-        "Psychology",
-        "Physiology",
-        "Psychiatry",
-        "Statistics",
-        "Economics"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48319",
     "company": "StructureIQ",
     "position": "Mechanical Engineering Intern \u2014 Summer 2026",
@@ -306,73 +193,6 @@
       ],
       "majors": [
         "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48313",
-    "company": "Research Park",
-    "position": "Associate Director of Community and Industry Partnerships \u2013 UI Research Park \u2013 EnterpriseWorks",
-    "link": "https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/",
-    "posted_date": "Mon, 20 Apr 2026 16:07:31 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      20,
-      16,
-      7,
-      31,
-      0,
-      110,
-      0
-    ],
-    "discovered_date": "2026-04-20T20:52:54.874872",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48248",
-    "company": "Research Park",
-    "position": "Data Entry/Analysis Intern Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/data-entry-analysis-intern/",
-    "posted_date": "Fri, 17 Apr 2026 16:50:55 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      17,
-      16,
-      50,
-      55,
-      4,
-      107,
-      0
-    ],
-    "discovered_date": "2026-04-17T18:30:15.211269",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Data Science",
-        "Information Science",
-        "Business"
       ],
       "job_type": "internship",
       "work_mode": "in-person",

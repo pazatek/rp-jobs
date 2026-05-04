@@ -2,23 +2,18 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 04, 2026 at 07:10 AM CST | **Total:** 25
+**Updated:** May 04, 2026 at 09:32 AM CST | **Total:** 20
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Research Park | Graphic Design Intern Summer 2026 | Apr 25, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-2/) |
-| Research Park | Communications Intern Summer 2026 | Apr 25, 2026 03:10 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-2/) |
-| University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | Apr 24, 2026 10:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
+| PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Neptune North | Java (Calypso) Developer | Apr 23, 2026 03:29 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
 | Neptune North | Software Developer | Apr 23, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Market Data Analyst | Apr 23, 2026 03:02 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
-| Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
-| Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | Apr 20, 2026 11:07 AM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
-| Research Park | Data Entry/Analysis Intern Summer 2026 | Apr 17, 2026 11:50 AM CST | [Apply](https://researchpark.illinois.edu/job/data-entry-analysis-intern/) |
 | Research Park | Business Development Intern Summer 2026 | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
 | Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
 | Rivian | PCB Design for Manufacturing | Apr 17, 2026 11:31 AM CST | [Apply](https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/) |
@@ -37,21 +32,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
 
-  8 AM │█████ 1
-  9 AM │█████ 1
- 10 AM │████████████████████████████ 5
- 11 AM │████████████████████████████████████████ 7
- 12 PM │███████████ 2
-  1 PM │█████ 1
-  3 PM │████████████████████████████████████████ 7
-  5 PM │█████ 1
+  8 AM │████████ 1
+  9 AM │████████████████ 2
+ 10 AM │████████████████████████████████ 4
+ 11 AM │████████████████████████████████████████ 5
+ 12 PM │████████ 1
+  1 PM │████████ 1
+  3 PM │████████████████████████████████████████ 5
+  5 PM │████████ 1
        └────────────────────────────────────────
-        0                                       7
+        0                                       5
 ```
 
 
