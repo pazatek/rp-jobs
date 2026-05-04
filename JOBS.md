@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 04, 2026 at 11:23 AM CST | **Total:** 20
+**Updated:** May 04, 2026 at 01:02 PM CST | **Total:** 22
 
 ---
 
@@ -13,6 +13,8 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
 | Neptune North | Software Developer | Apr 23, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Market Data Analyst | Apr 23, 2026 03:02 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
+| Mondelēz International | Public Relations (PR) & Digital Media Summer/Fall 2026 Internship | Apr 22, 2026 12:43 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/) |
+| Mondelēz International | FutureLab Research & Development (R&D) Summer 2026 Internship | Apr 22, 2026 12:41 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/) |
 | StructureIQ | Mechanical Engineering Intern — Summer 2026 | Apr 22, 2026 09:04 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/) |
 | Research Park | Business Development Intern Summer 2026 | Apr 17, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-intern-spring-summer-2026-research-park/) |
 | Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
@@ -32,7 +34,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 20 postings)
+### Job Posting Times (Based on 22 postings)
 
 ```
 Jobs
@@ -41,7 +43,7 @@ Jobs
   9 AM │████████████████ 2
  10 AM │████████████████████████████████ 4
  11 AM │████████████████████████████████████████ 5
- 12 PM │████████ 1
+ 12 PM │████████████████████████ 3
   1 PM │████████ 1
   3 PM │████████████████████████████████████████ 5
   5 PM │████████ 1

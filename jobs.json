@@ -165,6 +165,98 @@
     }
   },
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47989",
+    "company": "Mondel\u0113z International",
+    "position": "Public Relations (PR) & Digital Media Summer/Fall 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/",
+    "posted_date": "Wed, 22 Apr 2026 17:43:58 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      22,
+      17,
+      43,
+      58,
+      2,
+      112,
+      0
+    ],
+    "discovered_date": "2026-05-04T18:02:06.294402",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Journalism",
+        "Communications",
+        "Public Relations"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47898",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Summer 2026 Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-spring-2026-internship/",
+    "posted_date": "Wed, 22 Apr 2026 17:41:05 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      22,
+      17,
+      41,
+      5,
+      2,
+      112,
+      0
+    ],
+    "discovered_date": "2026-05-04T18:02:06.294410",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Philosophy",
+        "Music",
+        "Theatre",
+        "Political Science",
+        "Consumer Science",
+        "Computer Science",
+        "Material Science",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics",
+        "Organic Chemistry",
+        "Biochemistry",
+        "Chemistry",
+        "Business",
+        "Data Science",
+        "Crop Sciences",
+        "Physical Chemistry"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48319",
     "company": "StructureIQ",
     "position": "Mechanical Engineering Intern \u2014 Summer 2026",
