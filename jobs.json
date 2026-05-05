@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48370",
+    "company": "Archean",
+    "position": "Mechatronics / System Engineer",
+    "link": "https://researchpark.illinois.edu/job/mechatronics-system-engineer/",
+    "posted_date": "Tue, 05 May 2026 19:13:17 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      5,
+      19,
+      13,
+      17,
+      1,
+      125,
+      0
+    ],
+    "discovered_date": "2026-05-05T19:57:32.644519",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Robotics"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
     "company": "PAR",
     "position": "Software Engineer",

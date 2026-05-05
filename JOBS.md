@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 05, 2026 at 01:17 PM CST | **Total:** 22
+**Updated:** May 05, 2026 at 02:57 PM CST | **Total:** 23
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Archean | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 | PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Neptune North | Java (Calypso) Developer | Apr 23, 2026 03:29 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
 | Dow | Data Engineer | Apr 23, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/dowdataengineer/) |
@@ -34,7 +35,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 22 postings)
+### Job Posting Times (Based on 23 postings)
 
 ```
 Jobs
@@ -45,6 +46,7 @@ Jobs
  11 AM │████████████████████████████████████████ 5
  12 PM │████████████████████████ 3
   1 PM │████████ 1
+  2 PM │████████ 1
   3 PM │████████████████████████████████████████ 5
   5 PM │████████ 1
        └────────────────────────────────────────
