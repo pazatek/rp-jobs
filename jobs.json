@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48375",
+    "company": "Transportation Engineering Solutions &amp; Technologies, Inc.",
+    "position": "Student Worker \u2013 CAD Specialist",
+    "link": "https://researchpark.illinois.edu/job/student-worker-cad-specialist/",
+    "posted_date": "Wed, 06 May 2026 17:29:29 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      6,
+      17,
+      29,
+      29,
+      2,
+      126,
+      0
+    ],
+    "discovered_date": "2026-05-06T18:19:23.501776",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48374",
+    "company": "Beckman Institute",
+    "position": "Lab Technician, Internship",
+    "link": "https://researchpark.illinois.edu/job/lab-technician-internship/",
+    "posted_date": "Wed, 06 May 2026 17:05:37 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      6,
+      17,
+      5,
+      37,
+      2,
+      126,
+      0
+    ],
+    "discovered_date": "2026-05-06T18:19:23.501783",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48373",
+    "company": "Beckman Institute",
+    "position": "Lab Technician",
+    "link": "https://researchpark.illinois.edu/job/lab-technician/",
+    "posted_date": "Wed, 06 May 2026 16:58:24 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      6,
+      16,
+      58,
+      24,
+      2,
+      126,
+      0
+    ],
+    "discovered_date": "2026-05-06T18:19:23.501785",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48370",
     "company": "Archean Sciences",
     "position": "Mechatronics / System Engineer",
@@ -284,41 +380,6 @@
         "Data Science",
         "Crop Sciences",
         "Physical Chemistry"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48319",
-    "company": "StructureIQ",
-    "position": "Mechanical Engineering Intern \u2014 Summer 2026",
-    "link": "https://researchpark.illinois.edu/job/mechanical-engineering-intern-summer-2026/",
-    "posted_date": "Wed, 22 Apr 2026 14:04:27 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      22,
-      14,
-      4,
-      27,
-      2,
-      112,
-      0
-    ],
-    "discovered_date": "2026-04-22T15:41:25.888510",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Mechanical Engineering"
       ],
       "job_type": "internship",
       "work_mode": "in-person",
