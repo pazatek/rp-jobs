@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 08, 2026 at 07:09 AM CST | **Total:** 24
+**Updated:** May 08, 2026 at 09:17 AM CST | **Total:** 25
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
 | Transportation Engineering Solutions &amp; Technologies, Inc. | Student Worker – CAD Specialist | May 06, 2026 12:29 PM CST | [Apply](https://researchpark.illinois.edu/job/student-worker-cad-specialist/) |
 | Beckman Institute | Lab Technician, Internship | May 06, 2026 12:05 PM CST | [Apply](https://researchpark.illinois.edu/job/lab-technician-internship/) |
@@ -36,12 +37,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 24 postings)
+### Job Posting Times (Based on 25 postings)
 
 ```
 Jobs
 
-  8 AM │█████ 1
+  8 AM │███████████ 2
   9 AM │█████ 1
  10 AM │██████████████████████ 4
  11 AM │████████████████████████████████████████ 7
