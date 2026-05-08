@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 08, 2026 at 12:40 PM CST | **Total:** 25
+**Updated:** May 08, 2026 at 01:57 PM CST | **Total:** 26
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Associate Director of Community and Industry Partnerships – UI Research Park – EnterpriseWorks | May 08, 2026 01:56 PM CST | [Apply](https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/) |
 | Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
 | Transportation Engineering Solutions &amp; Technologies, Inc. | Student Worker – CAD Specialist | May 06, 2026 12:29 PM CST | [Apply](https://researchpark.illinois.edu/job/student-worker-cad-specialist/) |
@@ -37,7 +38,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 26 postings)
 
 ```
 Jobs
@@ -47,6 +48,7 @@ Jobs
  10 AM │██████████████████████ 4
  11 AM │████████████████████████████████████████ 7
  12 PM │██████████████████████ 4
+  1 PM │█████ 1
   2 PM │█████ 1
   3 PM │████████████████████████████ 5
   5 PM │█████ 1

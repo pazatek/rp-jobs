@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48313",
+    "company": "Research Park",
+    "position": "Associate Director of Community and Industry Partnerships \u2013 UI Research Park \u2013 EnterpriseWorks",
+    "link": "https://researchpark.illinois.edu/job/associate-director-of-community-and-industry-partnerships-ui-research-park-enterpriseworks/",
+    "posted_date": "Fri, 08 May 2026 18:56:33 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      8,
+      18,
+      56,
+      33,
+      4,
+      128,
+      0
+    ],
+    "discovered_date": "2026-05-08T18:57:48.442499",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
     "company": "Purpose Built Brands",
     "position": "Research and Development Lab Manager",
