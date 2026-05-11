@@ -295,36 +295,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48332",
-    "company": "Dow",
-    "position": "Data Engineer",
-    "link": "https://researchpark.illinois.edu/job/dowdataengineer/",
-    "posted_date": "Thu, 23 Apr 2026 20:11:42 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      23,
-      20,
-      11,
-      42,
-      3,
-      113,
-      0
-    ],
-    "discovered_date": "2026-04-23T20:31:25.276036",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48330",
     "company": "Neptune North",
     "position": "Software Developer",
@@ -685,42 +655,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48218",
-    "company": "Rivian",
-    "position": "Hardware Functional Safety",
-    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-hardware-functional-safety/",
-    "posted_date": "Thu, 09 Apr 2026 15:40:34 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      9,
-      15,
-      40,
-      34,
-      3,
-      99,
-      0
-    ],
-    "discovered_date": "2026-04-09T16:20:47.270654",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Electrical Engineering",
-        "Computer Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Summer 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48140",
     "company": "Rivian",
     "position": "Validation & Verification Intern",
@@ -814,6 +748,74 @@
       "class_years": [],
       "majors": [],
       "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48100",
+    "company": "Yahoo",
+    "position": "Yahoo \u2013 Junior AI Engineer (Champaign, IL)",
+    "link": "https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/",
+    "posted_date": "Wed, 01 Apr 2026 18:39:14 +0000",
+    "published_parsed": [
+      2026,
+      4,
+      1,
+      18,
+      39,
+      14,
+      2,
+      91,
+      0
+    ],
+    "discovered_date": "2026-05-11T11:27:24.690339",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48078",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Validation",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/",
+    "posted_date": "Wed, 25 Mar 2026 15:06:09 +0000",
+    "published_parsed": [
+      2026,
+      3,
+      25,
+      15,
+      6,
+      9,
+      2,
+      84,
+      0
+    ],
+    "discovered_date": "2026-05-11T11:27:24.690346",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Science"
+      ],
+      "job_type": "internship",
       "work_mode": null,
       "duration": null
     }
