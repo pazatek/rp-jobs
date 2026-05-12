@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48417",
+    "company": "Neptune North",
+    "position": "Executive Assistant and Business Administrator",
+    "link": "https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/",
+    "posted_date": "Tue, 12 May 2026 16:49:47 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      12,
+      16,
+      49,
+      47,
+      1,
+      132,
+      0
+    ],
+    "discovered_date": "2026-05-12T17:32:43.705399",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48416",
+    "company": "Neptune North",
+    "position": "Recruitment Co-ordinator",
+    "link": "https://researchpark.illinois.edu/job/recruitment-co-ordinator/",
+    "posted_date": "Tue, 12 May 2026 16:46:41 +0000",
+    "published_parsed": [
+      2026,
+      5,
+      12,
+      16,
+      46,
+      41,
+      1,
+      132,
+      0
+    ],
+    "discovered_date": "2026-05-12T17:32:43.705406",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
     "company": "Purpose Built Brands",
     "position": "Research and Development Lab Manager",

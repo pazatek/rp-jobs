@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 12, 2026 at 10:24 AM CST | **Total:** 25
+**Updated:** May 12, 2026 at 12:32 PM CST | **Total:** 27
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Neptune North | Executive Assistant and Business Administrator | May 12, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
+| Neptune North | Recruitment Co-ordinator | May 12, 2026 11:46 AM CST | [Apply](https://researchpark.illinois.edu/job/recruitment-co-ordinator/) |
 | Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
 | Transportation Engineering Solutions &amp; Technologies, Inc. | Student Worker – CAD Specialist | May 06, 2026 12:29 PM CST | [Apply](https://researchpark.illinois.edu/job/student-worker-cad-specialist/) |
@@ -37,22 +39,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 27 postings)
 
 ```
 Jobs
 
-  8 AM │███████████ 2
-  9 AM │█████ 1
- 10 AM │██████████████████████ 4
- 11 AM │████████████████████████████████████████ 7
- 12 PM │██████████████████████ 4
-  1 PM │█████ 1
-  2 PM │█████ 1
-  3 PM │██████████████████████ 4
-  5 PM │█████ 1
+  8 AM │████████ 2
+  9 AM │████ 1
+ 10 AM │█████████████████ 4
+ 11 AM │████████████████████████████████████████ 9
+ 12 PM │█████████████████ 4
+  1 PM │████ 1
+  2 PM │████ 1
+  3 PM │█████████████████ 4
+  5 PM │████ 1
        └────────────────────────────────────────
-        0                                       7
+        0                                       9
 ```
 
 
