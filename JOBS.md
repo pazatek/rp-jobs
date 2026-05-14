@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 14, 2026 at 07:11 AM CST | **Total:** 27
+**Updated:** May 14, 2026 at 09:42 AM CST | **Total:** 27
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Iridescent Sensors | Staff Engineer | May 14, 2026 09:00 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Neptune North | Market Data Analyst | May 12, 2026 12:37 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
 | Neptune North | Software Developer | May 12, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Java (Calypso) Developer | May 12, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
@@ -26,7 +27,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | Embedded Software, Inverter | Apr 17, 2026 11:36 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-inverter/) |
 | Rivian | PCB Design for Manufacturing | Apr 17, 2026 11:31 AM CST | [Apply](https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
-| Iridescent Sensors | Electronics or Mechatronics Engineer | Apr 09, 2026 11:40 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Rivian | Advanced Diagnostics Integration Intern | Apr 09, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/) |
 | Rivian | Validation & Verification Intern | Apr 09, 2026 10:28 AM CST | [Apply](https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/) |
 | Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
@@ -44,17 +44,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 ```
 Jobs
 
-  8 AM │████████ 2
-  9 AM │████ 1
- 10 AM │█████████████████ 4
- 11 AM │████████████████████████████████████████ 9
- 12 PM │███████████████████████████████ 7
-  1 PM │████ 1
-  2 PM │████ 1
-  3 PM │████ 1
-  5 PM │████ 1
+  8 AM │██████████ 2
+  9 AM │██████████ 2
+ 10 AM │████████████████████ 4
+ 11 AM │████████████████████████████████████████ 8
+ 12 PM │███████████████████████████████████ 7
+  1 PM │█████ 1
+  2 PM │█████ 1
+  3 PM │█████ 1
+  5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       9
+        0                                       8
 ```
 
 
