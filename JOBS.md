@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 20, 2026 at 08:41 AM CST | **Total:** 27
+**Updated:** May 20, 2026 at 11:39 AM CST | **Total:** 28
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | May 20, 2026 09:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Iridescent Sensors | Staff Engineer | May 14, 2026 09:00 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Neptune North | Market Data Analyst | May 12, 2026 12:37 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
 | Neptune North | Software Developer | May 12, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
@@ -39,13 +40,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 27 postings)
+### Job Posting Times (Based on 28 postings)
 
 ```
 Jobs
 
   8 AM │██████████ 2
-  9 AM │██████████ 2
+  9 AM │███████████████ 3
  10 AM │████████████████████ 4
  11 AM │████████████████████████████████████████ 8
  12 PM │███████████████████████████████████ 7
