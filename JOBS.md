@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 21, 2026 at 06:43 PM CST | **Total:** 28
+**Updated:** May 22, 2026 at 05:53 AM CST | **Total:** 21
 
 ---
 
@@ -10,16 +10,9 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | ------- | -------- | ------ | ---- |
 | University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | May 20, 2026 09:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Iridescent Sensors | Staff Engineer | May 14, 2026 09:00 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
-| Neptune North | Market Data Analyst | May 12, 2026 12:37 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
-| Neptune North | Software Developer | May 12, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
-| Neptune North | Java (Calypso) Developer | May 12, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
-| Neptune North | Executive Assistant and Business Administrator | May 12, 2026 11:49 AM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
-| Neptune North | Recruitment Co-ordinator | May 12, 2026 11:46 AM CST | [Apply](https://researchpark.illinois.edu/job/recruitment-co-ordinator/) |
 | Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
 | Transportation Engineering Solutions &amp; Technologies, Inc. | Student Worker – CAD Specialist | May 06, 2026 12:29 PM CST | [Apply](https://researchpark.illinois.edu/job/student-worker-cad-specialist/) |
-| Beckman Institute | Lab Technician, Internship | May 06, 2026 12:05 PM CST | [Apply](https://researchpark.illinois.edu/job/lab-technician-internship/) |
-| Beckman Institute | Lab Technician | May 06, 2026 11:58 AM CST | [Apply](https://researchpark.illinois.edu/job/lab-technician/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 | PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Mondelēz International | Public Relations (PR) & Digital Media Summer/Fall 2026 Internship | Apr 22, 2026 12:43 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-summer-2026-internship/) |
@@ -40,22 +33,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 28 postings)
+### Job Posting Times (Based on 21 postings)
 
 ```
 Jobs
 
-  8 AM │██████████ 2
-  9 AM │███████████████ 3
- 10 AM │████████████████████ 4
- 11 AM │████████████████████████████████████████ 8
- 12 PM │███████████████████████████████████ 7
-  1 PM │█████ 1
-  2 PM │█████ 1
-  3 PM │█████ 1
-  5 PM │█████ 1
+  8 AM │████████████████ 2
+  9 AM │████████████████████████ 3
+ 10 AM │████████████████████████████████ 4
+ 11 AM │████████████████████████████████████████ 5
+ 12 PM │████████████████████████ 3
+  1 PM │████████ 1
+  2 PM │████████ 1
+  3 PM │████████ 1
+  5 PM │████████ 1
        └────────────────────────────────────────
-        0                                       8
+        0                                       5
 ```
 
 
