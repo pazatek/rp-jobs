@@ -321,77 +321,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48301",
-    "company": "Rivian",
-    "position": "Embedded Software, Inverter",
-    "link": "https://researchpark.illinois.edu/job/embedded-software-inverter/",
-    "posted_date": "Fri, 17 Apr 2026 16:36:12 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      17,
-      16,
-      36,
-      12,
-      4,
-      107,
-      0
-    ],
-    "discovered_date": "2026-04-17T18:30:15.211277",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48299",
-    "company": "Rivian",
-    "position": "PCB Design for Manufacturing",
-    "link": "https://researchpark.illinois.edu/job/pcb-design-for-manufacturing/",
-    "posted_date": "Fri, 17 Apr 2026 16:31:05 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      17,
-      16,
-      31,
-      5,
-      4,
-      107,
-      0
-    ],
-    "discovered_date": "2026-04-17T18:30:15.211278",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Electrical Engineering",
-        "Computer Engineering",
-        "Industrial Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48247",
     "company": "Boston Bioprocess",
     "position": "Business Development Associate",
@@ -422,72 +351,6 @@
       "job_type": "internship",
       "work_mode": null,
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48220",
-    "company": "Rivian",
-    "position": "Advanced Diagnostics Integration Intern",
-    "link": "https://researchpark.illinois.edu/job/advanced-diagnostics-integration-data-analytics-intern/",
-    "posted_date": "Thu, 09 Apr 2026 15:55:03 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      9,
-      15,
-      55,
-      3,
-      3,
-      99,
-      0
-    ],
-    "discovered_date": "2026-04-09T16:20:47.270646",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Data Science"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48140",
-    "company": "Rivian",
-    "position": "Validation & Verification Intern",
-    "link": "https://researchpark.illinois.edu/job/research-park-internship-validation-verification-intern-rivian/",
-    "posted_date": "Thu, 09 Apr 2026 15:28:29 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      9,
-      15,
-      28,
-      29,
-      3,
-      99,
-      0
-    ],
-    "discovered_date": "2026-04-09T16:20:47.270657",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering",
-        "Electrical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Summer 2026"
     }
   },
   {
@@ -620,39 +483,6 @@
       "job_type": "internship",
       "work_mode": null,
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47721",
-    "company": "Rivian",
-    "position": "Embedded Systems Software \u2013 Rivian \u2013 Motor Controls Development",
-    "link": "https://researchpark.illinois.edu/job/embedded-systems-software-rivian-motor-controls-development/",
-    "posted_date": "Wed, 07 Jan 2026 17:52:48 +0000",
-    "published_parsed": [
-      2026,
-      1,
-      7,
-      17,
-      52,
-      48,
-      2,
-      7,
-      0
-    ],
-    "discovered_date": "2026-05-04T12:10:05.415215",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Winter 2026"
     }
   },
   {
