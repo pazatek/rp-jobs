@@ -450,42 +450,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48078",
-    "company": "Rivian",
-    "position": "UIUC Research Park Intern \u2013 Validation",
-    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/",
-    "posted_date": "Wed, 25 Mar 2026 15:06:09 +0000",
-    "published_parsed": [
-      2026,
-      3,
-      25,
-      15,
-      6,
-      9,
-      2,
-      84,
-      0
-    ],
-    "discovered_date": "2026-05-11T11:27:24.690346",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Electrical Engineering",
-        "Computer Science"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=47015",
     "company": "Epivara",
     "position": "Formulation Scientist",

@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 27, 2026 at 09:44 AM CST | **Total:** 15
+**Updated:** May 27, 2026 at 12:45 PM CST | **Total:** 14
 
 ---
 
@@ -21,20 +21,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
-| Rivian | UIUC Research Park Intern – Validation | Mar 25, 2026 10:06 AM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-validation/) |
 | Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 15 postings)
+### Job Posting Times (Based on 14 postings)
 
 ```
 Jobs
 
   8 AM │██████████████████████████ 2
   9 AM │████████████████████████████████████████ 3
- 10 AM │██████████████████████████ 2
+ 10 AM │█████████████ 1
  11 AM │██████████████████████████ 2
  12 PM │██████████████████████████ 2
   1 PM │█████████████ 1
