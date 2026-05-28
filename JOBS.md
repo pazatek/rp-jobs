@@ -2,12 +2,19 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 28, 2026 at 01:13 PM CST | **Total:** 14
+**Updated:** May 28, 2026 at 03:39 PM CST | **Total:** 21
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Neptune North | Test Automation Engineer | May 28, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/test-automation-engineer/) |
+| Neptune North | Data Engineer | May 28, 2026 02:38 PM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer/) |
+| Neptune North | Recruitment Coordinator | May 28, 2026 02:30 PM CST | [Apply](https://researchpark.illinois.edu/job/recruitment-co-ordinator/) |
+| Neptune North | Java (Calypso) Developer | May 28, 2026 02:26 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
+| Neptune North | Software Developer | May 28, 2026 02:23 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
+| Neptune North | Executive Assistant and Business Administrator | May 28, 2026 02:15 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
+| Neptune North | Market Data Analyst | May 28, 2026 02:11 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
 | University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | May 20, 2026 09:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Iridescent Sensors | Staff Engineer | May 14, 2026 09:00 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
@@ -26,22 +33,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 14 postings)
+### Job Posting Times (Based on 21 postings)
 
 ```
 Jobs
 
-  8 AM │██████████████████████████ 2
-  9 AM │████████████████████████████████████████ 3
- 10 AM │█████████████ 1
- 11 AM │██████████████████████████ 2
- 12 PM │██████████████████████████ 2
-  1 PM │█████████████ 1
-  2 PM │█████████████ 1
-  3 PM │█████████████ 1
-  5 PM │█████████████ 1
+  8 AM │██████████ 2
+  9 AM │███████████████ 3
+ 10 AM │█████ 1
+ 11 AM │██████████ 2
+ 12 PM │██████████ 2
+  1 PM │█████ 1
+  2 PM │████████████████████████████████████████ 8
+  3 PM │█████ 1
+  5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       3
+        0                                       8
 ```
 
 
