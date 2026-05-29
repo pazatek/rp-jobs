@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** May 29, 2026 at 12:50 PM CST | **Total:** 21
+**Updated:** May 29, 2026 at 03:29 PM CST | **Total:** 20
 
 ---
 
@@ -15,7 +15,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Neptune North | Software Developer | May 28, 2026 02:23 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Executive Assistant and Business Administrator | May 28, 2026 02:15 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
 | Neptune North | Market Data Analyst | May 28, 2026 02:11 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
-| University of Urbana-Champaign | Award Negotiator / Senior Award Negotiator | May 20, 2026 09:11 AM CST | [Apply](https://researchpark.illinois.edu/job/award-negotiator-senior-award-negotiator-2/) |
 | Iridescent Sensors | Staff Engineer | May 14, 2026 09:00 AM CST | [Apply](https://researchpark.illinois.edu/job/electronics-or-mechatronics-engineer/) |
 | Purpose Built Brands | Research and Development Lab Manager | May 08, 2026 08:02 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
@@ -33,13 +32,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 21 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
 
   8 AM │██████████ 2
-  9 AM │███████████████ 3
+  9 AM │██████████ 2
  10 AM │█████ 1
  11 AM │██████████ 2
  12 PM │██████████ 2
