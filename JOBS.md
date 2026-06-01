@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 01, 2026 at 08:39 AM CST | **Total:** 18
+**Updated:** June 01, 2026 at 02:13 PM CST | **Total:** 17
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| PhotonicDx | TEST POST: Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 01, 2026 12:04 PM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
 | Neptune North | Systematic Trading Technologist | May 29, 2026 07:31 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
 | Neptune North | Systematic Data Technologist | May 29, 2026 07:26 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-data-technologist/) |
 | Neptune North | Test Automation Engineer | May 28, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/test-automation-engineer/) |
@@ -22,27 +23,24 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 | PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
-| Abbott | Part-Time PHD Student – Quantum Technologies | Apr 07, 2026 10:35 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-phd-student-quantum-technologies/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 | Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
-| Epivara | Formulation Scientist | Sep 25, 2025 05:04 PM CST | [Apply](https://researchpark.illinois.edu/job/formulation-scientist/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 18 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
 
   8 AM │██████████ 2
   9 AM │█████ 1
- 10 AM │█████ 1
  11 AM │█████ 1
+ 12 PM │█████ 1
   1 PM │█████ 1
   2 PM │████████████████████████████████████████ 8
   3 PM │█████ 1
-  5 PM │█████ 1
   7 PM │██████████ 2
        └────────────────────────────────────────
         0                                       8
