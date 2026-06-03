@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48479",
+    "company": "Helixon US Inc.",
+    "position": "Helixon US Inc. Scientist Position (Full Time)",
+    "link": "https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/",
+    "posted_date": "Wed, 03 Jun 2026 15:07:32 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      3,
+      15,
+      7,
+      32,
+      2,
+      154,
+      0
+    ],
+    "discovered_date": "2026-06-03T17:52:31.039830",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
+    "company": "Purpose Built Brands",
+    "position": "Research and Development Lab Manager",
+    "link": "https://researchpark.illinois.edu/job/research-and-development-lab-manager/",
+    "posted_date": "Wed, 03 Jun 2026 14:54:06 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      3,
+      14,
+      54,
+      6,
+      2,
+      154,
+      0
+    ],
+    "discovered_date": "2026-05-08T14:17:22.907837",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48464",
     "company": "Neptune North",
     "position": "Systematic Trading Technologist",
@@ -285,36 +345,6 @@
       ],
       "job_type": "full-time",
       "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
-    "company": "Purpose Built Brands",
-    "position": "Research and Development Lab Manager",
-    "link": "https://researchpark.illinois.edu/job/research-and-development-lab-manager/",
-    "posted_date": "Fri, 08 May 2026 13:02:53 +0000",
-    "published_parsed": [
-      2026,
-      5,
-      8,
-      13,
-      2,
-      53,
-      4,
-      128,
-      0
-    ],
-    "discovered_date": "2026-05-08T14:17:22.907837",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "hybrid",
       "duration": null
     }
   },
