@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 02, 2026 at 07:13 PM CST | **Total:** 16
+**Updated:** June 03, 2026 at 07:43 AM CST | **Total:** 15
 
 ---
 
@@ -23,12 +23,11 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
-| Yahoo | Yahoo – Junior AI Engineer (Champaign, IL) | Apr 01, 2026 01:39 PM CST | [Apply](https://researchpark.illinois.edu/job/yahoo-junior-ai-engineer-champaign-il/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 16 postings)
+### Job Posting Times (Based on 15 postings)
 
 ```
 Jobs
@@ -36,7 +35,6 @@ Jobs
   8 AM │██████████ 2
   9 AM │█████ 1
  11 AM │█████ 1
-  1 PM │█████ 1
   2 PM │████████████████████████████████████████ 8
   3 PM │█████ 1
   7 PM │██████████ 2
