@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 04, 2026 at 09:12 AM CST | **Total:** 16
+**Updated:** June 04, 2026 at 12:24 PM CST | **Total:** 17
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
 | Helixon US Inc. | Helixon US Inc. Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 03, 2026 09:54 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Neptune North | Systematic Trading Technologist | May 29, 2026 07:31 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
@@ -28,13 +29,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 16 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
 
   8 AM │█████ 1
-  9 AM │██████████ 2
+  9 AM │███████████████ 3
  10 AM │█████ 1
  11 AM │█████ 1
   2 PM │████████████████████████████████████████ 8
