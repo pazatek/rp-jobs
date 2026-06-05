@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 05, 2026 at 05:03 PM CST | **Total:** 16
+**Updated:** June 05, 2026 at 06:38 PM CST | **Total:** 16
 
 ---
 
