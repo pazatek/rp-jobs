@@ -451,39 +451,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
-    "company": "PAR",
-    "position": "Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/par-software-engineer/",
-    "posted_date": "Mon, 04 May 2026 14:26:39 +0000",
-    "published_parsed": [
-      2026,
-      5,
-      4,
-      14,
-      26,
-      39,
-      0,
-      124,
-      0
-    ],
-    "discovered_date": "2026-05-04T14:31:58.109860",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "hybrid",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48247",
     "company": "Boston Bioprocess",
     "position": "Business Development Associate",

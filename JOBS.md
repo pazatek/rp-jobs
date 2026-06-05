@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 04, 2026 at 05:53 PM CST | **Total:** 17
+**Updated:** June 05, 2026 at 06:30 AM CST | **Total:** 16
 
 ---
 
@@ -22,20 +22,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Neptune North | Market Data Analyst | May 28, 2026 02:11 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 | May 07, 2026 11:28 AM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
-| PAR | Software Engineer | May 04, 2026 09:26 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Boston Bioprocess | Business Development Associate | Apr 15, 2026 08:57 AM CST | [Apply](https://researchpark.illinois.edu/job/business-development-associate-2/) |
 | Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 17 postings)
+### Job Posting Times (Based on 16 postings)
 
 ```
 Jobs
 
   8 AM │█████ 1
-  9 AM │███████████████ 3
+  9 AM │██████████ 2
  10 AM │█████ 1
  11 AM │█████ 1
   2 PM │████████████████████████████████████████ 8
