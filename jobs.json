@@ -1,5 +1,42 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48501",
+    "company": "Synchrony",
+    "position": "CREDIT MODELING INTERN FALL 2026",
+    "link": "https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/",
+    "posted_date": "Mon, 08 Jun 2026 19:52:34 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      8,
+      19,
+      52,
+      34,
+      0,
+      159,
+      0
+    ],
+    "discovered_date": "2026-06-08T21:18:03.102593",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Mathematics",
+        "Statistics",
+        "Computer Science",
+        "Economics",
+        "Finance",
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48471",
     "company": "PhotonicDx",
     "position": "Biochemical Engineer/Molecular Assay Development Scientist (Part-Time)",
