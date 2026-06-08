@@ -2,14 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 08, 2026 at 07:36 AM CST | **Total:** 16
+**Updated:** June 08, 2026 at 11:39 AM CST | **Total:** 16
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
 | PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
-| Helixon US Inc. | Helixon US Inc. Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
+| Helixon US Inc. | Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 03, 2026 09:54 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Neptune North | Systematic Trading Technologist | May 29, 2026 07:31 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
 | Neptune North | Systematic Data Technologist | May 29, 2026 07:26 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-data-technologist/) |
