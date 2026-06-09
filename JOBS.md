@@ -2,13 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 09, 2026 at 01:59 PM CST | **Total:** 17
+**Updated:** June 09, 2026 at 04:04 PM CST | **Total:** 18
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Synchrony | CREDIT MODELING INTERN FALL 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
+| PAR | Software Engineer | Jun 09, 2026 03:31 PM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
+| Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
 | Helixon US Inc. | Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 03, 2026 09:54 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
@@ -29,7 +30,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 17 postings)
+### Job Posting Times (Based on 18 postings)
 
 ```
 Jobs
@@ -39,7 +40,7 @@ Jobs
  10 AM │████ 1
  11 AM │████ 1
   2 PM │████████████████████████████████████████ 9
-  3 PM │████ 1
+  3 PM │████████ 2
   7 PM │████████ 2
        └────────────────────────────────────────
         0                                       9

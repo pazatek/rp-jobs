@@ -1,8 +1,41 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
+    "company": "PAR",
+    "position": "Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/par-software-engineer/",
+    "posted_date": "Tue, 09 Jun 2026 20:31:38 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      9,
+      20,
+      31,
+      38,
+      1,
+      160,
+      0
+    ],
+    "discovered_date": "2026-06-09T21:04:28.503683",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48501",
     "company": "Synchrony",
-    "position": "CREDIT MODELING INTERN FALL 2026",
+    "position": "Credit Modeling Intern Fall 2026",
     "link": "https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/",
     "posted_date": "Mon, 08 Jun 2026 19:52:34 +0000",
     "published_parsed": [
