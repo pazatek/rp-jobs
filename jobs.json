@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48528",
+    "company": "StructureIQ, Inc.",
+    "position": "Structural Engineering Research Intern",
+    "link": "https://researchpark.illinois.edu/job/structureiq-inc-champaign-il-9-structural-engineering-research-intern/",
+    "posted_date": "Wed, 10 Jun 2026 18:27:38 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      10,
+      18,
+      27,
+      38,
+      2,
+      161,
+      0
+    ],
+    "discovered_date": "2026-06-11T16:29:08.371944",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Summer 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
     "company": "PAR",
     "position": "Software Engineer",

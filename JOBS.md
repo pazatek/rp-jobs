@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 11, 2026 at 07:11 AM CST | **Total:** 18
+**Updated:** June 11, 2026 at 11:29 AM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| StructureIQ, Inc. | Structural Engineering Research Intern | Jun 10, 2026 01:27 PM CST | [Apply](https://researchpark.illinois.edu/job/structureiq-inc-champaign-il-9-structural-engineering-research-intern/) |
 | PAR | Software Engineer | Jun 09, 2026 03:31 PM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
@@ -30,7 +31,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 18 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
@@ -39,6 +40,7 @@ Jobs
   9 AM │████████ 2
  10 AM │████ 1
  11 AM │████ 1
+  1 PM │████ 1
   2 PM │████████████████████████████████████████ 9
   3 PM │████████ 2
   7 PM │████████ 2
