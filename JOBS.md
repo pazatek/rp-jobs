@@ -2,16 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** June 12, 2026 at 06:45 AM CST | **Total:** 19
+**Updated:** June 12, 2026 at 10:21 AM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| PhotonicDx | Principal Assay Development Advisor and Scientist | Jun 12, 2026 10:15 AM CST | [Apply](https://researchpark.illinois.edu/job/principal-assay-development-advisor-and-scientist/) |
 | StructureIQ, Inc. | Structural Engineering Research Intern | Jun 10, 2026 01:27 PM CST | [Apply](https://researchpark.illinois.edu/job/structureiq-inc-champaign-il-9-structural-engineering-research-intern/) |
 | PAR | Software Engineer | Jun 09, 2026 03:31 PM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
-| PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
 | Helixon US Inc. | Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 03, 2026 09:54 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Neptune North | Systematic Trading Technologist | May 29, 2026 07:31 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
@@ -37,8 +37,8 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 Jobs
 
   8 AM │████ 1
-  9 AM │████████ 2
- 10 AM │████ 1
+  9 AM │████ 1
+ 10 AM │████████ 2
  11 AM │████ 1
   1 PM │████ 1
   2 PM │████████████████████████████████████████ 9

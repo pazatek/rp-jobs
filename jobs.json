@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48535",
+    "company": "PhotonicDx",
+    "position": "Principal Assay Development Advisor and Scientist",
+    "link": "https://researchpark.illinois.edu/job/principal-assay-development-advisor-and-scientist/",
+    "posted_date": "Fri, 12 Jun 2026 15:15:53 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      12,
+      15,
+      15,
+      53,
+      4,
+      163,
+      0
+    ],
+    "discovered_date": "2026-06-12T15:21:31.253613",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48528",
     "company": "StructureIQ, Inc.",
     "position": "Structural Engineering Research Intern",
@@ -99,36 +129,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48471",
-    "company": "PhotonicDx",
-    "position": "Biochemical Engineer/Molecular Assay Development Scientist (Part-Time)",
-    "link": "https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/",
-    "posted_date": "Thu, 04 Jun 2026 14:37:53 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      4,
-      14,
-      37,
-      53,
-      3,
-      155,
-      0
-    ],
-    "discovered_date": "2026-06-04T17:24:16.584536",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": null
     }
   },
   {
