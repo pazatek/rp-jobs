@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48566",
+    "company": "Synchrony",
+    "position": "Human Resources Intern Fall 2026",
+    "link": "https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/",
+    "posted_date": "Mon, 15 Jun 2026 21:14:33 +0000",
+    "published_parsed": [
+      2026,
+      6,
+      15,
+      21,
+      14,
+      33,
+      0,
+      166,
+      0
+    ],
+    "discovered_date": "2026-06-15T21:45:47.796820"
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48535",
     "company": "PhotonicDx",
     "position": "Principal Assay Development Advisor and Scientist",
