@@ -500,44 +500,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48377",
-    "company": "DOW",
-    "position": "Data Engineer / Data Platform Engineer Internship Fall 2026",
-    "link": "https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/",
-    "posted_date": "Thu, 07 May 2026 16:28:11 +0000",
-    "published_parsed": [
-      2026,
-      5,
-      7,
-      16,
-      28,
-      11,
-      3,
-      127,
-      0
-    ],
-    "discovered_date": "2026-05-07T17:10:50.460182",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Fall 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48370",
     "company": "Archean Sciences",
     "position": "Mechatronics / System Engineer",
