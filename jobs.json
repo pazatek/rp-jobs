@@ -502,39 +502,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48247",
-    "company": "Boston Bioprocess",
-    "position": "Business Development Associate",
-    "link": "https://researchpark.illinois.edu/job/business-development-associate-2/",
-    "posted_date": "Wed, 15 Apr 2026 13:57:43 +0000",
-    "published_parsed": [
-      2026,
-      4,
-      15,
-      13,
-      57,
-      43,
-      2,
-      105,
-      0
-    ],
-    "discovered_date": "2026-04-15T14:47:30.451096",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Biotechnology",
-        "Bioprocess Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48103",
     "company": "Boston Bioprocess",
     "position": "Senior Bioprocess Scientist / Engineer",
