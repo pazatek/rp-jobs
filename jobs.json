@@ -46,7 +46,23 @@
       166,
       0
     ],
-    "discovered_date": "2026-06-15T21:45:47.796820"
+    "discovered_date": "2026-06-15T21:45:47.796820",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Human Resources",
+        "Business Administration",
+        "Project Management",
+        "Psychology"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48535",
