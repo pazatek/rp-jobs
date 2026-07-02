@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 01, 2026 at 06:43 PM CST | **Total:** 5
+**Updated:** July 02, 2026 at 05:43 AM CST | **Total:** 4
 
 ---
 
@@ -12,19 +12,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | Human Resources Intern Fall 2026 | Jun 15, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
-| Boston Bioprocess | Senior Bioprocess Scientist / Engineer | Apr 01, 2026 03:58 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-bioprocess-scientist-engineer-2/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 5 postings)
+### Job Posting Times (Based on 4 postings)
 
 ```
 Jobs
 
  10 AM │████████████████████ 1
   2 PM │████████████████████████████████████████ 2
-  3 PM │████████████████████ 1
   4 PM │████████████████████ 1
        └────────────────────────────────────────
         0                                       2
