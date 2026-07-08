@@ -2,21 +2,90 @@
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48735",
     "company": "Mondel\u0113z International",
-    "position": "Mondel\u0113z International FutureLab XR Fall 2026 Part Time Internship",
-    "link": "https://researchpark.illinois.edu/job/mondelez-international-futurelab-xr-fall-2026-part-time-internship/",
-    "posted_date": "Wed, 08 Jul 2026 19:53:49 +0000",
+    "position": "FutureLab XR Fall 2026 Part Time Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/",
+    "posted_date": "Wed, 08 Jul 2026 20:06:08 +0000",
     "published_parsed": [
       2026,
       7,
       8,
-      19,
-      53,
-      49,
+      20,
+      6,
+      8,
       2,
       189,
       0
     ],
-    "discovered_date": "2026-07-08T19:55:46.449542"
+    "discovered_date": "2026-07-08T19:55:46.449542",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Industrial Design"
+      ],
+      "job_type": "part-time",
+      "work_mode": null,
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48737",
+    "company": "Mondel\u0113z International",
+    "position": "FutureLab Research & Development (R&D) Fall 2026 Part Time Internship",
+    "link": "https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/",
+    "posted_date": "Wed, 08 Jul 2026 20:04:35 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      8,
+      20,
+      4,
+      35,
+      2,
+      189,
+      0
+    ],
+    "discovered_date": "2026-07-08T21:11:27.182788",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Philosophy",
+        "Consumer Science",
+        "Material Science",
+        "Music",
+        "Food Science",
+        "Psychology",
+        "Physiology",
+        "Psychiatry",
+        "Statistics",
+        "Economics",
+        "Design",
+        "Physics",
+        "Chemistry",
+        "Marketing",
+        "Advertising"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
@@ -100,7 +169,18 @@
       163,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570952"
+    "discovered_date": "2026-07-02T18:41:19.570952",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
@@ -119,7 +199,21 @@
       160,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570961"
+    "discovered_date": "2026-07-02T18:41:19.570961",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48501",
@@ -175,7 +269,18 @@
       155,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570965"
+    "discovered_date": "2026-07-02T18:41:19.570965",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48479",
@@ -194,7 +299,18 @@
       154,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570967"
+    "discovered_date": "2026-07-02T18:41:19.570967",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48464",
@@ -213,7 +329,21 @@
       150,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570973"
+    "discovered_date": "2026-07-02T18:41:19.570973",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48461",
@@ -232,7 +362,20 @@
       150,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570974"
+    "discovered_date": "2026-07-02T18:41:19.570974",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48451",
@@ -251,7 +394,18 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570975"
+    "discovered_date": "2026-07-02T18:41:19.570975",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48450",
@@ -270,7 +424,20 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570976"
+    "discovered_date": "2026-07-02T18:41:19.570976",
+    "badges": {
+      "min_gpa": "2.1",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48416",
@@ -289,7 +456,18 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570977"
+    "discovered_date": "2026-07-02T18:41:19.570977",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48334",
@@ -308,7 +486,22 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570979"
+    "discovered_date": "2026-07-02T18:41:19.570979",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48330",
@@ -327,7 +520,20 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570980"
+    "discovered_date": "2026-07-02T18:41:19.570980",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48417",
@@ -346,7 +552,18 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570981"
+    "discovered_date": "2026-07-02T18:41:19.570981",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48329",
@@ -365,7 +582,24 @@
       148,
       0
     ],
-    "discovered_date": "2026-07-02T18:41:19.570982"
+    "discovered_date": "2026-07-02T18:41:19.570982",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mathematics",
+        "Statistics",
+        "Engineering",
+        "Economics",
+        "Finance"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
   },
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48370",

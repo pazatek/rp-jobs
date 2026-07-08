@@ -2,13 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 08, 2026 at 02:55 PM CST | **Total:** 18
+**Updated:** July 08, 2026 at 04:11 PM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Mondelēz International | Mondelēz International FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 02:53 PM CST | [Apply](https://researchpark.illinois.edu/job/mondelez-international-futurelab-xr-fall-2026-part-time-internship/) |
+| Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
+| Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Synchrony | Human Resources Intern Fall 2026 | Jun 15, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
 | PhotonicDx | Principal Assay Development Advisor and Scientist | Jun 12, 2026 10:15 AM CST | [Apply](https://researchpark.illinois.edu/job/principal-assay-development-advisor-and-scientist/) |
@@ -30,19 +31,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 18 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
 
   9 AM │████ 1
- 10 AM │████████████ 3
-  2 PM │████████████████████████████████████████ 10
-  3 PM │████ 1
+ 10 AM │█████████████ 3
+  2 PM │████████████████████████████████████████ 9
+  3 PM │█████████████ 3
   4 PM │████ 1
   7 PM │████████ 2
        └────────────────────────────────────────
-        0                                       10
+        0                                       9
 ```
 
 
