@@ -2,12 +2,21 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 13, 2026 at 02:51 PM CST | **Total:** 10
+**Updated:** July 13, 2026 at 03:58 PM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Neptune North | Executive Assistant and Business Administrator | Jul 13, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
+| Neptune North | Software Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
+| Neptune North | Java (Calypso) Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
+| Neptune North | Recruitment Coordinator | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/recruitment-co-ordinator/) |
+| Neptune North | Data Engineer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer/) |
+| Neptune North | Test Automation Engineer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/test-automation-engineer/) |
+| Neptune North | Systematic Data Technologist | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-data-technologist/) |
+| Neptune North | Market Data Analyst | Jul 13, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
+| Neptune North | Systematic Trading Technologist | Jul 13, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
 | Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
@@ -22,18 +31,18 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 10 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
 
-  9 AM │█████████████ 1
- 10 AM │████████████████████████████████████████ 3
-  2 PM │██████████████████████████ 2
-  3 PM │████████████████████████████████████████ 3
-  4 PM │█████████████ 1
+  9 AM │███ 1
+ 10 AM │██████████ 3
+  2 PM │██████ 2
+  3 PM │████████████████████████████████████████ 12
+  4 PM │███ 1
        └────────────────────────────────────────
-        0                                       3
+        0                                       12
 ```
 
 

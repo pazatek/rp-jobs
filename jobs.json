@@ -1,5 +1,294 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48417",
+    "company": "Neptune North",
+    "position": "Executive Assistant and Business Administrator",
+    "link": "https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/",
+    "posted_date": "Mon, 13 Jul 2026 20:08:08 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      8,
+      8,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726915",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48330",
+    "company": "Neptune North",
+    "position": "Software Developer",
+    "link": "https://researchpark.illinois.edu/job/software-developer/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:56 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      56,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726921",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48334",
+    "company": "Neptune North",
+    "position": "Java (Calypso) Developer",
+    "link": "https://researchpark.illinois.edu/job/java-calypso-developer/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:45 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      45,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726922",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48416",
+    "company": "Neptune North",
+    "position": "Recruitment Coordinator",
+    "link": "https://researchpark.illinois.edu/job/recruitment-co-ordinator/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:34 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      34,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726923",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48450",
+    "company": "Neptune North",
+    "position": "Data Engineer",
+    "link": "https://researchpark.illinois.edu/job/data-engineer/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:24 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      24,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726924",
+    "badges": {
+      "min_gpa": "2.1",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48451",
+    "company": "Neptune North",
+    "position": "Test Automation Engineer",
+    "link": "https://researchpark.illinois.edu/job/test-automation-engineer/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:14 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      14,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726924",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48461",
+    "company": "Neptune North",
+    "position": "Systematic Data Technologist",
+    "link": "https://researchpark.illinois.edu/job/systematic-data-technologist/",
+    "posted_date": "Mon, 13 Jul 2026 20:07:03 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      7,
+      3,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726925",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48329",
+    "company": "Neptune North",
+    "position": "Market Data Analyst",
+    "link": "https://researchpark.illinois.edu/job/market-data-analyst/",
+    "posted_date": "Mon, 13 Jul 2026 20:06:51 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      6,
+      51,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726925",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mathematics",
+        "Statistics",
+        "Engineering",
+        "Economics",
+        "Finance"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48464",
+    "company": "Neptune North",
+    "position": "Systematic Trading Technologist",
+    "link": "https://researchpark.illinois.edu/job/systematic-trading-technologist/",
+    "posted_date": "Mon, 13 Jul 2026 20:06:11 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      13,
+      20,
+      6,
+      11,
+      0,
+      194,
+      0
+    ],
+    "discovered_date": "2026-07-13T20:58:33.726926",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48735",
     "company": "Mondel\u0113z International",
     "position": "FutureLab XR Fall 2026 Part Time Internship",
