@@ -377,36 +377,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48403",
-    "company": "Purpose Built Brands",
-    "position": "Research and Development Lab Manager",
-    "link": "https://researchpark.illinois.edu/job/research-and-development-lab-manager/",
-    "posted_date": "Fri, 26 Jun 2026 15:20:33 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      26,
-      15,
-      20,
-      33,
-      4,
-      177,
-      0
-    ],
-    "discovered_date": "2026-05-08T14:17:22.907837",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "hybrid",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48566",
     "company": "Synchrony",
     "position": "Human Resources Intern Fall 2026",
@@ -439,69 +409,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48535",
-    "company": "PhotonicDx",
-    "position": "Principal Assay Development Advisor and Scientist",
-    "link": "https://researchpark.illinois.edu/job/principal-assay-development-advisor-and-scientist/",
-    "posted_date": "Fri, 12 Jun 2026 15:15:53 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      12,
-      15,
-      15,
-      53,
-      4,
-      163,
-      0
-    ],
-    "discovered_date": "2026-07-02T18:41:19.570952",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": null,
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48361",
-    "company": "PAR",
-    "position": "Software Engineer",
-    "link": "https://researchpark.illinois.edu/job/par-software-engineer/",
-    "posted_date": "Tue, 09 Jun 2026 20:31:38 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      9,
-      20,
-      31,
-      38,
-      1,
-      160,
-      0
-    ],
-    "discovered_date": "2026-07-02T18:41:19.570961",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "hybrid",
-      "duration": null
     }
   },
   {
@@ -539,66 +446,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48471",
-    "company": "PhotonicDx",
-    "position": "Biochemical Engineer/Molecular Assay Development Scientist (Part-Time)",
-    "link": "https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/",
-    "posted_date": "Thu, 04 Jun 2026 14:37:53 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      4,
-      14,
-      37,
-      53,
-      3,
-      155,
-      0
-    ],
-    "discovered_date": "2026-07-02T18:41:19.570965",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48479",
-    "company": "Helixon US Inc.",
-    "position": "Scientist Position (Full Time)",
-    "link": "https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/",
-    "posted_date": "Wed, 03 Jun 2026 15:07:32 +0000",
-    "published_parsed": [
-      2026,
-      6,
-      3,
-      15,
-      7,
-      32,
-      2,
-      154,
-      0
-    ],
-    "discovered_date": "2026-07-02T18:41:19.570967",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
     }
   },
   {

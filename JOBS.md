@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 15, 2026 at 06:42 PM CST | **Total:** 19
+**Updated:** July 16, 2026 at 05:11 AM CST | **Total:** 14
 
 ---
 
@@ -19,30 +19,23 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Neptune North | Systematic Trading Technologist | Jul 13, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
 | Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
-| Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Synchrony | Human Resources Intern Fall 2026 | Jun 15, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
-| PhotonicDx | Principal Assay Development Advisor and Scientist | Jun 12, 2026 10:15 AM CST | [Apply](https://researchpark.illinois.edu/job/principal-assay-development-advisor-and-scientist/) |
-| PAR | Software Engineer | Jun 09, 2026 03:31 PM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
-| PhotonicDx | Biochemical Engineer/Molecular Assay Development Scientist (Part-Time) | Jun 04, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/test-post-biochemical-engineer-molecular-assay-development-scientist-part-time/) |
-| Helixon US Inc. | Scientist Position (Full Time) | Jun 03, 2026 10:07 AM CST | [Apply](https://researchpark.illinois.edu/job/helixon-us-inc-scientist-position-full-time/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 14 postings)
 
 ```
 Jobs
 
-  9 AM │███ 1
- 10 AM │██████████ 3
-  2 PM │██████ 2
-  3 PM │████████████████████████████████████████ 12
+  2 PM │███████ 2
+  3 PM │████████████████████████████████████████ 11
   4 PM │███ 1
        └────────────────────────────────────────
-        0                                       12
+        0                                       11
 ```
 
 
