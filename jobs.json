@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48822",
+    "company": "Elevator of Things",
+    "position": "AI Data Engineer Fall Internship",
+    "link": "https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/",
+    "posted_date": "Mon, 20 Jul 2026 18:02:40 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      18,
+      2,
+      40,
+      0,
+      201,
+      0
+    ],
+    "discovered_date": "2026-07-20T18:57:56.932262",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Fall 2025"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48417",
     "company": "Neptune North",
     "position": "Executive Assistant and Business Administrator",

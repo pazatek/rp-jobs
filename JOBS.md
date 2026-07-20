@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 20, 2026 at 11:56 AM CST | **Total:** 15
+**Updated:** July 20, 2026 at 01:58 PM CST | **Total:** 16
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Elevator of Things | AI Data Engineer Fall Internship | Jul 20, 2026 01:02 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
 | Neptune North | Executive Assistant and Business Administrator | Jul 13, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
 | Neptune North | Software Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
 | Neptune North | Java (Calypso) Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
@@ -27,12 +28,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 15 postings)
+### Job Posting Times (Based on 16 postings)
 
 ```
 Jobs
 
  10 AM │███ 1
+  1 PM │███ 1
   2 PM │███████ 2
   3 PM │████████████████████████████████████████ 11
   4 PM │███ 1
