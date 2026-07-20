@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48831",
+    "company": "ADM",
+    "position": "Structural Engineer, Early Career",
+    "link": "https://researchpark.illinois.edu/job/structural-engineer-early-career/",
+    "posted_date": "Mon, 20 Jul 2026 21:11:13 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      20,
+      21,
+      11,
+      13,
+      0,
+      201,
+      0
+    ],
+    "discovered_date": "2026-07-20T21:44:14.898796",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Structural Engineering",
+        "Architecture"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
     "company": "Philowave",
     "position": "Hardware/FPGA Engineer Full Time",

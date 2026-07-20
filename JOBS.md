@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 20, 2026 at 03:26 PM CST | **Total:** 17
+**Updated:** July 20, 2026 at 04:44 PM CST | **Total:** 18
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | Elevator of Things | AI Data Engineer Fall Internship | Jul 20, 2026 01:02 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
 | Neptune North | Executive Assistant and Business Administrator | Jul 13, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
@@ -29,7 +30,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 17 postings)
+### Job Posting Times (Based on 18 postings)
 
 ```
 Jobs
@@ -38,7 +39,7 @@ Jobs
   1 PM │███ 1
   2 PM │██████████ 3
   3 PM │████████████████████████████████████████ 11
-  4 PM │███ 1
+  4 PM │███████ 2
        └────────────────────────────────────────
         0                                       11
 ```
