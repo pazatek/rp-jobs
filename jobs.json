@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48858",
+    "company": "Rivian",
+    "position": "ML AI Motor Controls Algorithm Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:55:09 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      55,
+      9,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950024",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Physics"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48856",
+    "company": "Rivian",
+    "position": "Computational Methods Development Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:49:08 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      49,
+      8,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950032",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48853",
+    "company": "Rivian",
+    "position": "Embedded Software Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/embedded-software-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:43:42 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      43,
+      42,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950035",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2025"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48831",
     "company": "ADM",
     "position": "Structural Engineer, Early Career",
