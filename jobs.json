@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48860",
+    "company": "Rivian",
+    "position": "MAchine Learning Compiler Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/",
+    "posted_date": "Thu, 23 Jul 2026 14:33:14 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      23,
+      14,
+      33,
+      14,
+      3,
+      204,
+      0
+    ],
+    "discovered_date": "2026-07-23T16:14:11.637921",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48858",
     "company": "Rivian",
     "position": "ML AI Motor Controls Algorithm Fall Intern",
