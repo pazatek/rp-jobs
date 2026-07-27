@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48925",
+    "company": "Caterpillar",
+    "position": "2027 Corporate Parallel Co-op Program",
+    "link": "https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/",
+    "posted_date": "Mon, 27 Jul 2026 20:49:40 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      27,
+      20,
+      49,
+      40,
+      0,
+      208,
+      0
+    ],
+    "discovered_date": "2026-07-27T21:15:52.882004",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Agricultural Engineering",
+        "Aerospace Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "hybrid",
+      "duration": "Summer 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48901",
     "company": "University of Illinois Office of Corporate Relations",
     "position": "Design Intern",

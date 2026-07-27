@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 27, 2026 at 02:56 PM CST | **Total:** 12
+**Updated:** July 27, 2026 at 04:15 PM CST | **Total:** 13
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Caterpillar | 2027 Corporate Parallel Co-op Program | Jul 27, 2026 03:49 PM CST | [Apply](https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 27, 2026 09:03 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
 | Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
@@ -24,7 +25,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 12 postings)
+### Job Posting Times (Based on 13 postings)
 
 ```
 Jobs
@@ -33,7 +34,7 @@ Jobs
  10 AM │████████████████████████████████████████ 4
   1 PM │██████████ 1
   2 PM │████████████████████ 2
-  3 PM │████████████████████ 2
+  3 PM │██████████████████████████████ 3
   4 PM │██████████ 1
        └────────────────────────────────────────
         0                                       4
