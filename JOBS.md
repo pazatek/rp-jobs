@@ -2,13 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 27, 2026 at 08:54 AM CST | **Total:** 11
+**Updated:** July 27, 2026 at 11:23 AM CST | **Total:** 12
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Rivian | MAchine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
+| University of Illinois Office of Corporate Relations | Design Intern | Jul 27, 2026 09:03 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
+| Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
 | Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
 | Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
 | Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
@@ -23,12 +24,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 11 postings)
+### Job Posting Times (Based on 12 postings)
 
 ```
 Jobs
 
-  9 AM │██████████ 1
+  9 AM │████████████████████ 2
  10 AM │████████████████████████████████████████ 4
   1 PM │██████████ 1
   2 PM │████████████████████ 2
