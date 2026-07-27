@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 24, 2026 at 06:03 PM CST | **Total:** 22
+**Updated:** July 27, 2026 at 06:26 AM CST | **Total:** 11
 
 ---
 
@@ -15,38 +15,27 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | Elevator of Things | AI Data Engineer Fall Internship | Jul 20, 2026 01:02 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
-| Neptune North | Executive Assistant and Business Administrator | Jul 13, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/executive-assistant-and-business-administrator/) |
-| Neptune North | Software Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer/) |
-| Neptune North | Java (Calypso) Developer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/java-calypso-developer/) |
-| Neptune North | Recruitment Coordinator | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/recruitment-co-ordinator/) |
-| Neptune North | Data Engineer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer/) |
-| Neptune North | Test Automation Engineer | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/test-automation-engineer/) |
-| Neptune North | Systematic Data Technologist | Jul 13, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-data-technologist/) |
-| Neptune North | Market Data Analyst | Jul 13, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/market-data-analyst/) |
-| Neptune North | Systematic Trading Technologist | Jul 13, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/systematic-trading-technologist/) |
 | Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
-| Synchrony | Human Resources Intern Fall 2026 | Jun 15, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
-| Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 22 postings)
+### Job Posting Times (Based on 11 postings)
 
 ```
 Jobs
 
-  9 AM │███ 1
- 10 AM │██████████████ 4
-  1 PM │███ 1
-  2 PM │██████████ 3
-  3 PM │████████████████████████████████████████ 11
-  4 PM │███████ 2
+  9 AM │██████████ 1
+ 10 AM │████████████████████████████████████████ 4
+  1 PM │██████████ 1
+  2 PM │████████████████████ 2
+  3 PM │████████████████████ 2
+  4 PM │██████████ 1
        └────────────────────────────────────────
-        0                                       11
+        0                                       4
 ```
 
 
