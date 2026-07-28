@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 28, 2026 at 04:32 PM CST | **Total:** 19
+**Updated:** July 28, 2026 at 05:42 PM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
+| Synchrony | Human Resources Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
@@ -24,8 +26,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
-| Synchrony | Human Resources Intern Fall 2026 | Jun 15, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
-| Synchrony | Credit Modeling Intern Fall 2026 | Jun 08, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 
 
@@ -40,9 +40,9 @@ Jobs
  10 AM │████████████████████████████████████████ 4
  11 AM │████████████████████████████████████████ 4
   1 PM │██████████ 1
-  2 PM │██████████████████████████████ 3
+  2 PM │████████████████████ 2
   3 PM │██████████████████████████████ 3
-  4 PM │████████████████████ 2
+  4 PM │██████████████████████████████ 3
        └────────────────────────────────────────
         0                                       4
 ```
