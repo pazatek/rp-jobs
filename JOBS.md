@@ -2,12 +2,16 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 28, 2026 at 11:46 AM CST | **Total:** 13
+**Updated:** July 28, 2026 at 01:16 PM CST | **Total:** 17
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
+| Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
+| Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
+| Yummy Future | Yummy Future ML/Perception | Jul 28, 2026 11:55 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-ml-perception/) |
 | Caterpillar | 2027 Corporate Parallel Co-op Program | Jul 27, 2026 03:49 PM CST | [Apply](https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 27, 2026 09:03 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
@@ -25,13 +29,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 13 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
 
   9 AM │████████████████████ 2
  10 AM │████████████████████████████████████████ 4
+ 11 AM │████████████████████████████████████████ 4
   1 PM │██████████ 1
   2 PM │████████████████████ 2
   3 PM │██████████████████████████████ 3
