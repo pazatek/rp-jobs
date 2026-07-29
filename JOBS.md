@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 29, 2026 at 07:33 AM CST | **Total:** 19
+**Updated:** July 29, 2026 at 09:57 AM CST | **Total:** 20
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Synchrony | Human Resources Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
@@ -31,12 +32,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
 
-  9 AM │████████████████████ 2
+  9 AM │██████████████████████████████ 3
  10 AM │████████████████████████████████████████ 4
  11 AM │████████████████████████████████████████ 4
   1 PM │██████████ 1
