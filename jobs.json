@@ -80,36 +80,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48822",
-    "company": "Elevator of Things",
-    "position": "AI Data Engineer Fall Internship",
-    "link": "https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/",
-    "posted_date": "Wed, 29 Jul 2026 16:39:30 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      29,
-      16,
-      39,
-      30,
-      2,
-      210,
-      0
-    ],
-    "discovered_date": "2026-07-20T18:57:56.932262",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Fall 2025"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48946",
     "company": "Rivian",
     "position": "Mechanical Modeling Fall Intern",

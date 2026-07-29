@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 29, 2026 at 03:30 PM CST | **Total:** 20
+**Updated:** July 29, 2026 at 04:38 PM CST | **Total:** 19
 
 ---
 
@@ -10,7 +10,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | ------- | -------- | ------ | ---- |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
-| Elevator of Things | AI Data Engineer Fall Internship | Jul 29, 2026 11:39 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Synchrony | Human Resources Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
@@ -32,19 +31,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 20 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
 
-  9 AM │███████████ 2
- 10 AM │██████████████████████ 4
- 11 AM │████████████████████████████████████████ 7
-  2 PM │███████████ 2
-  3 PM │███████████ 2
-  4 PM │█████████████████ 3
+  9 AM │█████████████ 2
+ 10 AM │██████████████████████████ 4
+ 11 AM │████████████████████████████████████████ 6
+  2 PM │█████████████ 2
+  3 PM │█████████████ 2
+  4 PM │████████████████████ 3
        └────────────────────────────────────────
-        0                                       7
+        0                                       6
 ```
 
 
