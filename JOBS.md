@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 29, 2026 at 11:35 AM CST | **Total:** 20
+**Updated:** July 29, 2026 at 12:56 PM CST | **Total:** 20
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
+| University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
+| Elevator of Things | AI Data Engineer Fall Internship | Jul 29, 2026 11:39 AM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Synchrony | Human Resources Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
@@ -16,16 +19,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
 | Yummy Future | Yummy Future ML/Perception | Jul 28, 2026 11:55 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-ml-perception/) |
 | Caterpillar | 2027 Corporate Parallel Co-op Program | Jul 27, 2026 03:49 PM CST | [Apply](https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/) |
-| University of Illinois Office of Corporate Relations | Design Intern | Jul 27, 2026 09:03 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
 | Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
 | Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
 | Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
 | ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
-| Elevator of Things | AI Data Engineer Fall Internship | Jul 20, 2026 01:02 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-data-engineer-fall-internship/) |
 | Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
-| Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 08, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
 | Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 
@@ -37,15 +37,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 ```
 Jobs
 
-  9 AM │██████████████████████████████ 3
- 10 AM │████████████████████████████████████████ 4
- 11 AM │████████████████████████████████████████ 4
-  1 PM │██████████ 1
-  2 PM │████████████████████ 2
-  3 PM │██████████████████████████████ 3
-  4 PM │██████████████████████████████ 3
+  9 AM │███████████ 2
+ 10 AM │██████████████████████ 4
+ 11 AM │████████████████████████████████████████ 7
+  2 PM │███████████ 2
+  3 PM │███████████ 2
+  4 PM │█████████████████ 3
        └────────────────────────────────────────
-        0                                       4
+        0                                       7
 ```
 
 
