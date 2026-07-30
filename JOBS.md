@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 30, 2026 at 02:36 PM CST | **Total:** 19
+**Updated:** July 30, 2026 at 03:46 PM CST | **Total:** 20
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Dow | Machine Learning Engineer | Jul 30, 2026 03:00 PM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-engineer/) |
 | Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
@@ -31,7 +32,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
@@ -40,7 +41,7 @@ Jobs
  10 AM │██████████████████████████ 4
  11 AM │████████████████████████████████████████ 6
   2 PM │█████████████ 2
-  3 PM │█████████████ 2
+  3 PM │████████████████████ 3
   4 PM │████████████████████ 3
        └────────────────────────────────────────
         0                                       6
