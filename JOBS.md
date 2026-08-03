@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 03, 2026 at 08:57 AM CST | **Total:** 16
+**Updated:** August 03, 2026 at 11:32 AM CST | **Total:** 17
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| MSA | Senior Project Engineer (Water/Wastewater) | Aug 03, 2026 11:03 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater/) |
 | Dow | Machine Learning Engineer | Jul 30, 2026 03:00 PM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-engineer/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
@@ -28,19 +29,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 16 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
 
-  9 AM │████████████████ 2
- 10 AM │████████████████████████ 3
- 11 AM │████████████████████████████████████████ 5
-  2 PM │████████ 1
-  3 PM │████████████████ 2
-  4 PM │████████████████████████ 3
+  9 AM │█████████████ 2
+ 10 AM │████████████████████ 3
+ 11 AM │████████████████████████████████████████ 6
+  2 PM │██████ 1
+  3 PM │█████████████ 2
+  4 PM │████████████████████ 3
        └────────────────────────────────────────
-        0                                       5
+        0                                       6
 ```
 
 
