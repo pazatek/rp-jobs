@@ -2,14 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** July 31, 2026 at 06:42 PM CST | **Total:** 20
+**Updated:** August 03, 2026 at 06:27 AM CST | **Total:** 16
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
 | Dow | Machine Learning Engineer | Jul 30, 2026 03:00 PM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-engineer/) |
-| Mondelēz International | FutureLab Research & Development (R&D) Fall 2026 Part Time Internship | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-research-development-rd-fall-2026-part-time-internship/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
@@ -25,26 +24,23 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
 | ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
-| Mondelēz International | FutureLab XR Fall 2026 Part Time Internship | Jul 08, 2026 03:06 PM CST | [Apply](https://researchpark.illinois.edu/job/futurelab-xr-fall-2026-part-time-internship/) |
-| Purpose Built Brands | Research and Development Lab Manager | Jun 26, 2026 10:20 AM CST | [Apply](https://researchpark.illinois.edu/job/research-and-development-lab-manager/) |
-| Archean Sciences | Mechatronics / System Engineer | May 05, 2026 02:13 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-system-engineer/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 20 postings)
+### Job Posting Times (Based on 16 postings)
 
 ```
 Jobs
 
-  9 AM │█████████████ 2
- 10 AM │██████████████████████████ 4
- 11 AM │████████████████████████████████████████ 6
-  2 PM │█████████████ 2
-  3 PM │████████████████████ 3
-  4 PM │████████████████████ 3
+  9 AM │████████████████ 2
+ 10 AM │████████████████████████ 3
+ 11 AM │████████████████████████████████████████ 5
+  2 PM │████████ 1
+  3 PM │████████████████ 2
+  4 PM │████████████████████████ 3
        └────────────────────────────────────────
-        0                                       6
+        0                                       5
 ```
 
 
