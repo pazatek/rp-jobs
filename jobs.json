@@ -1,5 +1,40 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49019",
+    "company": "Neptune North",
+    "position": "Software Developer Intern",
+    "link": "https://researchpark.illinois.edu/job/software-developer-intern-3/",
+    "posted_date": "Wed, 05 Aug 2026 21:54:31 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      5,
+      21,
+      54,
+      31,
+      2,
+      217,
+      0
+    ],
+    "discovered_date": "2026-08-05T23:40:42.439089",
+    "badges": {
+      "min_gpa": "3.5",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49000",
     "company": "MSA",
     "position": "Senior Project Engineer (Water/Wastewater)",
