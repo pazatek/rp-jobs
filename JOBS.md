@@ -2,13 +2,12 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 05, 2026 at 06:40 PM CST | **Total:** 18
+**Updated:** August 06, 2026 at 05:41 AM CST | **Total:** 17
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Neptune North | Software Developer Intern | Aug 05, 2026 04:54 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer-intern-3/) |
 | MSA | Senior Project Engineer (Water/Wastewater) | Aug 03, 2026 11:03 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater/) |
 | Dow | Machine Learning Engineer | Jul 30, 2026 03:00 PM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-engineer/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
@@ -30,7 +29,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 18 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
@@ -40,7 +39,7 @@ Jobs
  11 AM │████████████████████████████████████████ 6
   2 PM │██████ 1
   3 PM │█████████████ 2
-  4 PM │██████████████████████████ 4
+  4 PM │████████████████████ 3
        └────────────────────────────────────────
         0                                       6
 ```
