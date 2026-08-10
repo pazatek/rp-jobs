@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 07, 2026 at 06:18 PM CST | **Total:** 19
+**Updated:** August 10, 2026 at 04:24 AM CST | **Total:** 17
 
 ---
 
@@ -14,8 +14,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Dow | Machine Learning Engineer | Jul 30, 2026 03:00 PM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-engineer/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Jul 29, 2026 11:41 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Rivian | Mechanical Modeling Fall Intern | Jul 29, 2026 09:21 AM CST | [Apply](https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/) |
-| Synchrony | Credit Modeling Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
-| Synchrony | Human Resources Intern Fall 2026 | Jul 28, 2026 04:37 PM CST | [Apply](https://researchpark.illinois.edu/job/human-resources-intern-fall-2026/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
@@ -31,7 +29,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 17 postings)
 
 ```
 Jobs
@@ -41,7 +39,7 @@ Jobs
  11 AM │████████████████████████████████████████ 6
   2 PM │██████ 1
   3 PM │█████████████ 2
-  4 PM │██████████████████████████ 4
+  4 PM │█████████████ 2
   6 PM │██████ 1
        └────────────────────────────────────────
         0                                       6
