@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49229",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 FPGA Design",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-fpga-design/",
+    "posted_date": "Mon, 17 Aug 2026 18:33:17 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      17,
+      18,
+      33,
+      17,
+      0,
+      229,
+      0
+    ],
+    "discovered_date": "2026-08-17T19:01:44.515870",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Computer Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49021",
     "company": "Johnson Controls",
     "position": "AI Innovation Intern (Bachelor & Masters/PHD)",
