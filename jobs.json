@@ -1,5 +1,42 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49231",
+    "company": "John Deere",
+    "position": "2026 Fall Fullstack Engineering Internship",
+    "link": "https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/",
+    "posted_date": "Tue, 18 Aug 2026 21:20:12 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      18,
+      21,
+      20,
+      12,
+      1,
+      230,
+      0
+    ],
+    "discovered_date": "2026-08-18T21:58:40.537518",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49229",
     "company": "Rivian",
     "position": "UIUC Research Park Intern \u2013 FPGA Design",

@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 18, 2026 at 04:38 PM CST | **Total:** 15
+**Updated:** August 18, 2026 at 04:58 PM CST | **Total:** 16
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| John Deere | 2026 Fall Fullstack Engineering Internship | Aug 18, 2026 04:20 PM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/) |
 | Rivian | UIUC Research Park Intern – FPGA Design | Aug 17, 2026 01:33 PM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-fpga-design/) |
 | Johnson Controls | AI Innovation Intern (Bachelor & Masters/PHD) | Aug 05, 2026 06:18 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters-phd/) |
 | MSA | Senior Project Engineer (Water/Wastewater) | Aug 03, 2026 11:03 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater/) |
@@ -27,7 +28,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 15 postings)
+### Job Posting Times (Based on 16 postings)
 
 ```
 Jobs
@@ -38,7 +39,7 @@ Jobs
   1 PM │████████ 1
   2 PM │████████ 1
   3 PM │████████ 1
-  4 PM │████████ 1
+  4 PM │████████████████ 2
   6 PM │████████ 1
        └────────────────────────────────────────
         0                                       5
