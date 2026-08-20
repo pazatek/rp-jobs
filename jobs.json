@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49245",
+    "company": "Caterpillar",
+    "position": "2027 Summer Corporate Intern \u2013 Engineering",
+    "link": "https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/",
+    "posted_date": "Thu, 20 Aug 2026 14:53:24 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      14,
+      53,
+      24,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T15:59:17.602831",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Aerospace Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49243",
     "company": "Caterpillar",
     "position": "Logistics Planning Analyst",

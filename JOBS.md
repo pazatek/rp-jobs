@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 20, 2026 at 10:16 AM CST | **Total:** 18
+**Updated:** August 20, 2026 at 10:59 AM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
 | Caterpillar | Logistics Planning Analyst | Aug 20, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/logistics-planning-analyst/) |
 | John Deere | 2026 Fall Technical Data & Analytics Internship | Aug 20, 2026 09:12 AM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/) |
 | John Deere | 2026 Fall Fullstack Engineering Internship | Aug 18, 2026 04:20 PM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/) |
@@ -30,12 +31,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 18 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
 
-  9 AM │████████████████████████████████ 4
+  9 AM │████████████████████████████████████████ 5
  10 AM │████████████████████████ 3
  11 AM │████████████████████████████████████████ 5
   1 PM │████████ 1
