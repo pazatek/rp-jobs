@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49251",
+    "company": "Littelfuse",
+    "position": "CAD Technician",
+    "link": "https://researchpark.illinois.edu/job/cad-technician/",
+    "posted_date": "Thu, 20 Aug 2026 15:50:25 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      50,
+      25,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T16:45:05.643733",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49249",
+    "company": "Littelfuse",
+    "position": "Sr. New Product Development Engineer, ICP",
+    "link": "https://researchpark.illinois.edu/job/sr-new-product-development-engineer-icp/",
+    "posted_date": "Thu, 20 Aug 2026 15:48:39 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      48,
+      39,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T16:45:05.643741",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49247",
+    "company": "Caterpillar",
+    "position": "2027 Engineering Corporate Parallel Co-op Program",
+    "link": "https://researchpark.illinois.edu/job/2027-engineering-corporate-parallel-co-op-program/",
+    "posted_date": "Thu, 20 Aug 2026 15:30:39 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      15,
+      30,
+      39,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T16:45:05.643744",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Agricultural Engineering",
+        "Aerospace Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "hybrid",
+      "duration": "Summer 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49245",
     "company": "Caterpillar",
     "position": "2027 Summer Corporate Intern \u2013 Engineering",
@@ -472,6 +571,105 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48858",
+    "company": "Rivian",
+    "position": "ML AI Motor Controls Algorithm Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:55:09 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      55,
+      9,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950024",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Physics"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48856",
+    "company": "Rivian",
+    "position": "Computational Methods Development Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:49:08 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      49,
+      8,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950032",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48853",
+    "company": "Rivian",
+    "position": "Embedded Software Fall Intern",
+    "link": "https://researchpark.illinois.edu/job/embedded-software-fall-intern/",
+    "posted_date": "Wed, 22 Jul 2026 15:43:42 +0000",
+    "published_parsed": [
+      2026,
+      7,
+      22,
+      15,
+      43,
+      42,
+      2,
+      203,
+      0
+    ],
+    "discovered_date": "2026-07-22T16:02:26.950035",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2025"
     }
   },
   {

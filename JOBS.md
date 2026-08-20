@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 20, 2026 at 10:59 AM CST | **Total:** 19
+**Updated:** August 20, 2026 at 11:45 AM CST | **Total:** 25
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Littelfuse | CAD Technician | Aug 20, 2026 10:50 AM CST | [Apply](https://researchpark.illinois.edu/job/cad-technician/) |
+| Littelfuse | Sr. New Product Development Engineer, ICP | Aug 20, 2026 10:48 AM CST | [Apply](https://researchpark.illinois.edu/job/sr-new-product-development-engineer-icp/) |
+| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Aug 20, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-engineering-corporate-parallel-co-op-program/) |
 | Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
 | Caterpillar | Logistics Planning Analyst | Aug 20, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/logistics-planning-analyst/) |
 | John Deere | 2026 Fall Technical Data & Analytics Internship | Aug 20, 2026 09:12 AM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/) |
@@ -23,7 +26,10 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Caterpillar | 2027 Corporate Parallel Co-op Program | Jul 27, 2026 03:49 PM CST | [Apply](https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/) |
 | Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
 | Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
+| Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
 | Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
+| Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
+| Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
 | Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
 | ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
@@ -31,21 +37,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 25 postings)
 
 ```
 Jobs
 
-  9 AM │████████████████████████████████████████ 5
- 10 AM │████████████████████████ 3
- 11 AM │████████████████████████████████████████ 5
-  1 PM │████████ 1
-  2 PM │████████ 1
-  3 PM │████████ 1
-  4 PM │████████████████ 2
-  6 PM │████████ 1
+  9 AM │██████████████████████ 5
+ 10 AM │████████████████████████████████████████ 9
+ 11 AM │██████████████████████ 5
+  1 PM │████ 1
+  2 PM │████ 1
+  3 PM │████ 1
+  4 PM │████████ 2
+  6 PM │████ 1
        └────────────────────────────────────────
-        0                                       5
+        0                                       9
 ```
 
 
