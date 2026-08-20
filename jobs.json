@@ -1,5 +1,72 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49243",
+    "company": "Caterpillar",
+    "position": "Logistics Planning Analyst",
+    "link": "https://researchpark.illinois.edu/job/logistics-planning-analyst/",
+    "posted_date": "Thu, 20 Aug 2026 14:33:26 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      14,
+      33,
+      26,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T15:16:28.577362",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49240",
+    "company": "John Deere",
+    "position": "2026 Fall Technical Data & Analytics Internship",
+    "link": "https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/",
+    "posted_date": "Thu, 20 Aug 2026 14:12:04 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      14,
+      12,
+      4,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T15:16:28.577369",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Mathematics",
+        "Statistics",
+        "Engineering",
+        "Agricultural Science"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49231",
     "company": "John Deere",
     "position": "2026 Fall Fullstack Engineering Internship",

@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 20, 2026 at 09:38 AM CST | **Total:** 16
+**Updated:** August 20, 2026 at 10:16 AM CST | **Total:** 18
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Caterpillar | Logistics Planning Analyst | Aug 20, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/logistics-planning-analyst/) |
+| John Deere | 2026 Fall Technical Data & Analytics Internship | Aug 20, 2026 09:12 AM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/) |
 | John Deere | 2026 Fall Fullstack Engineering Internship | Aug 18, 2026 04:20 PM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/) |
 | Rivian | UIUC Research Park Intern – FPGA Design | Aug 17, 2026 01:33 PM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-fpga-design/) |
 | Johnson Controls | AI Innovation Intern (Bachelor & Masters/PHD) | Aug 05, 2026 06:18 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-innovation-intern-bachelor-masters-phd/) |
@@ -28,12 +30,12 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 16 postings)
+### Job Posting Times (Based on 18 postings)
 
 ```
 Jobs
 
-  9 AM │████████████████ 2
+  9 AM │████████████████████████████████ 4
  10 AM │████████████████████████ 3
  11 AM │████████████████████████████████████████ 5
   1 PM │████████ 1
