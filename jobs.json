@@ -1,5 +1,98 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49258",
+    "company": "NVIDIA",
+    "position": "Senior System Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/senior-system-software-engineer/",
+    "posted_date": "Thu, 20 Aug 2026 16:20:58 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      20,
+      58,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T17:13:46.901627",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49254",
+    "company": "NVIDIA",
+    "position": "Senior Research Scientist, System Software and I/O Architecture",
+    "link": "https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture-2/",
+    "posted_date": "Thu, 20 Aug 2026 16:16:42 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      16,
+      42,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T17:13:46.901633",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49253",
+    "company": "NVIDIA",
+    "position": "Principal Systems Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/principal-systems-software-engineer-2/",
+    "posted_date": "Thu, 20 Aug 2026 16:13:34 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      20,
+      16,
+      13,
+      34,
+      3,
+      232,
+      0
+    ],
+    "discovered_date": "2026-08-20T17:13:46.901635",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49251",
     "company": "Littelfuse",
     "position": "CAD Technician",
@@ -571,105 +664,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48858",
-    "company": "Rivian",
-    "position": "ML AI Motor Controls Algorithm Fall Intern",
-    "link": "https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/",
-    "posted_date": "Wed, 22 Jul 2026 15:55:09 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      22,
-      15,
-      55,
-      9,
-      2,
-      203,
-      0
-    ],
-    "discovered_date": "2026-07-22T16:02:26.950024",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Science",
-        "Computer Engineering",
-        "Electrical Engineering",
-        "Physics"
-      ],
-      "job_type": "internship",
-      "work_mode": null,
-      "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48856",
-    "company": "Rivian",
-    "position": "Computational Methods Development Fall Intern",
-    "link": "https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/",
-    "posted_date": "Wed, 22 Jul 2026 15:49:08 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      22,
-      15,
-      49,
-      8,
-      2,
-      203,
-      0
-    ],
-    "discovered_date": "2026-07-22T16:02:26.950032",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48853",
-    "company": "Rivian",
-    "position": "Embedded Software Fall Intern",
-    "link": "https://researchpark.illinois.edu/job/embedded-software-fall-intern/",
-    "posted_date": "Wed, 22 Jul 2026 15:43:42 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      22,
-      15,
-      43,
-      42,
-      2,
-      203,
-      0
-    ],
-    "discovered_date": "2026-07-22T16:02:26.950035",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Computer Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Fall 2025"
     }
   },
   {
