@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 21, 2026 at 02:58 PM CST | **Total:** 25
+**Updated:** August 21, 2026 at 03:33 PM CST | **Total:** 23
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Philowave | Hardware/FPGA Engineer Full Time | Aug 21, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | NVIDIA | Senior System Software Engineer | Aug 20, 2026 11:20 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-system-software-engineer/) |
 | NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Aug 20, 2026 11:16 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture-2/) |
 | NVIDIA | Principal Systems Software Engineer | Aug 20, 2026 11:13 AM CST | [Apply](https://researchpark.illinois.edu/job/principal-systems-software-engineer-2/) |
@@ -26,18 +27,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
 | Yummy Future | Yummy Future ML/Perception | Jul 28, 2026 11:55 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-ml-perception/) |
-| Caterpillar | 2027 Corporate Parallel Co-op Program | Jul 27, 2026 03:49 PM CST | [Apply](https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/) |
 | Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
 | Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
 | Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
 | Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
-| ADM | Structural Engineer, Early Career | Jul 20, 2026 04:11 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-early-career/) |
-| Philowave | Hardware/FPGA Engineer Full Time | Jul 20, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 23 postings)
 
 ```
 Jobs
@@ -47,8 +45,7 @@ Jobs
  11 AM │████████████████████████████████████████ 8
   1 PM │█████ 1
   2 PM │█████ 1
-  3 PM │█████ 1
-  4 PM │██████████ 2
+  4 PM │█████ 1
   6 PM │█████ 1
        └────────────────────────────────────────
         0                                       8

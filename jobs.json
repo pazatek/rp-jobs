@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
+    "company": "Philowave",
+    "position": "Hardware/FPGA Engineer Full Time",
+    "link": "https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/",
+    "posted_date": "Fri, 21 Aug 2026 19:43:20 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      19,
+      43,
+      20,
+      4,
+      233,
+      0
+    ],
+    "discovered_date": "2026-07-20T20:26:03.923027",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49258",
     "company": "NVIDIA",
     "position": "Senior System Software Engineer",
@@ -597,42 +629,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48925",
-    "company": "Caterpillar",
-    "position": "2027 Corporate Parallel Co-op Program",
-    "link": "https://researchpark.illinois.edu/job/2027-corporate-parallel-co-op-program/",
-    "posted_date": "Mon, 27 Jul 2026 20:49:40 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      27,
-      20,
-      49,
-      40,
-      0,
-      208,
-      0
-    ],
-    "discovered_date": "2026-07-27T21:15:52.882004",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Mechanical Engineering",
-        "Electrical Engineering",
-        "Computer Engineering",
-        "Agricultural Engineering",
-        "Aerospace Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "hybrid",
-      "duration": "Summer 2027"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48860",
     "company": "Rivian",
     "position": "Machine Learning Compiler Fall Intern",
@@ -763,72 +759,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2025"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48831",
-    "company": "ADM",
-    "position": "Structural Engineer, Early Career",
-    "link": "https://researchpark.illinois.edu/job/structural-engineer-early-career/",
-    "posted_date": "Mon, 20 Jul 2026 21:11:13 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      20,
-      21,
-      11,
-      13,
-      0,
-      201,
-      0
-    ],
-    "discovered_date": "2026-07-20T21:44:14.898796",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Civil Engineering",
-        "Structural Engineering",
-        "Architecture"
-      ],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
-    "company": "Philowave",
-    "position": "Hardware/FPGA Engineer Full Time",
-    "link": "https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/",
-    "posted_date": "Mon, 20 Jul 2026 19:43:15 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      20,
-      19,
-      43,
-      15,
-      0,
-      201,
-      0
-    ],
-    "discovered_date": "2026-07-20T20:26:03.923027",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Electrical Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
     }
   }
 ]
