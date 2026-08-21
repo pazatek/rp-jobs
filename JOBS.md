@@ -2,12 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 21, 2026 at 03:33 PM CST | **Total:** 23
+**Updated:** August 21, 2026 at 04:01 PM CST | **Total:** 24
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Cache Energy | Graphic Design Intern | Aug 21, 2026 02:59 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-3/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Aug 21, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | NVIDIA | Senior System Software Engineer | Aug 20, 2026 11:20 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-system-software-engineer/) |
 | NVIDIA | Senior Research Scientist, System Software and I/O Architecture | Aug 20, 2026 11:16 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-research-scientist-system-software-and-i-o-architecture-2/) |
@@ -35,7 +36,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 23 postings)
+### Job Posting Times (Based on 24 postings)
 
 ```
 Jobs
@@ -44,7 +45,7 @@ Jobs
  10 AM │██████████████████████████████ 6
  11 AM │████████████████████████████████████████ 8
   1 PM │█████ 1
-  2 PM │█████ 1
+  2 PM │██████████ 2
   4 PM │█████ 1
   6 PM │█████ 1
        └────────────────────────────────────────

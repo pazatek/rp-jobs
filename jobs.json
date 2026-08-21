@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49273",
+    "company": "Cache Energy",
+    "position": "Graphic Design Intern",
+    "link": "https://researchpark.illinois.edu/job/graphic-design-intern-3/",
+    "posted_date": "Fri, 21 Aug 2026 19:59:13 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      21,
+      19,
+      59,
+      13,
+      4,
+      233,
+      0
+    ],
+    "discovered_date": "2026-08-21T21:01:09.496638",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
     "company": "Philowave",
     "position": "Hardware/FPGA Engineer Full Time",
