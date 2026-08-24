@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 21, 2026 at 06:01 PM CST | **Total:** 24
+**Updated:** August 24, 2026 at 03:51 AM CST | **Total:** 20
 
 ---
 
@@ -28,21 +28,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
 | Yummy Future | Yummy Future ML/Perception | Jul 28, 2026 11:55 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-ml-perception/) |
-| Rivian | Machine Learning Compiler Fall Intern | Jul 23, 2026 09:33 AM CST | [Apply](https://researchpark.illinois.edu/job/machine-learning-compiler-fall-intern/) |
-| Rivian | ML AI Motor Controls Algorithm Fall Intern | Jul 22, 2026 10:55 AM CST | [Apply](https://researchpark.illinois.edu/job/ml-ai-motor-controls-algorithm-fall-intern/) |
-| Rivian | Computational Methods Development Fall Intern | Jul 22, 2026 10:49 AM CST | [Apply](https://researchpark.illinois.edu/job/computational-methods-development-fall-intern/) |
-| Rivian | Embedded Software Fall Intern | Jul 22, 2026 10:43 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-software-fall-intern/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 24 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
 
-  9 AM │█████████████████████████ 5
- 10 AM │██████████████████████████████ 6
+  9 AM │████████████████████ 4
+ 10 AM │███████████████ 3
  11 AM │████████████████████████████████████████ 8
   1 PM │█████ 1
   2 PM │██████████ 2
