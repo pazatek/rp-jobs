@@ -1,5 +1,42 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48501",
+    "company": "Synchrony",
+    "position": "Credit Modeling Intern Fall 2026",
+    "link": "https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/",
+    "posted_date": "Mon, 24 Aug 2026 16:06:56 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      24,
+      16,
+      6,
+      56,
+      0,
+      236,
+      0
+    ],
+    "discovered_date": "2026-08-24T17:16:59.869974",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Mathematics",
+        "Statistics",
+        "Computer Science",
+        "Economics",
+        "Finance",
+        "Data Science"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49273",
     "company": "Cache Energy",
     "position": "Graphic Design Intern",
