@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 25, 2026 at 04:30 PM CST | **Total:** 21
+**Updated:** August 25, 2026 at 05:00 PM CST | **Total:** 24
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Epivara | Business & Marketing Assistant | Aug 25, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/business-marketing-assistant/) |
+| Tiptek | Production Technician | Aug 25, 2026 10:39 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/) |
+| Tiptek | Laboratory Technician | Aug 25, 2026 10:38 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-champaign-il-4-laboratory-technician/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Aug 24, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
 | Cache Energy | Graphic Design Intern | Aug 21, 2026 02:59 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-3/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Aug 21, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
@@ -33,17 +36,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 21 postings)
+### Job Posting Times (Based on 24 postings)
 
 ```
 Jobs
 
   9 AM │█████████████████ 4
- 10 AM │█████████████ 3
+ 10 AM │██████████████████████ 5
  11 AM │████████████████████████████████████████ 9
   1 PM │████ 1
   2 PM │████████ 2
-  4 PM │████ 1
+  4 PM │████████ 2
   6 PM │████ 1
        └────────────────────────────────────────
         0                                       9

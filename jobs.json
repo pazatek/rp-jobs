@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49329",
+    "company": "Epivara",
+    "position": "Business & Marketing Assistant",
+    "link": "https://researchpark.illinois.edu/job/business-marketing-assistant/",
+    "posted_date": "Tue, 25 Aug 2026 21:14:01 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      21,
+      14,
+      1,
+      1,
+      237,
+      0
+    ],
+    "discovered_date": "2026-08-25T22:00:07.396580",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49296",
+    "company": "Tiptek",
+    "position": "Production Technician",
+    "link": "https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/",
+    "posted_date": "Tue, 25 Aug 2026 15:39:58 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      15,
+      39,
+      58,
+      1,
+      237,
+      0
+    ],
+    "discovered_date": "2026-08-25T22:00:07.396587",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Materials Science",
+        "Engineering",
+        "Physics",
+        "Chemistry"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49294",
+    "company": "Tiptek",
+    "position": "Laboratory Technician",
+    "link": "https://researchpark.illinois.edu/job/tiptek-champaign-il-4-laboratory-technician/",
+    "posted_date": "Tue, 25 Aug 2026 15:38:01 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      25,
+      15,
+      38,
+      1,
+      1,
+      237,
+      0
+    ],
+    "discovered_date": "2026-08-25T22:00:07.396589",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Chemistry",
+        "Materials Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48501",
     "company": "Synchrony",
     "position": "Credit Modeling Intern Fall 2026",
