@@ -602,38 +602,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48946",
-    "company": "Rivian",
-    "position": "Mechanical Modeling Fall Intern",
-    "link": "https://researchpark.illinois.edu/job/mechanical-modeling-fall-intern/",
-    "posted_date": "Wed, 29 Jul 2026 14:21:38 +0000",
-    "published_parsed": [
-      2026,
-      7,
-      29,
-      14,
-      21,
-      38,
-      2,
-      210,
-      0
-    ],
-    "discovered_date": "2026-07-29T14:57:46.529949",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Fall 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48942",
     "company": "Yummy Future",
     "position": "Yummy Future Store Manager",
