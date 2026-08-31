@@ -2,12 +2,14 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 31, 2026 at 10:58 AM CST | **Total:** 22
+**Updated:** August 31, 2026 at 04:25 PM CST | **Total:** 24
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Research Park | Communications Intern — Entrepreneurship & Tech Coverage | Aug 31, 2026 03:18 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-entrepreneurship-tech-coverage/) |
+| Epivara | Junior Animal Scientist | Aug 31, 2026 02:49 PM CST | [Apply](https://researchpark.illinois.edu/job/junior-animal-scientist/) |
 | Champaign-Urbana Mass Transit District | Software Developer | Aug 27, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/champaign-urbana-mass-transit-district-urbana-il-4-software-developer/) |
 | Epivara | Business & Marketing Assistant | Aug 25, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/business-marketing-assistant/) |
 | Tiptek | Production Technician | Aug 25, 2026 10:39 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/) |
@@ -34,7 +36,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 22 postings)
+### Job Posting Times (Based on 24 postings)
 
 ```
 Jobs
@@ -43,7 +45,8 @@ Jobs
  10 AM │████████████████████ 5
  11 AM │████████████████████████████████████████ 10
   1 PM │████ 1
-  2 PM │████████ 2
+  2 PM │████████████ 3
+  3 PM │████ 1
   4 PM │████████ 2
        └────────────────────────────────────────
         0                                       10
