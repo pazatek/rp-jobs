@@ -2,13 +2,13 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 01, 2026 at 03:04 PM CST | **Total:** 27
+**Updated:** September 01, 2026 at 05:37 PM CST | **Total:** 27
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
-| Brunswick | Software Engineer Intern – Copy | Aug 31, 2026 06:06 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-copy/) |
+| Brunswick | Software Engineer Intern | Aug 31, 2026 06:06 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-copy/) |
 | Everfox | Software Development Intern | Aug 31, 2026 05:24 PM CST | [Apply](https://researchpark.illinois.edu/job/software-development-intern-2/) |
 | APTech | Civil Engineering Intern | Aug 31, 2026 04:50 PM CST | [Apply](https://researchpark.illinois.edu/job/civil-engineering-intern-2/) |
 | Research Park | Communications Intern — Entrepreneurship & Tech Coverage | Aug 31, 2026 03:18 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-entrepreneurship-tech-coverage/) |
