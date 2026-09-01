@@ -2,12 +2,15 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** August 31, 2026 at 04:25 PM CST | **Total:** 24
+**Updated:** August 31, 2026 at 07:44 PM CST | **Total:** 27
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Brunswick | Software Engineer Intern – Copy | Aug 31, 2026 06:06 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-copy/) |
+| Everfox | Software Development Intern | Aug 31, 2026 05:24 PM CST | [Apply](https://researchpark.illinois.edu/job/software-development-intern-2/) |
+| APTech | Civil Engineering Intern | Aug 31, 2026 04:50 PM CST | [Apply](https://researchpark.illinois.edu/job/civil-engineering-intern-2/) |
 | Research Park | Communications Intern — Entrepreneurship & Tech Coverage | Aug 31, 2026 03:18 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-entrepreneurship-tech-coverage/) |
 | Epivara | Junior Animal Scientist | Aug 31, 2026 02:49 PM CST | [Apply](https://researchpark.illinois.edu/job/junior-animal-scientist/) |
 | Champaign-Urbana Mass Transit District | Software Developer | Aug 27, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/champaign-urbana-mass-transit-district-urbana-il-4-software-developer/) |
@@ -36,7 +39,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 24 postings)
+### Job Posting Times (Based on 27 postings)
 
 ```
 Jobs
@@ -47,7 +50,9 @@ Jobs
   1 PM │████ 1
   2 PM │████████████ 3
   3 PM │████ 1
-  4 PM │████████ 2
+  4 PM │████████████ 3
+  5 PM │████ 1
+  6 PM │████ 1
        └────────────────────────────────────────
         0                                       10
 ```

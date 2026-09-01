@@ -1,5 +1,103 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49368",
+    "company": "Brunswick",
+    "position": "Software Engineer Intern \u2013 Copy",
+    "link": "https://researchpark.illinois.edu/job/software-engineer-intern-copy/",
+    "posted_date": "Mon, 31 Aug 2026 23:06:03 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      23,
+      6,
+      3,
+      0,
+      243,
+      0
+    ],
+    "discovered_date": "2026-09-01T00:44:33.449626",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Computer Engineering",
+        "Physics"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49363",
+    "company": "Everfox",
+    "position": "Software Development Intern",
+    "link": "https://researchpark.illinois.edu/job/software-development-intern-2/",
+    "posted_date": "Mon, 31 Aug 2026 22:24:34 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      22,
+      24,
+      34,
+      0,
+      243,
+      0
+    ],
+    "discovered_date": "2026-09-01T00:44:33.449632",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49355",
+    "company": "APTech",
+    "position": "Civil Engineering Intern",
+    "link": "https://researchpark.illinois.edu/job/civil-engineering-intern-2/",
+    "posted_date": "Mon, 31 Aug 2026 21:50:31 +0000",
+    "published_parsed": [
+      2026,
+      8,
+      31,
+      21,
+      50,
+      31,
+      0,
+      243,
+      0
+    ],
+    "discovered_date": "2026-09-01T00:44:33.449633",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49350",
     "company": "Research Park",
     "position": "Communications Intern \u2014 Entrepreneurship & Tech Coverage",
