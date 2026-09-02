@@ -2,12 +2,17 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 02, 2026 at 11:52 AM CST | **Total:** 27
+**Updated:** September 02, 2026 at 02:39 PM CST | **Total:** 32
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Archean Sciences | Mechatronics Engineer | Sep 02, 2026 01:27 PM CST | [Apply](https://researchpark.illinois.edu/job/mechatronics-engineer/) |
+| Brunswick | Computer Graphics Engineering Intern | Sep 02, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-engineering-intern/) |
+| Brunswick | Software Engineer Intern – Reinforcement Learning | Sep 02, 2026 12:33 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-4/) |
+| Prairie Research Institute | Social Media Intern – Fall 2026 | Sep 02, 2026 12:19 PM CST | [Apply](https://researchpark.illinois.edu/job/social-media-intern-fall-2026/) |
+| Illinois Natural History Survey | Human Dimensions Technician (Hourly) – Illinois Natural History Survey | Sep 02, 2026 12:17 PM CST | [Apply](https://researchpark.illinois.edu/job/human-dimensions-technician-hourly-illinois-natural-history-survey/) |
 | Brunswick | Software Engineer Intern | Aug 31, 2026 06:06 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-copy/) |
 | Everfox | Software Development Intern | Aug 31, 2026 05:24 PM CST | [Apply](https://researchpark.illinois.edu/job/software-development-intern-2/) |
 | APTech | Civil Engineering Intern | Aug 31, 2026 04:50 PM CST | [Apply](https://researchpark.illinois.edu/job/civil-engineering-intern-2/) |
@@ -39,7 +44,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 27 postings)
+### Job Posting Times (Based on 32 postings)
 
 ```
 Jobs
@@ -47,7 +52,8 @@ Jobs
   9 AM │████████ 2
  10 AM │████████████████████ 5
  11 AM │████████████████████████████████████████ 10
-  1 PM │████ 1
+ 12 PM │████████████████ 4
+  1 PM │████████ 2
   2 PM │████████████ 3
   3 PM │████ 1
   4 PM │████████████ 3

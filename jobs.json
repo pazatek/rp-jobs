@@ -1,5 +1,177 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49390",
+    "company": "Archean Sciences",
+    "position": "Mechatronics Engineer",
+    "link": "https://researchpark.illinois.edu/job/mechatronics-engineer/",
+    "posted_date": "Wed, 02 Sep 2026 18:27:35 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      18,
+      27,
+      35,
+      2,
+      245,
+      0
+    ],
+    "discovered_date": "2026-09-02T19:38:58.727839",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49386",
+    "company": "Brunswick",
+    "position": "Computer Graphics Engineering Intern",
+    "link": "https://researchpark.illinois.edu/job/computer-graphics-engineering-intern/",
+    "posted_date": "Wed, 02 Sep 2026 17:36:51 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      17,
+      36,
+      51,
+      2,
+      245,
+      0
+    ],
+    "discovered_date": "2026-09-02T19:38:58.727847",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering",
+        "Software Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49383",
+    "company": "Brunswick",
+    "position": "Software Engineer Intern \u2013 Reinforcement Learning",
+    "link": "https://researchpark.illinois.edu/job/software-engineer-intern-4/",
+    "posted_date": "Wed, 02 Sep 2026 17:33:35 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      17,
+      33,
+      35,
+      2,
+      245,
+      0
+    ],
+    "discovered_date": "2026-09-02T19:38:58.727850",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Robotics",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Aerospace Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027 - Fall 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49381",
+    "company": "Prairie Research Institute",
+    "position": "Social Media Intern \u2013 Fall 2026",
+    "link": "https://researchpark.illinois.edu/job/social-media-intern-fall-2026/",
+    "posted_date": "Wed, 02 Sep 2026 17:19:49 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      17,
+      19,
+      49,
+      2,
+      245,
+      0
+    ],
+    "discovered_date": "2026-09-02T19:38:58.727853",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49378",
+    "company": "Illinois Natural History Survey",
+    "position": "Human Dimensions Technician (Hourly) \u2013 Illinois Natural History Survey",
+    "link": "https://researchpark.illinois.edu/job/human-dimensions-technician-hourly-illinois-natural-history-survey/",
+    "posted_date": "Wed, 02 Sep 2026 17:17:36 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      2,
+      17,
+      17,
+      36,
+      2,
+      245,
+      0
+    ],
+    "discovered_date": "2026-09-02T19:38:58.727855",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Fall 2026"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49368",
     "company": "Brunswick",
     "position": "Software Engineer Intern",
