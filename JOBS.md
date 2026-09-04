@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 03, 2026 at 06:50 PM CST | **Total:** 32
+**Updated:** September 04, 2026 at 07:34 AM CST | **Total:** 31
 
 ---
 
@@ -35,7 +35,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | John Deere | 2026 Fall Technical Data & Analytics Internship | Aug 20, 2026 09:12 AM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/) |
 | John Deere | 2026 Fall Fullstack Engineering Internship | Aug 18, 2026 04:20 PM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/) |
 | Rivian | UIUC Research Park Intern – FPGA Design | Aug 17, 2026 01:33 PM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-fpga-design/) |
-| MSA | Senior Project Engineer (Water/Wastewater) | Aug 03, 2026 11:03 AM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
@@ -44,23 +43,23 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 32 postings)
+### Job Posting Times (Based on 31 postings)
 
 ```
 Jobs
 
   9 AM │████████ 2
- 10 AM │████████████████████ 5
- 11 AM │████████████████████████████████████████ 10
- 12 PM │████████████████ 4
+ 10 AM │██████████████████████ 5
+ 11 AM │████████████████████████████████████████ 9
+ 12 PM │█████████████████ 4
   1 PM │████████ 2
-  2 PM │████████████ 3
+  2 PM │█████████████ 3
   3 PM │████ 1
-  4 PM │████████████ 3
+  4 PM │█████████████ 3
   5 PM │████ 1
   6 PM │████ 1
        └────────────────────────────────────────
-        0                                       10
+        0                                       9
 ```
 
 

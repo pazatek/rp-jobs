@@ -907,39 +907,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49000",
-    "company": "MSA",
-    "position": "Senior Project Engineer (Water/Wastewater)",
-    "link": "https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater/",
-    "posted_date": "Mon, 03 Aug 2026 16:03:45 +0000",
-    "published_parsed": [
-      2026,
-      8,
-      3,
-      16,
-      3,
-      45,
-      0,
-      215,
-      0
-    ],
-    "discovered_date": "2026-08-03T16:31:59.562490",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Civil Engineering",
-        "Environmental Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48942",
     "company": "Yummy Future",
     "position": "Yummy Future Store Manager",
