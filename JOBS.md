@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 04, 2026 at 06:21 PM CST | **Total:** 31
+**Updated:** September 07, 2026 at 09:04 AM CST | **Total:** 30
 
 ---
 
@@ -34,7 +34,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
 | John Deere | 2026 Fall Technical Data & Analytics Internship | Aug 20, 2026 09:12 AM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-technical-data-analytics-internship/) |
 | John Deere | 2026 Fall Fullstack Engineering Internship | Aug 18, 2026 04:20 PM CST | [Apply](https://researchpark.illinois.edu/job/2026-fall-fullstack-engineering-internship/) |
-| Rivian | UIUC Research Park Intern – FPGA Design | Aug 17, 2026 01:33 PM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-fpga-design/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
 | Yummy Future | Yummy Future Field Ops Lead | Jul 28, 2026 11:57 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-field-ops-lead/) |
 | Yummy Future | Yummy Future Mechanical/Mechatronics | Jul 28, 2026 11:56 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-mechanical-mechatronics/) |
@@ -43,7 +42,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 31 postings)
+### Job Posting Times (Based on 30 postings)
 
 ```
 Jobs
@@ -52,7 +51,7 @@ Jobs
  10 AM │██████████████████████ 5
  11 AM │████████████████████████████████████████ 9
  12 PM │█████████████████ 4
-  1 PM │████████ 2
+  1 PM │████ 1
   2 PM │█████████████ 3
   3 PM │████ 1
   4 PM │█████████████ 3
