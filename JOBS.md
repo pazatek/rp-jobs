@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 11, 2026 at 06:57 PM CST | **Total:** 31
+**Updated:** September 14, 2026 at 09:50 AM CST | **Total:** 29
 
 ---
 
@@ -14,13 +14,11 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Brunswick | Computer Graphics Engineering Intern | Sep 02, 2026 12:36 PM CST | [Apply](https://researchpark.illinois.edu/job/computer-graphics-engineering-intern/) |
 | Brunswick | Software Engineer Intern – Reinforcement Learning | Sep 02, 2026 12:33 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-4/) |
 | Prairie Research Institute | Social Media Intern – Fall 2026 | Sep 02, 2026 12:19 PM CST | [Apply](https://researchpark.illinois.edu/job/social-media-intern-fall-2026/) |
-| Illinois Natural History Survey | Human Dimensions Technician (Hourly) – Illinois Natural History Survey | Sep 02, 2026 12:17 PM CST | [Apply](https://researchpark.illinois.edu/job/human-dimensions-technician-hourly-illinois-natural-history-survey/) |
 | Brunswick | Software Engineer Intern | Aug 31, 2026 06:06 PM CST | [Apply](https://researchpark.illinois.edu/job/software-engineer-intern-copy/) |
 | Everfox | Software Development Intern | Aug 31, 2026 05:24 PM CST | [Apply](https://researchpark.illinois.edu/job/software-development-intern-2/) |
 | APTech | Civil Engineering Intern | Aug 31, 2026 04:50 PM CST | [Apply](https://researchpark.illinois.edu/job/civil-engineering-intern-2/) |
 | Research Park | Communications Intern — Entrepreneurship & Tech Coverage | Aug 31, 2026 03:18 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-entrepreneurship-tech-coverage/) |
 | Champaign-Urbana Mass Transit District | Software Developer | Aug 27, 2026 11:47 AM CST | [Apply](https://researchpark.illinois.edu/job/champaign-urbana-mass-transit-district-urbana-il-4-software-developer/) |
-| Epivara | Business & Marketing Assistant | Aug 25, 2026 04:14 PM CST | [Apply](https://researchpark.illinois.edu/job/business-marketing-assistant/) |
 | Tiptek | Production Technician | Aug 25, 2026 10:39 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/) |
 | Tiptek | Laboratory Technician | Aug 25, 2026 10:38 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-champaign-il-4-laboratory-technician/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Aug 24, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
@@ -43,7 +41,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 31 postings)
+### Job Posting Times (Based on 29 postings)
 
 ```
 Jobs
@@ -51,11 +49,11 @@ Jobs
   9 AM │████████ 2
  10 AM │██████████████████████████ 6
  11 AM │████████████████████████████████████████ 9
- 12 PM │█████████████████ 4
+ 12 PM │█████████████ 3
   1 PM │████████ 2
   2 PM │████████ 2
   3 PM │████ 1
-  4 PM │█████████████ 3
+  4 PM │████████ 2
   5 PM │████ 1
   6 PM │████ 1
        └────────────────────────────────────────

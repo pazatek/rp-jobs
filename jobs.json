@@ -210,36 +210,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49378",
-    "company": "Illinois Natural History Survey",
-    "position": "Human Dimensions Technician (Hourly) \u2013 Illinois Natural History Survey",
-    "link": "https://researchpark.illinois.edu/job/human-dimensions-technician-hourly-illinois-natural-history-survey/",
-    "posted_date": "Wed, 02 Sep 2026 17:17:36 +0000",
-    "published_parsed": [
-      2026,
-      9,
-      2,
-      17,
-      17,
-      36,
-      2,
-      245,
-      0
-    ],
-    "discovered_date": "2026-09-02T19:38:58.727855",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": "Fall 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49368",
     "company": "Brunswick",
     "position": "Software Engineer Intern",
@@ -401,36 +371,6 @@
       ],
       "job_type": "full-time",
       "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49329",
-    "company": "Epivara",
-    "position": "Business & Marketing Assistant",
-    "link": "https://researchpark.illinois.edu/job/business-marketing-assistant/",
-    "posted_date": "Tue, 25 Aug 2026 21:14:01 +0000",
-    "published_parsed": [
-      2026,
-      8,
-      25,
-      21,
-      14,
-      1,
-      1,
-      237,
-      0
-    ],
-    "discovered_date": "2026-08-25T22:00:07.396580",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": null,
       "duration": null
     }
   },
