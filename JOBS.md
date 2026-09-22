@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 21, 2026 at 06:03 PM CST | **Total:** 20
+**Updated:** September 22, 2026 at 08:12 AM CST | **Total:** 19
 
 ---
 
@@ -20,7 +20,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Tiptek | Production Technician | Aug 25, 2026 10:39 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/) |
 | Tiptek | Laboratory Technician | Aug 25, 2026 10:38 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-champaign-il-4-laboratory-technician/) |
 | Synchrony | Credit Modeling Intern Fall 2026 | Aug 24, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
-| Cache Energy | Graphic Design Intern | Aug 21, 2026 02:59 PM CST | [Apply](https://researchpark.illinois.edu/job/graphic-design-intern-3/) |
 | Philowave | Hardware/FPGA Engineer Full Time | Aug 21, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Aug 20, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-engineering-corporate-parallel-co-op-program/) |
 | Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
@@ -32,7 +31,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 20 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
@@ -42,7 +41,7 @@ Jobs
  11 AM │████████████████████████████████████████ 5
  12 PM │████████████████████████ 3
   1 PM │████████ 1
-  2 PM │████████████████ 2
+  2 PM │████████ 1
   3 PM │████████ 1
   4 PM │████████ 1
   5 PM │████████ 1
