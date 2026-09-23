@@ -2,7 +2,7 @@
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
-**Updated:** September 23, 2026 at 08:26 AM CST | **Total:** 19
+**Updated:** September 23, 2026 at 12:55 PM CST | **Total:** 16
 
 ---
 
@@ -18,9 +18,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | APTech | Civil Engineering Intern | Aug 31, 2026 04:50 PM CST | [Apply](https://researchpark.illinois.edu/job/civil-engineering-intern-2/) |
 | Research Park | Communications Intern — Entrepreneurship & Tech Coverage | Aug 31, 2026 03:18 PM CST | [Apply](https://researchpark.illinois.edu/job/communications-intern-entrepreneurship-tech-coverage/) |
 | Tiptek | Production Technician | Aug 25, 2026 10:39 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-savoy-illinois-4-production-technician-2/) |
-| Tiptek | Laboratory Technician | Aug 25, 2026 10:38 AM CST | [Apply](https://researchpark.illinois.edu/job/tiptek-champaign-il-4-laboratory-technician/) |
-| Synchrony | Credit Modeling Intern Fall 2026 | Aug 24, 2026 11:06 AM CST | [Apply](https://researchpark.illinois.edu/job/credit-modeling-intern-fall-2026/) |
-| Philowave | Hardware/FPGA Engineer Full Time | Aug 21, 2026 02:43 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
 | Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Aug 20, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-engineering-corporate-parallel-co-op-program/) |
 | Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
 | Yummy Future | Yummy Future Store Manager | Jul 28, 2026 11:59 AM CST | [Apply](https://researchpark.illinois.edu/job/yummy-future-store-manager/) |
@@ -31,23 +28,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 16 postings)
 
 ```
 Jobs
 
-  9 AM │████████ 1
- 10 AM │████████████████████████████████ 4
- 11 AM │████████████████████████████████████████ 5
- 12 PM │████████████████████████ 3
-  1 PM │████████ 1
-  2 PM │████████ 1
-  3 PM │████████ 1
-  4 PM │████████ 1
-  5 PM │████████ 1
-  6 PM │████████ 1
+  9 AM │██████████ 1
+ 10 AM │██████████████████████████████ 3
+ 11 AM │████████████████████████████████████████ 4
+ 12 PM │██████████████████████████████ 3
+  1 PM │██████████ 1
+  3 PM │██████████ 1
+  4 PM │██████████ 1
+  5 PM │██████████ 1
+  6 PM │██████████ 1
        └────────────────────────────────────────
-        0                                       5
+        0                                       4
 ```
 
 
