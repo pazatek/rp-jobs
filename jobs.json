@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
+    "company": "Philowave",
+    "position": "Hardware/FPGA Engineer",
+    "link": "https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/",
+    "posted_date": "Thu, 24 Sep 2026 22:28:58 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      24,
+      22,
+      28,
+      58,
+      3,
+      267,
+      0
+    ],
+    "discovered_date": "2026-09-24T13:23:02.537039",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49390",
     "company": "Archean Sciences",
     "position": "Mechatronics Engineer",
@@ -105,40 +137,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Spring 2027 - Fall 2027"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49381",
-    "company": "Prairie Research Institute",
-    "position": "Social Media Intern \u2013 Fall 2026",
-    "link": "https://researchpark.illinois.edu/job/social-media-intern-fall-2026/",
-    "posted_date": "Wed, 02 Sep 2026 17:19:49 +0000",
-    "published_parsed": [
-      2026,
-      9,
-      2,
-      17,
-      19,
-      49,
-      2,
-      245,
-      0
-    ],
-    "discovered_date": "2026-09-02T19:38:58.727853",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Fall 2026"
     }
   },
   {
@@ -309,38 +307,6 @@
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Fall 2026"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
-    "company": "Philowave",
-    "position": "Hardware/FPGA Engineer Full Time",
-    "link": "https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/",
-    "posted_date": "Fri, 21 Aug 2026 19:43:20 +0000",
-    "published_parsed": [
-      2026,
-      8,
-      21,
-      19,
-      43,
-      20,
-      4,
-      233,
-      0
-    ],
-    "discovered_date": "2026-09-24T13:23:02.537039",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [
-        "Electrical Engineering"
-      ],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
     }
   },
   {
