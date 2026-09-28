@@ -195,6 +195,7 @@ def send_confirmation_email(recipient: str, token: str, preference: str = "both"
         <p>Click the button below to confirm your email address and start receiving alerts:</p>
         <p><a href="{html_escape(confirm_url)}" style="display: inline-block; background-color: #E84A27; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold;">Confirm Subscription</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">If you didn't request this, you can safely ignore this email.</p>
+        <p style="color: #999; font-size: 11px;">This is an unofficial, independently maintained job tracker and is not affiliated with or endorsed by the University of Illinois.</p>
       </body>
     </html>
     """

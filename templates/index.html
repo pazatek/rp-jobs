@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UIUC Research Park Job Board</title>
+    <title>Research Park Job Board (Unofficial)</title>
+    <meta name="description"
+        content="An unofficial, independently maintained tracker of UIUC Research Park job and internship listings. Not an official University of Illinois website.">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -111,6 +114,16 @@
                     Zatek</a></p>
             <h1 class="text-2xl md:text-4xl font-bold text-brand-navy dark:text-white mb-2">Research Park Job Board</h1>
             <p class="text-sm md:text-base text-gray-600 dark:text-gray-400">Automated internship and job tracker</p>
+
+            <p role="note"
+                class="mt-4 mx-auto max-w-2xl text-xs md:text-sm text-gray-600 dark:text-gray-300 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg px-4 py-2.5">
+                <i class="fas fa-circle-info text-brand-orange mr-1"></i>
+                <strong class="font-semibold">Unofficial site.</strong> This board is independently created and maintained
+                and is <strong class="font-semibold">not an official University of Illinois website</strong>. Listings come
+                from the <a href="https://researchpark.illinois.edu/work-here/careers/" target="_blank" rel="noopener"
+                    class="text-brand-navy dark:text-blue-400 font-medium underline">official Research Park job board</a>,
+                so always apply through the original posting.
+            </p>
 
             <div class="mt-4 flex flex-wrap justify-center gap-3 md:gap-4">
                 <button onclick="document.getElementById('subscribeModal').classList.remove('hidden')"
@@ -392,7 +405,12 @@
         </main>
 
         <footer class="mt-12 mb-8 text-center text-gray-400 dark:text-gray-500 text-sm">
-            <p>&copy; 2026 UIUC Research Park Job Monitor</p>
+            <p class="max-w-2xl mx-auto">This site is independently created and maintained by
+                <a href="https://piotrzatek.com" target="_blank" class="underline">Piotr Zatek</a> and is not an official
+                University of Illinois or Research Park website. It is not affiliated with or endorsed by the University
+                of Illinois. Job listings are sourced from the public
+                <a href="https://researchpark.illinois.edu/work-here/careers/" target="_blank" rel="noopener"
+                    class="underline">Research Park job board</a>.</p>
         </footer>
     </div>
 

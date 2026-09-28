@@ -40,6 +40,8 @@ README_TEMPLATE = """# UIUC Research Park Jobs List
 
 Auto-updated job listings from the [University of Illinois Research Park](https://researchpark.illinois.edu).
 
+> **Unofficial:** independently created and maintained; not an official University of Illinois website.
+
 **Updated:** {last_updated} | **Total:** {total_positions}
 
 ---
@@ -530,7 +532,7 @@ def send_email(new_jobs: list[dict]) -> None:
         </ul>
         <p><a href="{app_url}" style="display: inline-block; background-color: #13294b; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">View the Job Board</a></p>
         <p style="color: #666; font-size: 12px; margin-top: 30px;">
-          This is an automated notification from your Research Park Job Monitor.
+          This is an automated notification from an unofficial, independently maintained Research Park job tracker. It is not affiliated with or endorsed by the University of Illinois.
         </p>
     """
         if unsubscribe_link:
