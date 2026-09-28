@@ -49,12 +49,6 @@ def init_db() -> None:
                 ALTER TABLE subscribers
                 ADD COLUMN IF NOT EXISTS confirmed BOOLEAN DEFAULT FALSE
             """)
-            # Grandfather existing active subscribers as confirmed
-            cur.execute("""
-                UPDATE subscribers SET confirmed = TRUE
-                WHERE active = TRUE AND confirmed = FALSE
-                AND subscribed_at < NOW() - INTERVAL '1 minute'
-            """)
             cur.execute("""
                 CREATE TABLE IF NOT EXISTS stats_snapshots (
                     id SERIAL PRIMARY KEY,

@@ -547,45 +547,49 @@ def send_email(new_jobs: list[dict]) -> None:
     """
         return html
 
-    try:
-        # Send to admin recipients (no unsubscribe link, all jobs)
-        for recipient in admin_recipients:
-            resend.Emails.send({
-                "from": sender_email,
-                "to": [recipient],
-                "subject": subject,
-                "html": build_html(new_jobs),
-            })
+    def send_one(to: str, subj: str, html: str) -> bool:
+        # One failure shouldn't stop the rest; pause to stay under Resend's rate limit
+        try:
+            resend.Emails.send({"from": sender_email, "to": [to], "subject": subj, "html": html})
+            return True
+        except Exception as e:
+            logger.error("Failed to send email to %s: %s", to, e)
+            return False
+        finally:
+            time.sleep(0.6)
 
-        # Send to DB subscribers (with unsubscribe link, filtered by preference)
-        sent_count = 0
-        for sub in db_subscribers:
-            # Skip if already in admin list
-            if sub["email"] in admin_recipients:
-                continue
-            filtered = filter_jobs_by_preference(new_jobs, sub.get("preference", "both"))
-            if not filtered:
-                logger.info("Skipping %s — no jobs match preference '%s'", sub["email"], sub.get("preference"))
-                continue
-            unsubscribe_url = (
-                f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}"
-                if app_url
-                else None
-            )
-            sub_count = len(filtered)
-            sub_subject = f"\U0001f393 {sub_count} New Research Park Job{'s' if sub_count > 1 else ''} Found!"
-            resend.Emails.send({
-                "from": sender_email,
-                "to": [sub["email"]],
-                "subject": sub_subject,
-                "html": build_html(filtered, unsubscribe_url),
-            })
+    sent_count = 0
+    failed_count = 0
+
+    # Send to admin recipients (no unsubscribe link, all jobs)
+    for recipient in admin_recipients:
+        if send_one(recipient, subject, build_html(new_jobs)):
             sent_count += 1
+        else:
+            failed_count += 1
 
-        total = len(admin_recipients) + sent_count
-        logger.info("Email notification sent to %d recipient(s)", total)
-    except Exception as e:
-        logger.error("Failed to send email: %s", e)
+    # Send to DB subscribers (with unsubscribe link, filtered by preference)
+    for sub in db_subscribers:
+        # Skip if already in admin list
+        if sub["email"] in admin_recipients:
+            continue
+        filtered = filter_jobs_by_preference(new_jobs, sub.get("preference", "both"))
+        if not filtered:
+            logger.info("Skipping %s — no jobs match preference '%s'", sub["email"], sub.get("preference"))
+            continue
+        unsubscribe_url = (
+            f"{app_url}/unsubscribe?token={sub['unsubscribe_token']}"
+            if app_url
+            else None
+        )
+        sub_count = len(filtered)
+        sub_subject = f"\U0001f393 {sub_count} New Research Park Job{'s' if sub_count > 1 else ''} Found!"
+        if send_one(sub["email"], sub_subject, build_html(filtered, unsubscribe_url)):
+            sent_count += 1
+        else:
+            failed_count += 1
+
+    logger.info("Email notification sent to %d recipient(s), %d failed", sent_count, failed_count)
 
 
 def main() -> None:
