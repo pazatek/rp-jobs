@@ -547,10 +547,34 @@ def send_email(new_jobs: list[dict]) -> None:
     """
         return html
 
-    def send_one(to: str, subj: str, html: str) -> bool:
+    def build_text(jobs_list: list[dict], unsubscribe_link: str | None = None) -> str:
+        # Plain-text alternative; HTML-only mail scores worse with spam filters
+        lines = ["New job postings at Research Park:", ""]
+        for job in jobs_list:
+            lines.append(f"- {job['company']}: {job['position']}")
+        lines += ["", f"View the job board: {app_url}", "",
+                  "Unofficial, independently maintained tracker; not affiliated with the University of Illinois."]
+        if unsubscribe_link:
+            lines.append(f"Unsubscribe: {unsubscribe_link}")
+        return "\n".join(lines)
+
+    def send_one(to: str, subj: str, jobs_list: list[dict], unsubscribe_link: str | None = None) -> bool:
         # One failure shouldn't stop the rest; pause to stay under Resend's rate limit
+        params = {
+            "from": sender_email,
+            "to": [to],
+            "subject": subj,
+            "html": build_html(jobs_list, unsubscribe_link),
+            "text": build_text(jobs_list, unsubscribe_link),
+        }
+        if unsubscribe_link:
+            # RFC 8058 one-click unsubscribe, expected by Gmail/Outlook for bulk mail
+            params["headers"] = {
+                "List-Unsubscribe": f"<{unsubscribe_link}>",
+                "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
+            }
         try:
-            resend.Emails.send({"from": sender_email, "to": [to], "subject": subj, "html": html})
+            resend.Emails.send(params)
             return True
         except Exception as e:
             logger.error("Failed to send email to %s: %s", to, e)
@@ -563,7 +587,7 @@ def send_email(new_jobs: list[dict]) -> None:
 
     # Send to admin recipients (no unsubscribe link, all jobs)
     for recipient in admin_recipients:
-        if send_one(recipient, subject, build_html(new_jobs)):
+        if send_one(recipient, subject, new_jobs):
             sent_count += 1
         else:
             failed_count += 1
@@ -584,7 +608,7 @@ def send_email(new_jobs: list[dict]) -> None:
         )
         sub_count = len(filtered)
         sub_subject = f"\U0001f393 {sub_count} New Research Park Job{'s' if sub_count > 1 else ''} Found!"
-        if send_one(sub["email"], sub_subject, build_html(filtered, unsubscribe_url)):
+        if send_one(sub["email"], sub_subject, filtered, unsubscribe_url):
             sent_count += 1
         else:
             failed_count += 1

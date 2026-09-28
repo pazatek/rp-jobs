@@ -222,13 +222,16 @@ def confirm():
     return render_template("confirmed.html", success=success)
 
 
-@app.route("/unsubscribe")
+@app.route("/unsubscribe", methods=["GET", "POST"])
 def unsubscribe():
     token = request.args.get("token", "")
     if not token:
         return render_template("unsubscribed.html", success=False), 400
 
     success = remove_subscriber(token)
+    if request.method == "POST":
+        # One-click unsubscribe from the mail client (RFC 8058) — no page needed
+        return "", 200
     return render_template("unsubscribed.html", success=success)
 
 
