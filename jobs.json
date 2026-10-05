@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48377",
+    "company": "DOW",
+    "position": "Data Engineer / Data Platform Engineer Internship Spring 2026",
+    "link": "https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-spring-2027/",
+    "posted_date": "Mon, 05 Oct 2026 18:22:38 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      5,
+      18,
+      22,
+      38,
+      0,
+      278,
+      0
+    ],
+    "discovered_date": "2026-10-05T23:04:28.781306",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Computer Information Systems",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49500",
+    "company": "John Deere",
+    "position": "Part-Time Student \u2013 UX Research",
+    "link": "https://researchpark.illinois.edu/job/john-deere-champaign-il-8-part-time-student-ux-research/",
+    "posted_date": "Fri, 02 Oct 2026 13:30:58 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      13,
+      30,
+      58,
+      4,
+      275,
+      0
+    ],
+    "discovered_date": "2026-10-05T23:04:28.781312",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Analytics",
+        "Business Analytics",
+        "Industrial Engineering",
+        "Systems Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49493",
+    "company": "John Deere",
+    "position": "Part-Time Student \u2013 Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/john-deere-champaign-il-8-part-time-student-software-engineer/",
+    "posted_date": "Fri, 02 Oct 2026 13:26:59 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      2,
+      13,
+      26,
+      59,
+      4,
+      275,
+      0
+    ],
+    "discovered_date": "2026-10-05T23:04:28.781314",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48827",
     "company": "Philowave",
     "position": "Hardware/FPGA Engineer",
