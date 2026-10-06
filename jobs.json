@@ -1,5 +1,165 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49525",
+    "company": "John Deere",
+    "position": "Part-Time Student \u2013 Software Engineer \u2013 Data",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/",
+    "posted_date": "Tue, 06 Oct 2026 16:21:13 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      21,
+      13,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685558",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Business Analytics",
+        "Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49523",
+    "company": "Synchrony",
+    "position": "Business Intern \u2013 Summer 2027",
+    "link": "https://researchpark.illinois.edu/job/business-intern-summer-2027/",
+    "posted_date": "Tue, 06 Oct 2026 16:13:23 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      13,
+      23,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685569",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49521",
+    "company": "Synchrony",
+    "position": "Data and Analytics Intern \u2013 Summer 2027",
+    "link": "https://researchpark.illinois.edu/job/data-and-analytics-intern-summer-2027/",
+    "posted_date": "Tue, 06 Oct 2026 16:10:07 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      10,
+      7,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685571",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49519",
+    "company": "Synchrony",
+    "position": "Emerging Technology Intern \u2013 Summer 2027",
+    "link": "https://researchpark.illinois.edu/job/emerging-technology-intern-summer-2027/",
+    "posted_date": "Tue, 06 Oct 2026 16:07:36 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      7,
+      36,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685572",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49516",
+    "company": "PAR Technology",
+    "position": "Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/par-software-engineer-2/",
+    "posted_date": "Tue, 06 Oct 2026 15:31:16 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      15,
+      31,
+      16,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685573",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48377",
     "company": "DOW",
     "position": "Data Engineer / Data Platform Engineer Internship Spring 2026",
@@ -135,6 +295,39 @@
       "class_years": [],
       "majors": [
         "Electrical Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49351",
+    "company": "Epivara",
+    "position": "Junior Animal Scientist",
+    "link": "https://researchpark.illinois.edu/job/junior-animal-scientist/",
+    "posted_date": "Tue, 08 Sep 2026 18:29:31 +0000",
+    "published_parsed": [
+      2026,
+      9,
+      8,
+      18,
+      29,
+      31,
+      1,
+      251,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685578",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Animal Science",
+        "Biology"
       ],
       "job_type": "full-time",
       "work_mode": "in-person",
