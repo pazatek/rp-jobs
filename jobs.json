@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49535",
+    "company": "Dow",
+    "position": "Machine Learning Engineer",
+    "link": "https://researchpark.illinois.edu/job/dow-machine-learning-engineer/",
+    "posted_date": "Wed, 07 Oct 2026 18:37:58 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      7,
+      18,
+      37,
+      58,
+      2,
+      280,
+      0
+    ],
+    "discovered_date": "2026-10-07T20:42:43.397765",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49525",
     "company": "John Deere",
     "position": "Part-Time Student \u2013 Software Engineer \u2013 Data",

@@ -4,12 +4,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 07, 2026 at 10:17 AM CST | **Total:** 12
+**Updated:** October 07, 2026 at 03:42 PM CST | **Total:** 13
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Dow | Machine Learning Engineer | Oct 07, 2026 01:37 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-machine-learning-engineer/) |
 | John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | Synchrony | Business Intern – Summer 2027 | Oct 06, 2026 11:13 AM CST | [Apply](https://researchpark.illinois.edu/job/business-intern-summer-2027/) |
 | Synchrony | Data and Analytics Intern – Summer 2027 | Oct 06, 2026 11:10 AM CST | [Apply](https://researchpark.illinois.edu/job/data-and-analytics-intern-summer-2027/) |
@@ -26,7 +27,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 12 postings)
+### Job Posting Times (Based on 13 postings)
 
 ```
 Jobs
@@ -35,7 +36,7 @@ Jobs
   9 AM │██████████ 1
  10 AM │████████████████████ 2
  11 AM │████████████████████████████████████████ 4
-  1 PM │████████████████████ 2
+  1 PM │██████████████████████████████ 3
   5 PM │██████████ 1
        └────────────────────────────────────────
         0                                       4
