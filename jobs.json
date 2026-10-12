@@ -1,5 +1,209 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49562",
+    "company": "RV Tech",
+    "position": "Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027)",
+    "link": "https://researchpark.illinois.edu/job/embedded-systems-software-engineering-intern-at-uiuc-research-park-january-august-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:55:11 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      55,
+      11,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382358",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Computer Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "January - August 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49558",
+    "company": "RV Tech",
+    "position": "Hardware Thermal Simulation Engineering Intern (January-August 2027)",
+    "link": "https://researchpark.illinois.edu/job/hardware-thermal-simulation-engineering-intern-january-august-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:49:54 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      49,
+      54,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382365",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Mechanical Engineering",
+        "Aerospace Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "January-August 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49556",
+    "company": "Synchrony",
+    "position": "Acquisition Strategy & Analytics Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/acquisition-strategy-analytics-intern-spring-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:43:24 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      43,
+      24,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382366",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49554",
+    "company": "Synchrony",
+    "position": "Enterprise Risk Analytics Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/enterprise-risk-analytics-intern-spring-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:41:32 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      41,
+      32,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382368",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Statistics",
+        "Mathematics",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49550",
+    "company": "Synchrony",
+    "position": "UX/UI & Product Design Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:37:30 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      37,
+      30,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382369",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49548",
+    "company": "John Deere",
+    "position": "Part-Time Student \u2013 Product Engineering",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-product-engineering/",
+    "posted_date": "Mon, 12 Oct 2026 14:30:20 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      30,
+      20,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382370",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Agricultural Engineering",
+        "Computer Engineering",
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Robotics",
+        "Data Science"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49535",
     "company": "Dow",
     "position": "Machine Learning Engineer",

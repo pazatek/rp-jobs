@@ -4,12 +4,18 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 09, 2026 at 07:03 PM CST | **Total:** 13
+**Updated:** October 12, 2026 at 12:32 PM CST | **Total:** 19
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| RV Tech | Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027) | Oct 12, 2026 09:55 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-engineering-intern-at-uiuc-research-park-january-august-2027/) |
+| RV Tech | Hardware Thermal Simulation Engineering Intern (January-August 2027) | Oct 12, 2026 09:49 AM CST | [Apply](https://researchpark.illinois.edu/job/hardware-thermal-simulation-engineering-intern-january-august-2027/) |
+| Synchrony | Acquisition Strategy & Analytics Intern – Spring 2027 | Oct 12, 2026 09:43 AM CST | [Apply](https://researchpark.illinois.edu/job/acquisition-strategy-analytics-intern-spring-2027/) |
+| Synchrony | Enterprise Risk Analytics Intern – Spring 2027 | Oct 12, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/enterprise-risk-analytics-intern-spring-2027/) |
+| Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
+| John Deere | Part-Time Student – Product Engineering | Oct 12, 2026 09:30 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-product-engineering/) |
 | Dow | Machine Learning Engineer | Oct 07, 2026 01:37 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-machine-learning-engineer/) |
 | John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | Synchrony | Business Intern – Summer 2027 | Oct 06, 2026 11:13 AM CST | [Apply](https://researchpark.illinois.edu/job/business-intern-summer-2027/) |
@@ -27,19 +33,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 13 postings)
+### Job Posting Times (Based on 19 postings)
 
 ```
 Jobs
 
-  8 AM │████████████████████ 2
-  9 AM │██████████ 1
- 10 AM │████████████████████ 2
- 11 AM │████████████████████████████████████████ 4
-  1 PM │██████████████████████████████ 3
-  5 PM │██████████ 1
+  8 AM │███████████ 2
+  9 AM │████████████████████████████████████████ 7
+ 10 AM │███████████ 2
+ 11 AM │██████████████████████ 4
+  1 PM │█████████████████ 3
+  5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       4
+        0                                       7
 ```
 
 
