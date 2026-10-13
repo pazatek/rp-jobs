@@ -4,12 +4,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 13, 2026 at 10:40 AM CST | **Total:** 19
+**Updated:** October 13, 2026 at 03:49 PM CST | **Total:** 20
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Novark | Sales and Marketing Intern | Oct 13, 2026 02:51 PM CST | [Apply](https://researchpark.illinois.edu/job/sales-and-marketing-intern/) |
 | RV Tech | Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027) | Oct 12, 2026 09:55 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-engineering-intern-at-uiuc-research-park-january-august-2027/) |
 | RV Tech | Hardware Thermal Simulation Engineering Intern (January-August 2027) | Oct 12, 2026 09:49 AM CST | [Apply](https://researchpark.illinois.edu/job/hardware-thermal-simulation-engineering-intern-january-august-2027/) |
 | Synchrony | Acquisition Strategy & Analytics Intern – Spring 2027 | Oct 12, 2026 09:43 AM CST | [Apply](https://researchpark.illinois.edu/job/acquisition-strategy-analytics-intern-spring-2027/) |
@@ -33,7 +34,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 19 postings)
+### Job Posting Times (Based on 20 postings)
 
 ```
 Jobs
@@ -43,6 +44,7 @@ Jobs
  10 AM │███████████ 2
  11 AM │██████████████████████ 4
   1 PM │█████████████████ 3
+  2 PM │█████ 1
   5 PM │█████ 1
        └────────────────────────────────────────
         0                                       7
