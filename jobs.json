@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48901",
+    "company": "University of Illinois Office of Corporate Relations",
+    "position": "Design Intern",
+    "link": "https://researchpark.illinois.edu/job/design-intern-2/",
+    "posted_date": "Wed, 14 Oct 2026 13:40:57 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      14,
+      13,
+      40,
+      57,
+      2,
+      287,
+      0
+    ],
+    "discovered_date": "2026-10-14T18:07:36.014379",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49564",
     "company": "Novark",
     "position": "Sales and Marketing Intern",
