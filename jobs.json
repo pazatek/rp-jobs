@@ -332,6 +332,44 @@
     }
   },
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49525",
+    "company": "John Deere",
+    "position": "Part-Time Student \u2013 Software Engineer \u2013 Data",
+    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/",
+    "posted_date": "Tue, 06 Oct 2026 16:21:13 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      6,
+      16,
+      21,
+      13,
+      1,
+      279,
+      0
+    ],
+    "discovered_date": "2026-10-06T20:03:34.685558",
+    "badges": {
+      "min_gpa": "2.8",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Business Analytics",
+        "Engineering"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49523",
     "company": "Synchrony",
     "position": "Business Intern \u2013 Summer 2027",

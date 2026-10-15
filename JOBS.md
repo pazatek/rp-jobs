@@ -4,7 +4,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 15, 2026 at 08:10 AM CST | **Total:** 21
+**Updated:** October 15, 2026 at 12:46 PM CST | **Total:** 22
 
 ---
 
@@ -19,6 +19,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
 | John Deere | Part-Time Student – Product Engineering | Oct 12, 2026 09:30 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-product-engineering/) |
 | Dow | Machine Learning Engineer | Oct 07, 2026 01:37 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-machine-learning-engineer/) |
+| John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | Synchrony | Business Intern – Summer 2027 | Oct 06, 2026 11:13 AM CST | [Apply](https://researchpark.illinois.edu/job/business-intern-summer-2027/) |
 | Synchrony | Data and Analytics Intern – Summer 2027 | Oct 06, 2026 11:10 AM CST | [Apply](https://researchpark.illinois.edu/job/data-and-analytics-intern-summer-2027/) |
@@ -35,7 +36,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 21 postings)
+### Job Posting Times (Based on 22 postings)
 
 ```
 Jobs
@@ -43,7 +44,7 @@ Jobs
   8 AM │█████████████████ 3
   9 AM │████████████████████████████████████████ 7
  10 AM │███████████ 2
- 11 AM │██████████████████████ 4
+ 11 AM │████████████████████████████ 5
   1 PM │█████████████████ 3
   2 PM │█████ 1
   5 PM │█████ 1
