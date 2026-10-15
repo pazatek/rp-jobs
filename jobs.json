@@ -1,5 +1,118 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49578",
+    "company": "AGCO",
+    "position": "Business Intelligence Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/business-intelligence-intern-spring-2027/",
+    "posted_date": "Thu, 15 Oct 2026 18:00:26 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      15,
+      18,
+      0,
+      26,
+      3,
+      288,
+      0
+    ],
+    "discovered_date": "2026-10-15T21:04:14.946776",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Data Analytics",
+        "Business Analytics",
+        "Information Systems",
+        "Statistics",
+        "Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Spring 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49571",
+    "company": "AGCO",
+    "position": "AI and Data Science Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/ai-and-data-science/",
+    "posted_date": "Thu, 15 Oct 2026 17:52:32 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      15,
+      17,
+      52,
+      32,
+      3,
+      288,
+      0
+    ],
+    "discovered_date": "2026-10-15T21:04:14.946784",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "majors": [
+        "Computer Science",
+        "Data Science",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49568",
+    "company": "AGCO",
+    "position": "Agricultural Business Analytics Intern \u2013 Summer 2027",
+    "link": "https://researchpark.illinois.edu/job/agricultural-business-analytics-intern-summer-2027/",
+    "posted_date": "Thu, 15 Oct 2026 17:30:32 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      15,
+      17,
+      30,
+      32,
+      3,
+      288,
+      0
+    ],
+    "discovered_date": "2026-10-15T21:04:14.946786",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Agricultural Business",
+        "Agricultural Economics",
+        "Business Analytics",
+        "Economics"
+      ],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48901",
     "company": "University of Illinois Office of Corporate Relations",
     "position": "Design Intern",
@@ -223,6 +336,36 @@
     }
   },
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49550",
+    "company": "Synchrony",
+    "position": "UX/UI & Product Design Intern \u2013 Spring 2027",
+    "link": "https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/",
+    "posted_date": "Mon, 12 Oct 2026 14:37:30 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      12,
+      14,
+      37,
+      30,
+      0,
+      285,
+      0
+    ],
+    "discovered_date": "2026-10-12T17:31:34.382369",
+    "badges": {
+      "min_gpa": "3.0",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Spring 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49548",
     "company": "John Deere",
     "position": "Part-Time Student \u2013 Product Engineering",
@@ -289,44 +432,6 @@
       "class_years": [],
       "majors": [],
       "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49525",
-    "company": "John Deere",
-    "position": "Part-Time Student \u2013 Software Engineer \u2013 Data",
-    "link": "https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/",
-    "posted_date": "Tue, 06 Oct 2026 16:21:13 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      6,
-      16,
-      21,
-      13,
-      1,
-      279,
-      0
-    ],
-    "discovered_date": "2026-10-06T20:03:34.685558",
-    "badges": {
-      "min_gpa": "2.8",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Data Science",
-        "Business Analytics",
-        "Engineering"
-      ],
-      "job_type": "part-time",
       "work_mode": "in-person",
       "duration": null
     }

@@ -4,12 +4,15 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 15, 2026 at 12:46 PM CST | **Total:** 22
+**Updated:** October 15, 2026 at 04:04 PM CST | **Total:** 25
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| AGCO | Business Intelligence Intern – Spring 2027 | Oct 15, 2026 01:00 PM CST | [Apply](https://researchpark.illinois.edu/job/business-intelligence-intern-spring-2027/) |
+| AGCO | AI and Data Science Intern – Spring 2027 | Oct 15, 2026 12:52 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-and-data-science/) |
+| AGCO | Agricultural Business Analytics Intern – Summer 2027 | Oct 15, 2026 12:30 PM CST | [Apply](https://researchpark.illinois.edu/job/agricultural-business-analytics-intern-summer-2027/) |
 | University of Illinois Office of Corporate Relations | Design Intern | Oct 14, 2026 08:40 AM CST | [Apply](https://researchpark.illinois.edu/job/design-intern-2/) |
 | Novark | Sales and Marketing Intern | Oct 13, 2026 02:51 PM CST | [Apply](https://researchpark.illinois.edu/job/sales-and-marketing-intern/) |
 | RV Tech | Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027) | Oct 12, 2026 09:55 AM CST | [Apply](https://researchpark.illinois.edu/job/embedded-systems-software-engineering-intern-at-uiuc-research-park-january-august-2027/) |
@@ -17,9 +20,9 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | Synchrony | Acquisition Strategy & Analytics Intern – Spring 2027 | Oct 12, 2026 09:43 AM CST | [Apply](https://researchpark.illinois.edu/job/acquisition-strategy-analytics-intern-spring-2027/) |
 | Synchrony | Enterprise Risk Analytics Intern – Spring 2027 | Oct 12, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/enterprise-risk-analytics-intern-spring-2027/) |
 | Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
+| Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
 | John Deere | Part-Time Student – Product Engineering | Oct 12, 2026 09:30 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-product-engineering/) |
 | Dow | Machine Learning Engineer | Oct 07, 2026 01:37 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-machine-learning-engineer/) |
-| John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | John Deere | Part-Time Student – Software Engineer – Data | Oct 06, 2026 11:21 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-software-engineer-data/) |
 | Synchrony | Business Intern – Summer 2027 | Oct 06, 2026 11:13 AM CST | [Apply](https://researchpark.illinois.edu/job/business-intern-summer-2027/) |
 | Synchrony | Data and Analytics Intern – Summer 2027 | Oct 06, 2026 11:10 AM CST | [Apply](https://researchpark.illinois.edu/job/data-and-analytics-intern-summer-2027/) |
@@ -36,20 +39,21 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 22 postings)
+### Job Posting Times (Based on 25 postings)
 
 ```
 Jobs
 
-  8 AM │█████████████████ 3
-  9 AM │████████████████████████████████████████ 7
- 10 AM │███████████ 2
- 11 AM │████████████████████████████ 5
-  1 PM │█████████████████ 3
+  8 AM │███████████████ 3
+  9 AM │████████████████████████████████████████ 8
+ 10 AM │██████████ 2
+ 11 AM │████████████████████ 4
+ 12 PM │██████████ 2
+  1 PM │████████████████████ 4
   2 PM │█████ 1
   5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       7
+        0                                       8
 ```
 
 
