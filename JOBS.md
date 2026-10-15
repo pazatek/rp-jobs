@@ -4,12 +4,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 15, 2026 at 04:04 PM CST | **Total:** 25
+**Updated:** October 15, 2026 at 06:42 PM CST | **Total:** 25
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Cache Energy | Embedded Hardware & Controls Engineering Intern | Oct 15, 2026 03:57 PM CST | [Apply](https://researchpark.illinois.edu/job/embedded-hardware-controls-engineering-intern/) |
 | AGCO | Business Intelligence Intern – Spring 2027 | Oct 15, 2026 01:00 PM CST | [Apply](https://researchpark.illinois.edu/job/business-intelligence-intern-spring-2027/) |
 | AGCO | AI and Data Science Intern – Spring 2027 | Oct 15, 2026 12:52 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-and-data-science/) |
 | AGCO | Agricultural Business Analytics Intern – Summer 2027 | Oct 15, 2026 12:30 PM CST | [Apply](https://researchpark.illinois.edu/job/agricultural-business-analytics-intern-summer-2027/) |
@@ -19,7 +20,6 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | RV Tech | Hardware Thermal Simulation Engineering Intern (January-August 2027) | Oct 12, 2026 09:49 AM CST | [Apply](https://researchpark.illinois.edu/job/hardware-thermal-simulation-engineering-intern-january-august-2027/) |
 | Synchrony | Acquisition Strategy & Analytics Intern – Spring 2027 | Oct 12, 2026 09:43 AM CST | [Apply](https://researchpark.illinois.edu/job/acquisition-strategy-analytics-intern-spring-2027/) |
 | Synchrony | Enterprise Risk Analytics Intern – Spring 2027 | Oct 12, 2026 09:41 AM CST | [Apply](https://researchpark.illinois.edu/job/enterprise-risk-analytics-intern-spring-2027/) |
-| Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
 | Synchrony | UX/UI & Product Design Intern – Spring 2027 | Oct 12, 2026 09:37 AM CST | [Apply](https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/) |
 | John Deere | Part-Time Student – Product Engineering | Oct 12, 2026 09:30 AM CST | [Apply](https://researchpark.illinois.edu/job/part-time-student-product-engineering/) |
 | Dow | Machine Learning Engineer | Oct 07, 2026 01:37 PM CST | [Apply](https://researchpark.illinois.edu/job/dow-machine-learning-engineer/) |
@@ -44,16 +44,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 ```
 Jobs
 
-  8 AM │███████████████ 3
-  9 AM │████████████████████████████████████████ 8
- 10 AM │██████████ 2
- 11 AM │████████████████████ 4
- 12 PM │██████████ 2
-  1 PM │████████████████████ 4
+  8 AM │█████████████████ 3
+  9 AM │████████████████████████████████████████ 7
+ 10 AM │███████████ 2
+ 11 AM │██████████████████████ 4
+ 12 PM │███████████ 2
+  1 PM │██████████████████████ 4
   2 PM │█████ 1
+  3 PM │█████ 1
   5 PM │█████ 1
        └────────────────────────────────────────
-        0                                       8
+        0                                       7
 ```
 
 

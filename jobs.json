@@ -1,5 +1,39 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49589",
+    "company": "Cache Energy",
+    "position": "Embedded Hardware & Controls Engineering Intern",
+    "link": "https://researchpark.illinois.edu/job/embedded-hardware-controls-engineering-intern/",
+    "posted_date": "Thu, 15 Oct 2026 20:57:49 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      15,
+      20,
+      57,
+      49,
+      3,
+      288,
+      0
+    ],
+    "discovered_date": "2026-10-15T23:41:54.964959",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Mechanical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49578",
     "company": "AGCO",
     "position": "Business Intelligence Intern \u2013 Spring 2027",
@@ -300,36 +334,6 @@
         "Electrical Engineering",
         "Mechanical Engineering"
       ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2027"
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49550",
-    "company": "Synchrony",
-    "position": "UX/UI & Product Design Intern \u2013 Spring 2027",
-    "link": "https://researchpark.illinois.edu/job/ux-ui-product-design-intern-spring-2027/",
-    "posted_date": "Mon, 12 Oct 2026 14:37:30 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      12,
-      14,
-      37,
-      30,
-      0,
-      285,
-      0
-    ],
-    "discovered_date": "2026-10-12T17:31:34.382369",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [],
-      "majors": [],
       "job_type": "internship",
       "work_mode": "in-person",
       "duration": "Spring 2027"
