@@ -4,7 +4,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 14, 2026 at 07:07 PM CST | **Total:** 21
+**Updated:** October 15, 2026 at 08:10 AM CST | **Total:** 21
 
 ---
 
