@@ -1,5 +1,236 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49622",
+    "company": "MSA",
+    "position": "Senior Project Engineer (Water/Wastewater)",
+    "link": "https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater-2/",
+    "posted_date": "Mon, 19 Oct 2026 20:12:46 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      12,
+      46,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992074",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49620",
+    "company": "MSA",
+    "position": "Project Manager Engineering (Water/Wastewater)",
+    "link": "https://researchpark.illinois.edu/job/project-manager-engineering-water-wastewater/",
+    "posted_date": "Mon, 19 Oct 2026 20:11:15 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      11,
+      15,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992083",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49617",
+    "company": "MSA",
+    "position": "Structural Engineer (S.E.) Transportation Bridges",
+    "link": "https://researchpark.illinois.edu/job/structural-engineer-s-e-transportation-bridges/",
+    "posted_date": "Mon, 19 Oct 2026 20:07:00 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      7,
+      0,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992085",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49615",
+    "company": "MSA",
+    "position": "Senior Project Engineer (Water Treatment/Potable Water)",
+    "link": "https://researchpark.illinois.edu/job/senior-project-engineer-water-treatment-potable-water/",
+    "posted_date": "Mon, 19 Oct 2026 20:04:38 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      4,
+      38,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992086",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49612",
+    "company": "John Deere",
+    "position": "Senior Software Engineer",
+    "link": "https://researchpark.illinois.edu/job/senior-software-engineer-4/",
+    "posted_date": "Mon, 19 Oct 2026 19:52:43 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      19,
+      52,
+      43,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992087",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49602",
+    "company": "The University of Illinois Office of the Vice Chancellor for Research and Innovation",
+    "position": "Illinois Social Media Research Ambassadors 2026",
+    "link": "https://researchpark.illinois.edu/job/illinois-social-media-research-ambassadors-2026/",
+    "posted_date": "Mon, 19 Oct 2026 18:09:28 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      18,
+      9,
+      28,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992088",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": "Spring 2026"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49600",
+    "company": "Rivian",
+    "position": "UIUC Research Park Intern \u2013 Low Voltage Electronics",
+    "link": "https://researchpark.illinois.edu/job/uiuc-research-park-intern-low-voltage-electronics-2/",
+    "posted_date": "Mon, 19 Oct 2026 18:00:14 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      18,
+      0,
+      14,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T20:40:29.992089",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": true,
+      "class_years": [],
+      "majors": [
+        "Electrical Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": null,
+      "duration": "Spring 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49589",
     "company": "Cache Energy",
     "position": "Embedded Hardware & Controls Engineering Intern",

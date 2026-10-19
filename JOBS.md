@@ -4,12 +4,19 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 19, 2026 at 10:21 AM CST | **Total:** 25
+**Updated:** October 19, 2026 at 03:41 PM CST | **Total:** 32
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| MSA | Senior Project Engineer (Water/Wastewater) | Oct 19, 2026 03:12 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-wastewater-2/) |
+| MSA | Project Manager Engineering (Water/Wastewater) | Oct 19, 2026 03:11 PM CST | [Apply](https://researchpark.illinois.edu/job/project-manager-engineering-water-wastewater/) |
+| MSA | Structural Engineer (S.E.) Transportation Bridges | Oct 19, 2026 03:07 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineer-s-e-transportation-bridges/) |
+| MSA | Senior Project Engineer (Water Treatment/Potable Water) | Oct 19, 2026 03:04 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-project-engineer-water-treatment-potable-water/) |
+| John Deere | Senior Software Engineer | Oct 19, 2026 02:52 PM CST | [Apply](https://researchpark.illinois.edu/job/senior-software-engineer-4/) |
+| The University of Illinois Office of the Vice Chancellor for Research and Innovation | Illinois Social Media Research Ambassadors 2026 | Oct 19, 2026 01:09 PM CST | [Apply](https://researchpark.illinois.edu/job/illinois-social-media-research-ambassadors-2026/) |
+| Rivian | UIUC Research Park Intern – Low Voltage Electronics | Oct 19, 2026 01:00 PM CST | [Apply](https://researchpark.illinois.edu/job/uiuc-research-park-intern-low-voltage-electronics-2/) |
 | Cache Energy | Embedded Hardware & Controls Engineering Intern | Oct 15, 2026 03:57 PM CST | [Apply](https://researchpark.illinois.edu/job/embedded-hardware-controls-engineering-intern/) |
 | AGCO | Business Intelligence Intern – Spring 2027 | Oct 15, 2026 01:00 PM CST | [Apply](https://researchpark.illinois.edu/job/business-intelligence-intern-spring-2027/) |
 | AGCO | AI and Data Science Intern – Spring 2027 | Oct 15, 2026 12:52 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-and-data-science/) |
@@ -39,7 +46,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 25 postings)
+### Job Posting Times (Based on 32 postings)
 
 ```
 Jobs
@@ -49,9 +56,9 @@ Jobs
  10 AM │███████████ 2
  11 AM │██████████████████████ 4
  12 PM │███████████ 2
-  1 PM │██████████████████████ 4
-  2 PM │█████ 1
-  3 PM │█████ 1
+  1 PM │██████████████████████████████████ 6
+  2 PM │███████████ 2
+  3 PM │████████████████████████████ 5
   5 PM │█████ 1
        └────────────────────────────────────────
         0                                       7
