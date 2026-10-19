@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49628",
+    "company": "MSA",
+    "position": "Water Engineering Intern (2027)",
+    "link": "https://researchpark.illinois.edu/job/water-engineering-intern-2027/",
+    "posted_date": "Mon, 19 Oct 2026 20:47:23 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      47,
+      23,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T23:56:42.822077",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49626",
+    "company": "MSA",
+    "position": "Structural Engineering Intern",
+    "link": "https://researchpark.illinois.edu/job/structural-engineering-intern/",
+    "posted_date": "Mon, 19 Oct 2026 20:45:59 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      45,
+      59,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T23:56:42.822084",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Structural Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49624",
+    "company": "MSA",
+    "position": "Public Works Engineering Intern (2027)",
+    "link": "https://researchpark.illinois.edu/job/public-works-engineering-intern-2027/",
+    "posted_date": "Mon, 19 Oct 2026 20:43:45 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      19,
+      20,
+      43,
+      45,
+      0,
+      292,
+      0
+    ],
+    "discovered_date": "2026-10-19T23:56:42.822086",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Civil Engineering",
+        "Environmental Engineering"
+      ],
+      "job_type": "internship",
+      "work_mode": "in-person",
+      "duration": "Summer 2027"
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49622",
     "company": "MSA",
     "position": "Senior Project Engineer (Water/Wastewater)",
@@ -834,7 +933,7 @@
   {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48377",
     "company": "DOW",
-    "position": "Data Engineer / Data Platform Engineer Internship Spring 2026",
+    "position": "Data Engineer / Data Platform Engineer Internship Spring 2027",
     "link": "https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-spring-2027/",
     "posted_date": "Mon, 05 Oct 2026 18:22:38 +0000",
     "published_parsed": [
