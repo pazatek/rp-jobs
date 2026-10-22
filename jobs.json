@@ -771,36 +771,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49535",
-    "company": "Dow",
-    "position": "Machine Learning Engineer",
-    "link": "https://researchpark.illinois.edu/job/dow-machine-learning-engineer/",
-    "posted_date": "Wed, 07 Oct 2026 18:37:58 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      7,
-      18,
-      37,
-      58,
-      2,
-      280,
-      0
-    ],
-    "discovered_date": "2026-10-07T20:42:43.397765",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "full-time",
-      "work_mode": "in-person",
-      "duration": null
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49525",
     "company": "John Deere",
     "position": "Part-Time Student \u2013 Software Engineer \u2013 Data",
@@ -958,44 +928,6 @@
       "job_type": "full-time",
       "work_mode": "hybrid",
       "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=48377",
-    "company": "DOW",
-    "position": "Data Engineer / Data Platform Engineer Internship Spring 2027",
-    "link": "https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-spring-2027/",
-    "posted_date": "Mon, 05 Oct 2026 18:22:38 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      5,
-      18,
-      22,
-      38,
-      0,
-      278,
-      0
-    ],
-    "discovered_date": "2026-10-05T23:04:28.781306",
-    "badges": {
-      "min_gpa": "3.0",
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Junior",
-        "Senior"
-      ],
-      "majors": [
-        "Computer Science",
-        "Computer Information Systems",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "job_type": "internship",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
     }
   },
   {
