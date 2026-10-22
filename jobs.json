@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49646",
+    "company": "N/A",
+    "position": "",
+    "link": "https://researchpark.illinois.edu/job/49646/",
+    "posted_date": "Thu, 22 Oct 2026 20:08:19 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      22,
+      20,
+      8,
+      19,
+      3,
+      295,
+      0
+    ],
+    "discovered_date": "2026-10-22T21:37:00.859769",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": null,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": "hybrid",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49632",
     "company": "University of Illinois Research Park/EnterpriseWorks",
     "position": "Event Support & Operations Associate (Part- or Full-Time)",

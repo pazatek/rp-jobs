@@ -4,12 +4,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 22, 2026 at 01:10 PM CST | **Total:** 34
+**Updated:** October 22, 2026 at 04:37 PM CST | **Total:** 35
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| N/A |  | Oct 22, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/49646/) |
 | University of Illinois Research Park/EnterpriseWorks | Event Support & Operations Associate (Part- or Full-Time) | Oct 20, 2026 09:16 AM CST | [Apply](https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/) |
 | MSA | Water Engineering Intern (2027) | Oct 19, 2026 03:47 PM CST | [Apply](https://researchpark.illinois.edu/job/water-engineering-intern-2027/) |
 | MSA | Structural Engineering Intern | Oct 19, 2026 03:45 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineering-intern/) |
@@ -48,22 +49,22 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 34 postings)
+### Job Posting Times (Based on 35 postings)
 
 ```
 Jobs
 
-  8 AM │███████████████ 3
-  9 AM │████████████████████████████████████████ 8
- 10 AM │██████████ 2
- 11 AM │████████████████████ 4
- 12 PM │██████████ 2
-  1 PM │████████████████████ 4
-  2 PM │██████████ 2
-  3 PM │████████████████████████████████████████ 8
-  5 PM │█████ 1
+  8 AM │█████████████ 3
+  9 AM │███████████████████████████████████ 8
+ 10 AM │████████ 2
+ 11 AM │█████████████████ 4
+ 12 PM │████████ 2
+  1 PM │█████████████████ 4
+  2 PM │████████ 2
+  3 PM │████████████████████████████████████████ 9
+  5 PM │████ 1
        └────────────────────────────────────────
-        0                                       8
+        0                                       9
 ```
 
 
