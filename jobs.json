@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49632",
+    "company": "University of Illinois Research Park/EnterpriseWorks",
+    "position": "Event Support & Operations Associate",
+    "link": "https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/",
+    "posted_date": "Fri, 30 Oct 2026 21:21:34 +0000",
+    "published_parsed": [
+      2026,
+      10,
+      30,
+      21,
+      21,
+      34,
+      4,
+      303,
+      0
+    ],
+    "discovered_date": "2026-10-20T18:04:10.368190",
+    "badges": {
+      "min_gpa": null,
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "part-time",
+      "work_mode": "in-person",
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49646",
     "company": "Applied Pavement Technology",
     "position": "Graphic Designer",
@@ -26,36 +56,6 @@
       "majors": [],
       "job_type": "full-time",
       "work_mode": "hybrid",
-      "duration": null
-    }
-  },
-  {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49632",
-    "company": "University of Illinois Research Park/EnterpriseWorks",
-    "position": "Event Support & Operations Associate (Part- or Full-Time)",
-    "link": "https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/",
-    "posted_date": "Tue, 20 Oct 2026 14:16:41 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      20,
-      14,
-      16,
-      41,
-      1,
-      293,
-      0
-    ],
-    "discovered_date": "2026-10-20T18:04:10.368190",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": false,
-      "cpt_opt_required": false,
-      "uiuc_only": false,
-      "class_years": [],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "in-person",
       "duration": null
     }
   },

@@ -4,14 +4,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 30, 2026 at 02:52 PM CST | **Total:** 34
+**Updated:** October 30, 2026 at 06:30 PM CST | **Total:** 34
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| University of Illinois Research Park/EnterpriseWorks | Event Support & Operations Associate | Oct 30, 2026 04:21 PM CST | [Apply](https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/) |
 | Applied Pavement Technology | Graphic Designer | Oct 22, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/49646/) |
-| University of Illinois Research Park/EnterpriseWorks | Event Support & Operations Associate (Part- or Full-Time) | Oct 20, 2026 09:16 AM CST | [Apply](https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/) |
 | MSA | Water Engineering Intern (2027) | Oct 19, 2026 03:47 PM CST | [Apply](https://researchpark.illinois.edu/job/water-engineering-intern-2027/) |
 | MSA | Structural Engineering Intern | Oct 19, 2026 03:45 PM CST | [Apply](https://researchpark.illinois.edu/job/structural-engineering-intern/) |
 | MSA | Public Works Engineering Intern (2027) | Oct 19, 2026 03:43 PM CST | [Apply](https://researchpark.illinois.edu/job/public-works-engineering-intern-2027/) |
@@ -54,13 +54,14 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 Jobs
 
   8 AM │█████████████ 3
-  9 AM │███████████████████████████████████ 8
+  9 AM │███████████████████████████████ 7
  10 AM │████████ 2
  11 AM │█████████████████ 4
  12 PM │████████ 2
   1 PM │█████████████ 3
   2 PM │████████ 2
   3 PM │████████████████████████████████████████ 9
+  4 PM │████ 1
   5 PM │████ 1
        └────────────────────────────────────────
         0                                       9
