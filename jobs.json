@@ -323,41 +323,6 @@
     }
   },
   {
-    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49602",
-    "company": "The University of Illinois Office of the Vice Chancellor for Research and Innovation",
-    "position": "Illinois Social Media Research Ambassadors 2026",
-    "link": "https://researchpark.illinois.edu/job/illinois-social-media-research-ambassadors-2026/",
-    "posted_date": "Mon, 19 Oct 2026 18:09:28 +0000",
-    "published_parsed": [
-      2026,
-      10,
-      19,
-      18,
-      9,
-      28,
-      0,
-      292,
-      0
-    ],
-    "discovered_date": "2026-10-19T20:40:29.992088",
-    "badges": {
-      "min_gpa": null,
-      "visa_sponsorship": null,
-      "cpt_opt_required": false,
-      "uiuc_only": true,
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "majors": [],
-      "job_type": "part-time",
-      "work_mode": "in-person",
-      "duration": "Spring 2026"
-    }
-  },
-  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49600",
     "company": "Rivian",
     "position": "UIUC Research Park Intern \u2013 Low Voltage Electronics",
