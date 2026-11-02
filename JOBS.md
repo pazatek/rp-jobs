@@ -4,7 +4,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** October 30, 2026 at 06:30 PM CST | **Total:** 34
+**Updated:** November 02, 2026 at 11:58 AM CST | **Total:** 32
 
 ---
 
@@ -40,15 +40,13 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 | PAR Technology | Software Engineer | Oct 06, 2026 10:31 AM CST | [Apply](https://researchpark.illinois.edu/job/par-software-engineer-2/) |
 | John Deere | Part-Time Student – UX Research | Oct 02, 2026 08:30 AM CST | [Apply](https://researchpark.illinois.edu/job/john-deere-champaign-il-8-part-time-student-ux-research/) |
 | John Deere | Part-Time Student – Software Engineer | Oct 02, 2026 08:26 AM CST | [Apply](https://researchpark.illinois.edu/job/john-deere-champaign-il-8-part-time-student-software-engineer/) |
-| Philowave | Hardware/FPGA Engineer | Sep 24, 2026 05:28 PM CST | [Apply](https://researchpark.illinois.edu/job/hardware-fpga-engineer-full-time/) |
-| Epivara | Junior Animal Scientist | Sep 08, 2026 01:29 PM CST | [Apply](https://researchpark.illinois.edu/job/junior-animal-scientist/) |
 | Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Aug 20, 2026 10:30 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-engineering-corporate-parallel-co-op-program/) |
 | Caterpillar | 2027 Summer Corporate Intern – Engineering | Aug 20, 2026 09:53 AM CST | [Apply](https://researchpark.illinois.edu/job/2027-summer-corporate-intern-engineering/) |
 
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 34 postings)
+### Job Posting Times (Based on 32 postings)
 
 ```
 Jobs
@@ -58,11 +56,10 @@ Jobs
  10 AM │████████ 2
  11 AM │█████████████████ 4
  12 PM │████████ 2
-  1 PM │█████████████ 3
+  1 PM │████████ 2
   2 PM │████████ 2
   3 PM │████████████████████████████████████████ 9
   4 PM │████ 1
-  5 PM │████ 1
        └────────────────────────────────────────
         0                                       9
 ```
