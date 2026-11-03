@@ -4,12 +4,17 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 > **Unofficial:** independently created and maintained; not an official University of Illinois website.
 
-**Updated:** November 02, 2026 at 11:58 AM CST | **Total:** 32
+**Updated:** November 02, 2026 at 06:53 PM CST | **Total:** 37
 
 ---
 
 | Company | Position | Posted | Link |
 | ------- | -------- | ------ | ---- |
+| Neptune North | AI Engineer | Nov 02, 2026 01:49 PM CST | [Apply](https://researchpark.illinois.edu/job/ai-engineer/) |
+| Neptune North | Software Developer | Nov 02, 2026 01:46 PM CST | [Apply](https://researchpark.illinois.edu/job/software-developer-2/) |
+| Neptune North | Data Engineer | Nov 02, 2026 01:38 PM CST | [Apply](https://researchpark.illinois.edu/job/data-engineer-2/) |
+| Neptune North | Test Automation Engineer | Nov 02, 2026 01:25 PM CST | [Apply](https://researchpark.illinois.edu/job/test-automation-engineer-copy/) |
+| Neptune North | Calypso Developer | Nov 02, 2026 01:18 PM CST | [Apply](https://researchpark.illinois.edu/job/calypso-developer/) |
 | University of Illinois Research Park/EnterpriseWorks | Event Support & Operations Associate | Oct 30, 2026 04:21 PM CST | [Apply](https://researchpark.illinois.edu/job/event-support-operations-associate-part-or-full-time/) |
 | Applied Pavement Technology | Graphic Designer | Oct 22, 2026 03:08 PM CST | [Apply](https://researchpark.illinois.edu/job/49646/) |
 | MSA | Water Engineering Intern (2027) | Oct 19, 2026 03:47 PM CST | [Apply](https://researchpark.illinois.edu/job/water-engineering-intern-2027/) |
@@ -46,7 +51,7 @@ Auto-updated job listings from the [University of Illinois Research Park](https:
 
 ## Posting Time Distribution
 
-### Job Posting Times (Based on 32 postings)
+### Job Posting Times (Based on 37 postings)
 
 ```
 Jobs
@@ -56,7 +61,7 @@ Jobs
  10 AM │████████ 2
  11 AM │█████████████████ 4
  12 PM │████████ 2
-  1 PM │████████ 2
+  1 PM │███████████████████████████████ 7
   2 PM │████████ 2
   3 PM │████████████████████████████████████████ 9
   4 PM │████ 1

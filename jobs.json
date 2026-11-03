@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49786",
+    "company": "Neptune North",
+    "position": "AI Engineer",
+    "link": "https://researchpark.illinois.edu/job/ai-engineer/",
+    "posted_date": "Mon, 02 Nov 2026 19:49:29 +0000",
+    "published_parsed": [
+      2026,
+      11,
+      2,
+      19,
+      49,
+      29,
+      0,
+      306,
+      0
+    ],
+    "discovered_date": "2026-11-03T00:52:43.337773",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49783",
+    "company": "Neptune North",
+    "position": "Software Developer",
+    "link": "https://researchpark.illinois.edu/job/software-developer-2/",
+    "posted_date": "Mon, 02 Nov 2026 19:46:51 +0000",
+    "published_parsed": [
+      2026,
+      11,
+      2,
+      19,
+      46,
+      51,
+      0,
+      306,
+      0
+    ],
+    "discovered_date": "2026-11-03T00:52:43.337782",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49782",
+    "company": "Neptune North",
+    "position": "Data Engineer",
+    "link": "https://researchpark.illinois.edu/job/data-engineer-2/",
+    "posted_date": "Mon, 02 Nov 2026 19:38:27 +0000",
+    "published_parsed": [
+      2026,
+      11,
+      2,
+      19,
+      38,
+      27,
+      0,
+      306,
+      0
+    ],
+    "discovered_date": "2026-11-03T00:52:43.337783",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49778",
+    "company": "Neptune North",
+    "position": "Test Automation Engineer",
+    "link": "https://researchpark.illinois.edu/job/test-automation-engineer-copy/",
+    "posted_date": "Mon, 02 Nov 2026 19:25:59 +0000",
+    "published_parsed": [
+      2026,
+      11,
+      2,
+      19,
+      25,
+      59,
+      0,
+      306,
+      0
+    ],
+    "discovered_date": "2026-11-03T00:52:43.337784",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
+    "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49776",
+    "company": "Neptune North",
+    "position": "Calypso Developer",
+    "link": "https://researchpark.illinois.edu/job/calypso-developer/",
+    "posted_date": "Mon, 02 Nov 2026 19:18:21 +0000",
+    "published_parsed": [
+      2026,
+      11,
+      2,
+      19,
+      18,
+      21,
+      0,
+      306,
+      0
+    ],
+    "discovered_date": "2026-11-03T00:52:43.337785",
+    "badges": {
+      "min_gpa": "3.3",
+      "visa_sponsorship": false,
+      "cpt_opt_required": false,
+      "uiuc_only": false,
+      "class_years": [],
+      "majors": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "job_type": "full-time",
+      "work_mode": null,
+      "duration": null
+    }
+  },
+  {
     "id": "https://researchpark.illinois.edu/?post_type=job_listing&p=49632",
     "company": "University of Illinois Research Park/EnterpriseWorks",
     "position": "Event Support & Operations Associate",
